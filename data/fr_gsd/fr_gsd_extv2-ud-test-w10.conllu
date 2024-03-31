@@ -1,0 +1,779 @@
+!# {"sid": 5, "sid_uuid": "c0988755cdc41b1fb179eb584e21e228fb642c3003591a1a32ab578749507989", "raw_text": "Les sp\u00e9culations autour du de le match sont \u00e0 leur paroxysme ."}
+1	Les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	{"ud": "2"}	det	_	wordform=les
+2	spéculations	spéculation	NOUN	_	Gender=Fem|Number=Plur	{"ud": "10"}	nsubj	_	_
+3	autour	autour	ADV	_	_	{"ud": "2"}	advmod	_	_
+4-5	du	_	_	_	_	{"ud": "_"}	_	_	_
+4	de	de	ADP	_	_	{"ud": "6"}	case	_	_
+5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	{"ud": "6"}	det	_	_
+6	match	match	NOUN	_	Gender=Masc|Number=Sing	{"ud": "3"}	obl:arg	_	_
+7	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	{"ud": "10"}	cop	_	_
+8	à	à	ADP	_	_	{"ud": "10"}	case	_	_
+9	leur	son	DET	_	Number=Sing|Number[psor]=Plur|Person[psor]=3|Poss=Yes|PronType=Prs	{"ud": "10"}	det	_	_
+10	paroxysme	paroxysme	NOUN	_	Gender=Masc|Number=Sing	{"ud": "0"}	root	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	{"ud": "10"}	punct	_	_
+
+!# {"sid": 17, "sid_uuid": "383b210da01b379d143d15cc096e13b1b2fa2b245f068f9aa93501377d265e26", "raw_text": "Je suis d\u00e9chir\u00e9e ."}
+1	Je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	{"ud": "3"}	nsubj	_	wordform=je
+2	suis	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	{"ud": "3"}	cop	_	_
+3	déchirée	déchiré	ADJ	_	Gender=Fem|Number=Sing	{"ud": "0"}	root	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	{"ud": "3"}	punct	_	_
+
+!# {"sid": 22, "sid_uuid": "493cef576bef5c2ecd46f0439f456eedd7f8909039e1a5f9c91babaed18f2f26", "raw_text": "promulgation de loi \u00ab anti-h\u00e9r\u00e9tiques \u00bb ."}
+1	promulgation	promulgation	NOUN	_	Gender=Fem|Number=Sing	{"ud": "0"}	root	_	_
+2	de	de	ADP	_	_	{"ud": "3"}	case	_	_
+3	loi	loi	NOUN	_	Gender=Fem|Number=Sing|Typo=Yes	{"ud": "1"}	nmod	_	CorrectForm=lois|CorrectNumber=Plur
+4	«	«	PUNCT	_	_	{"ud": "5"}	punct	_	_
+5	anti-hérétiques	anti-hérétique	ADJ	_	Gender=Fem|Number=Plur	{"ud": "3"}	amod	_	_
+6	»	»	PUNCT	_	_	{"ud": "5"}	punct	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	{"ud": "1"}	punct	_	_
+
+!# {"sid": 25, "sid_uuid": "a45f8cd93229c078a5b9b3f899200875737d11fdbf709fd2efed76a524913e68", "raw_text": "Les lendemains de lynchage sont pleins d' incertitudes ."}
+1	Les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	{"ud": "2"}	det	_	wordform=les
+2	lendemains	lendemain	NOUN	_	Gender=Masc|Number=Plur	{"ud": "6"}	nsubj	_	_
+3	de	de	ADP	_	_	{"ud": "4"}	case	_	_
+4	lynchage	lynchage	NOUN	_	Gender=Masc|Number=Sing	{"ud": "2"}	nmod	_	_
+5	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	{"ud": "6"}	cop	_	_
+6	pleins	plein	ADJ	_	Gender=Masc|Number=Plur	{"ud": "0"}	root	_	_
+7	d'	de	ADP	_	_	{"ud": "8"}	case	_	SpaceAfter=No
+8	incertitudes	incertitude	NOUN	_	Gender=Fem|Number=Plur	{"ud": "6"}	obl:arg	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	{"ud": "6"}	punct	_	_
+
+!# {"sid": 28, "sid_uuid": "e9054bdf4f2ee9be6dae302a939e1337764f0300f200def549607b6c6f3a6647", "raw_text": "Il y a un an naissait Gdem Izik ."}
+1	Il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	{"ud": "5"}	case	_	ExtPos=ADP|Idiom=Yes|wordform=il
+2	y	y	PRON	_	Person=3|PronType=Prs	{"ud": "1"}	fixed	_	InIdiom=Yes
+3	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	{"ud": "1"}	fixed	_	InIdiom=Yes
+4	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	{"ud": "5"}	det	_	_
+5	an	an	NOUN	_	Gender=Masc|Number=Sing	{"ud": "6"}	obl:mod	_	_
+6	naissait	naître	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	{"ud": "0"}	root	_	_
+7	Gdem	Gdem	PROPN	_	_	{"ud": "6"}	nsubj	_	_
+8	Izik	Izik	PROPN	_	_	{"ud": "7"}	flat:name	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	{"ud": "6"}	punct	_	_
+
+!# {"sid": 29, "sid_uuid": "5e0c578239b32fd862510d61e16f8a49e23a88217bc6357a0b84150874be4e50", "raw_text": "iii ) La taxe fonci\u00e8re ;"}
+1	iii	iii	NUM	_	Number=Plur	{"ud": "4"}	parataxis	_	SpaceAfter=No
+2	)	)	PUNCT	_	_	{"ud": "1"}	punct	_	_
+3	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	{"ud": "4"}	det	_	wordform=la
+4	taxe	taxe	NOUN	_	Gender=Fem|Number=Sing	{"ud": "0"}	root	_	_
+5	foncière	foncier	ADJ	_	Gender=Fem|Number=Sing	{"ud": "4"}	amod	_	_
+6	;	;	PUNCT	_	_	{"ud": "4"}	punct	_	_
+
+!# {"sid": 30, "sid_uuid": "1d0c7d10ceee5b3dff91be349b1e88881ba76643bb0371588120c00ef2134f6b", "raw_text": "Il est 20 h 45 en territoire alg\u00e9rien ."}
+1	Il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	{"ud": "4"}	expl:subj	_	wordform=il
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	{"ud": "4"}	cop	_	_
+3	20	20	NUM	_	Number=Plur	{"ud": "4"}	nummod	_	SpaceAfter=No
+4	h	h	NOUN	_	Gender=Masc|Number=Plur	{"ud": "0"}	root	_	SpaceAfter=No
+5	45	45	NUM	_	Number=Plur	{"ud": "4"}	nmod	_	_
+6	en	en	ADP	_	_	{"ud": "7"}	case	_	_
+7	territoire	territoire	NOUN	_	Gender=Masc|Number=Sing	{"ud": "4"}	obl:mod	_	_
+8	algérien	algérien	ADJ	_	Gender=Masc|Number=Sing	{"ud": "7"}	amod	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	{"ud": "4"}	punct	_	_
+
+!# {"sid": 34, "sid_uuid": "33acf4ebc342a297f23254fa01a4f344b68032e299e2c537e8d275bd365c132c", "raw_text": "Son destin est -il la Poussi\u00e8re ?"}
+1	Son	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	{"ud": "2"}	det	_	wordform=son
+2	destin	destin	NOUN	_	Gender=Masc|Number=Sing	{"ud": "6"}	nsubj	_	_
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	{"ud": "6"}	cop	_	SpaceAfter=No
+4	-il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	{"ud": "6"}	expl:subj	_	wordform=il
+5	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	{"ud": "6"}	det	_	_
+6	Poussière	poussière	NOUN	_	Gender=Fem|Number=Sing	{"ud": "0"}	root	_	wordform=poussière
+7	?	?	PUNCT	_	_	{"ud": "6"}	punct	_	_
+
+!# {"sid": 35, "sid_uuid": "35ce7a070d876aa0cd18260ac438ed09c6be34d13d68f19229920f704f0009b5", "raw_text": "C' est un sourire de Dieu ."}
+1	C'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	{"ud": "4"}	nsubj	_	SpaceAfter=No|wordform=c'
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	{"ud": "4"}	cop	_	_
+3	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	{"ud": "4"}	det	_	_
+4	sourire	sourire	NOUN	_	Gender=Masc|Number=Sing	{"ud": "0"}	root	_	_
+5	de	de	ADP	_	_	{"ud": "6"}	case	_	_
+6	Dieu	Dieu	PROPN	_	_	{"ud": "4"}	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	{"ud": "4"}	punct	_	_
+
+!# {"sid": 38, "sid_uuid": "165f351253083c07026bb8e3ea1d6dcae5c062b1d373ab6d0fe6eb6cfaf303b9", "raw_text": "Tout cela est pr\u00e9sent dans sa passion ."}
+1	Tout	tout	ADJ	_	Gender=Masc|Number=Sing	{"ud": "2"}	amod	_	wordform=tout
+2	cela	cela	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	{"ud": "4"}	nsubj	_	_
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	{"ud": "4"}	cop	_	_
+4	présent	présent	ADJ	_	Gender=Masc|Number=Sing	{"ud": "0"}	root	_	_
+5	dans	dans	ADP	_	_	{"ud": "7"}	case	_	_
+6	sa	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	{"ud": "7"}	det	_	_
+7	passion	passion	NOUN	_	Gender=Fem|Number=Sing	{"ud": "4"}	obl:mod	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	{"ud": "4"}	punct	_	_
+
+!# {"sid": 47, "sid_uuid": "638ec3fb84aaf7819b65b0a84cb3a192d800f45247c1b8f5824f069092aff460", "raw_text": "C' est simple , il y a de tout ."}
+1	C'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	{"ud": "3"}	nsubj	_	SpaceAfter=No|wordform=c'
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	{"ud": "3"}	cop	_	_
+3	simple	simple	ADJ	_	Gender=Masc|Number=Sing	{"ud": "0"}	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	{"ud": "7"}	punct	_	_
+5	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	{"ud": "7"}	expl:subj	_	_
+6	y	y	PRON	_	Person=3|PronType=Prs	{"ud": "7"}	expl	_	_
+7	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	{"ud": "3"}	parataxis	_	_
+8	de	un	DET	_	Definite=Ind|PronType=Art	{"ud": "9"}	det	_	_
+9	tout	tout	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	{"ud": "7"}	obj	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	{"ud": "3"}	punct	_	_
+
+!# {"sid": 51, "sid_uuid": "f92ab558c94cb24982d275e488dc196268c9436242d77f5b42f4177844aaa4d4", "raw_text": "Arr\u00eatez la lecture , si cela vous suffit pour aujourd'hui ."}
+1	Arrêtez	arrêter	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	{"ud": "0"}	root	_	wordform=arrêtez
+2	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	{"ud": "3"}	det	_	_
+3	lecture	lecture	NOUN	_	Gender=Fem|Number=Sing	{"ud": "1"}	obj	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	{"ud": "8"}	punct	_	_
+5	si	si	SCONJ	_	_	{"ud": "8"}	mark	_	_
+6	cela	cela	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	{"ud": "8"}	nsubj	_	_
+7	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	{"ud": "8"}	iobj	_	_
+8	suffit	suffire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	{"ud": "1"}	advcl	_	_
+9	pour	pour	ADP	_	_	{"ud": "10"}	case	_	_
+10	aujourd'hui	aujourd'hui	ADV	_	_	{"ud": "8"}	advmod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	{"ud": "1"}	punct	_	_
+
+!# {"sid": 53, "sid_uuid": "24517a75edd35310b7e447aad5334e858af564b24d165b540d4ebae09eaf7c5e", "raw_text": "19 h 15 ."}
+1	19	19	NUM	_	Number=Plur	{"ud": "2"}	nummod	_	SpaceAfter=No
+2	h	h	NOUN	_	Gender=Masc|Number=Plur	{"ud": "0"}	root	_	SpaceAfter=No
+3	15	15	NUM	_	Number=Plur	{"ud": "2"}	nmod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	{"ud": "2"}	punct	_	_
+
+!# {"sid": 56, "sid_uuid": "bc4436a56ec8045f27e29195910156588aca5974db80f144a363a9c781ce60c8", "raw_text": "Dans les sixties , ce n' \u00e9tait pas comme aujourd'hui ."}
+1	Dans	dans	ADP	_	_	{"ud": "3"}	case	_	wordform=dans
+2	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	{"ud": "3"}	det	_	_
+3	sixties	sixties	NOUN	_	Gender=Fem|Number=Plur	{"ud": "7"}	obl:mod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	{"ud": "3"}	punct	_	_
+5	ce	ce	PRON	_	Gender=Masc|Person=3|PronType=Dem	{"ud": "7"}	nsubj	_	_
+6	n'	ne	ADV	_	Polarity=Neg	{"ud": "7"}	advmod	_	SpaceAfter=No
+7	était	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	{"ud": "0"}	root	_	_
+8	pas	pas	ADV	_	Polarity=Neg	{"ud": "7"}	advmod	_	_
+9	comme	comme	SCONJ	_	_	{"ud": "10"}	mark	_	_
+10	aujourd'hui	aujourd'hui	ADV	_	_	{"ud": "7"}	xcomp	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	{"ud": "7"}	punct	_	_
+
+!# {"sid": 60, "sid_uuid": "b123c36feb35269842b6c49a8cd979f6b6776667e66f5f292c221d3ac24d219b", "raw_text": "Qui a donn\u00e9 l' exemple ?"}
+1	Qui	qui	PRON	_	Person=3|PronType=Int	{"ud": "3"}	nsubj	_	wordform=qui
+2	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	{"ud": "3"}	aux:tense	_	_
+3	donné	donner	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	{"ud": "0"}	root	_	_
+4	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	{"ud": "5"}	det	_	SpaceAfter=No
+5	exemple	exemple	NOUN	_	Gender=Masc|Number=Sing	{"ud": "3"}	obj	_	_
+6	?	?	PUNCT	_	_	{"ud": "3"}	punct	_	_
+
+!# {"sid": 68, "sid_uuid": "e678f460b6db6d0db8ddcb649d75f9506e78e9fe98f10afb43dc15032c3bb889", "raw_text": "Vous m' accusez de \" subjectivisme \" ."}
+1	Vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	{"ud": "3"}	nsubj	_	wordform=vous
+2	m'	le	PRON	_	Number=Sing|Person=1|PronType=Prs	{"ud": "3"}	obj	_	SpaceAfter=No
+3	accusez	accuser	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	{"ud": "0"}	root	_	_
+4	de	de	ADP	_	_	{"ud": "6"}	case	_	_
+5	"	"	PUNCT	_	_	{"ud": "6"}	punct	_	SpaceAfter=No
+6	subjectivisme	subjectivisme	NOUN	_	Gender=Masc|Number=Sing	{"ud": "3"}	obl:arg	_	SpaceAfter=No
+7	"	"	PUNCT	_	_	{"ud": "6"}	punct	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	{"ud": "3"}	punct	_	_
+
+!# {"sid": 72, "sid_uuid": "05b025097eee97378036988a218cf7178804481f74afe6d94bc130c5cf8239f3", "raw_text": "Que dit l' Eglise sur ce point d\u00e9licat ?"}
+1	Que	que	PRON	_	Person=3|PronType=Int	{"ud": "2"}	obj	_	wordform=que
+2	dit	dire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	{"ud": "0"}	root	_	_
+3	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	{"ud": "4"}	det	_	SpaceAfter=No
+4	Eglise	Eglise	PROPN	_	Number=Sing	{"ud": "2"}	nsubj	_	_
+5	sur	sur	ADP	_	_	{"ud": "7"}	case	_	_
+6	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	{"ud": "7"}	det	_	_
+7	point	point	NOUN	_	Gender=Masc|Number=Sing	{"ud": "2"}	obl:mod	_	_
+8	délicat	délicat	ADJ	_	Gender=Masc|Number=Sing	{"ud": "7"}	amod	_	_
+9	?	?	PUNCT	_	_	{"ud": "2"}	punct	_	_
+
+!# {"sid": 73, "sid_uuid": "26896570e36ef0a18cd091f041da4db2f00cf54491a8aa17ad0dc37e5a66112d", "raw_text": "Mais elle guette , oui , elle guette ."}
+1	Mais	mais	CCONJ	_	_	{"ud": "3"}	cc	_	wordform=mais
+2	elle	il	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	{"ud": "3"}	nsubj	_	_
+3	guette	guetter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	{"ud": "0"}	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	{"ud": "5"}	punct	_	_
+5	oui	oui	INTJ	_	_	{"ud": "3"}	discourse	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	{"ud": "8"}	punct	_	_
+7	elle	il	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	{"ud": "8"}	nsubj	_	_
+8	guette	guetter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	{"ud": "3"}	parataxis	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	{"ud": "3"}	punct	_	_
+
+!# {"sid": 86, "sid_uuid": "c12e27e9c5ee4809e48c033cffcc0122b2c2f4a196cf8a9cfb17200439cad4ff", "raw_text": "Il me l' a dit \u00e0 la Haye \u00bb ."}
+1	Il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	{"ud": "5"}	nsubj	_	wordform=il
+2	me	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	{"ud": "5"}	iobj	_	_
+3	l'	le	PRON	_	Number=Sing|Person=3|PronType=Prs	{"ud": "5"}	obj	_	SpaceAfter=No
+4	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	{"ud": "5"}	aux:tense	_	_
+5	dit	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	{"ud": "0"}	root	_	_
+6	à	à	ADP	_	_	{"ud": "8"}	case	_	_
+7	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	{"ud": "8"}	det	_	_
+8	Haye	Haye	PROPN	_	Gender=Fem|Number=Sing	{"ud": "5"}	obl:mod	_	_
+9	»	»	PUNCT	_	_	{"ud": "5"}	punct	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	{"ud": "5"}	punct	_	_
+
+!# {"sid": 90, "sid_uuid": "416936b6c2678e47a20719afff74bf89342035965533e6cc88936f6859088447", "raw_text": "Le ras-le-bol fut g\u00e9n\u00e9ral , la mobilisation in\u00e9dite ."}
+1	Le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	{"ud": "2"}	det	_	wordform=le
+2	ras-le-bol	ras-le-bol	NOUN	_	Gender=Masc|Number=Sing	{"ud": "4"}	nsubj	_	_
+3	fut	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	{"ud": "4"}	cop	_	_
+4	général	général	ADJ	_	Gender=Masc|Number=Sing	{"ud": "0"}	root	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	{"ud": "8"}	punct	_	_
+6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	{"ud": "7"}	det	_	_
+7	mobilisation	mobilisation	NOUN	_	Gender=Fem|Number=Sing	{"ud": "8"}	nsubj	_	_
+8	inédite	inédit	ADJ	_	Gender=Fem|Number=Sing	{"ud": "4"}	conj	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	{"ud": "4"}	punct	_	_
+
+!# {"sid": 96, "sid_uuid": "26c6fb0989c1eb382e0f3bd11047afa8bf1842fe33bf9003404962e584065c75", "raw_text": "Il n' y en a point ."}
+1	Il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	{"ud": "5"}	expl:subj	_	wordform=il
+2	n'	ne	ADV	_	Polarity=Neg	{"ud": "5"}	advmod	_	SpaceAfter=No
+3	y	y	PRON	_	Person=3|PronType=Prs	{"ud": "5"}	expl	_	_
+4	en	en	PRON	_	Person=3|PronType=Prs	{"ud": "5"}	obj	_	_
+5	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	{"ud": "0"}	root	_	_
+6	point	point	ADV	_	Polarity=Neg	{"ud": "5"}	advmod	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	{"ud": "5"}	punct	_	_
+
+!# {"sid": 104, "sid_uuid": "fcec68b20d117f774d7c07b4b16e590f0f6c5a4a0457063f05ffa3f4c46f87d6", "raw_text": "Elle se remarie et un autre fils va na\u00eetre , Serge ."}
+1	Elle	il	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	{"ud": "3"}	nsubj	_	wordform=elle
+2	se	se	PRON	_	Person=3|PronType=Prs|Reflex=Yes	{"ud": "3"}	expl:pv	_	_
+3	remarie	remarier	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	{"ud": "0"}	root	_	_
+4	et	et	CCONJ	_	_	{"ud": "8"}	cc	_	_
+5	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	{"ud": "7"}	det	_	_
+6	autre	autre	ADJ	_	Gender=Masc|Number=Sing	{"ud": "7"}	amod	_	_
+7	fils	fils	NOUN	_	Gender=Masc|Number=Sing	{"ud": "8"}	nsubj	_	_
+8	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	{"ud": "3"}	conj	_	_
+9	naître	naître	VERB	_	VerbForm=Inf	{"ud": "8"}	xcomp	_	SpaceAfter=No|Subject=SubjRaising
+10	,	,	PUNCT	_	_	{"ud": "11"}	punct	_	_
+11	Serge	Serge	PROPN	_	_	{"ud": "7"}	appos	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	{"ud": "3"}	punct	_	_
+
+!# {"sid": 107, "sid_uuid": "267679c9c8ad139011c922283b5e98e3168c1cb65028d1a1dda4c154a64496b6", "raw_text": "Cr\u00e9\u00e9 en 1999 , le show \" Mamma Mia ! \""}
+1	Créé	créer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	{"ud": "6"}	acl	_	wordform=créé
+2	en	en	ADP	_	_	{"ud": "3"}	case	_	_
+3	1999	1999	NUM	_	Number=Plur	{"ud": "1"}	obl:mod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	{"ud": "1"}	punct	_	_
+5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	{"ud": "6"}	det	_	_
+6	show	show	NOUN	_	Gender=Masc|Number=Sing	{"ud": "0"}	root	_	_
+7	"	"	PUNCT	_	_	{"ud": "8"}	punct	_	SpaceAfter=No
+8	Mamma	Mamma	PROPN	_	_	{"ud": "6"}	appos	_	_
+9	Mia	Mia	PROPN	_	_	{"ud": "8"}	nmod	_	_
+10	!	!	PUNCT	_	_	{"ud": "8"}	punct	_	SpaceAfter=No
+11	"	"	PUNCT	_	_	{"ud": "8"}	punct	_	_
+
+!# {"sid": 110, "sid_uuid": "2a6ec73a669d6ecbb252a44ed593779f4aa5481a0b9a30086a929bab927ce699", "raw_text": "Apr\u00e8s-midi libre de d\u00e9tente ( piscine ) ."}
+1	Après-midi	après-midi	NOUN	_	Gender=Masc|Number=Sing	{"ud": "0"}	root	_	wordform=après-midi
+2	libre	libre	ADJ	_	Gender=Masc|Number=Sing	{"ud": "1"}	amod	_	_
+3	de	de	ADP	_	_	{"ud": "4"}	case	_	_
+4	détente	détente	NOUN	_	Gender=Fem|Number=Sing	{"ud": "1"}	nmod	_	_
+5	(	(	PUNCT	_	_	{"ud": "6"}	punct	_	SpaceAfter=No
+6	piscine	piscine	NOUN	_	Gender=Fem|Number=Sing	{"ud": "4"}	appos	_	SpaceAfter=No
+7	)	)	PUNCT	_	_	{"ud": "6"}	punct	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	{"ud": "1"}	punct	_	_
+
+!# {"sid": 127, "sid_uuid": "e21a5d7f359f929814da43f375e82c1f11ef89aa3d6126ce5f9db95448acc222", "raw_text": "De quoi inciter \u00e0 une certaine prudence ."}
+1	De	de	ADP	_	_	{"ud": "2"}	case	_	wordform=de
+2	quoi	quoi	PRON	_	Person=3|PronType=Ind	{"ud": "3"}	obl:mod	_	_
+3	inciter	inciter	VERB	_	VerbForm=Inf	{"ud": "0"}	root	_	Subject=Generic
+4	à	à	ADP	_	_	{"ud": "7"}	case	_	_
+5	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	{"ud": "7"}	det	_	_
+6	certaine	certain	ADJ	_	Gender=Fem|Number=Sing	{"ud": "7"}	amod	_	_
+7	prudence	prudence	NOUN	_	Gender=Fem|Number=Sing	{"ud": "3"}	obl:arg	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	{"ud": "3"}	punct	_	_
+
+!# {"sid": 129, "sid_uuid": "0681dd36b738f898014d5601995f2e92aeb8b71a11ffc3f5e7bc90d2bc1246f8", "raw_text": "Pour autant , nous avions tranch\u00e9 ."}
+1	Pour	pour	ADP	_	_	{"ud": "6"}	advmod	_	ExtPos=ADV|Idiom=Yes|wordform=pour
+2	autant	autant	ADV	_	_	{"ud": "1"}	fixed	_	InIdiom=Yes|SpaceAfter=No
+3	,	,	PUNCT	_	_	{"ud": "1"}	punct	_	_
+4	nous	il	PRON	_	Number=Plur|Person=1|PronType=Prs	{"ud": "6"}	nsubj	_	_
+5	avions	avoir	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	{"ud": "6"}	aux:tense	_	_
+6	tranché	trancher	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	{"ud": "0"}	root	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	{"ud": "6"}	punct	_	_
+
+!# {"sid": 135, "sid_uuid": "6b63a63cb8828c911136858a2c255bacf2b99414ce223366ef7db87dcfefd87d", "raw_text": "Retrouver notre inspiration ."}
+1	Retrouver	retrouver	VERB	_	VerbForm=Inf	{"ud": "0"}	root	_	Subject=Generic|wordform=retrouver
+2	notre	son	DET	_	Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	{"ud": "3"}	det	_	_
+3	inspiration	inspiration	NOUN	_	Gender=Fem|Number=Sing	{"ud": "1"}	obj	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	{"ud": "1"}	punct	_	_
+
+!# {"sid": 139, "sid_uuid": "4e3bf6467220a47d63f93423097380a6d651b7449c93eab105211f033c43a089", "raw_text": "C' est un caillou blanc ."}
+1	C'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	{"ud": "4"}	nsubj	_	SpaceAfter=No|wordform=c'
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	{"ud": "4"}	cop	_	_
+3	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	{"ud": "4"}	det	_	_
+4	caillou	caillou	NOUN	_	Gender=Masc|Number=Sing	{"ud": "0"}	root	_	_
+5	blanc	blanc	ADJ	_	Gender=Masc|Number=Sing	{"ud": "4"}	amod	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	{"ud": "4"}	punct	_	_
+
+!# {"sid": 147, "sid_uuid": "8b56a88733efa96cd9e3732d7cbd9f371ace265d2c3ac031bc3b19a3ccce01b8", "raw_text": "Ce dimanche 30 , \u00e0 Pleumeur-Bodou , sur le site de Cosmopolis ."}
+1	Ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	{"ud": "2"}	det	_	wordform=ce
+2	dimanche	dimanche	NOUN	_	Gender=Masc|Number=Sing	{"ud": "0"}	root	_	_
+3	30	30	NUM	_	Number=Plur	{"ud": "2"}	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	{"ud": "6"}	punct	_	_
+5	à	à	ADP	_	_	{"ud": "6"}	case	_	_
+6	Pleumeur-Bodou	Pleumeur-Bodou	PROPN	_	_	{"ud": "2"}	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	{"ud": "10"}	punct	_	_
+8	sur	sur	ADP	_	_	{"ud": "10"}	case	_	_
+9	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	{"ud": "10"}	det	_	_
+10	site	site	NOUN	_	Gender=Masc|Number=Sing	{"ud": "2"}	nmod	_	_
+11	de	de	ADP	_	_	{"ud": "12"}	case	_	_
+12	Cosmopolis	Cosmopolis	PROPN	_	_	{"ud": "10"}	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	{"ud": "2"}	punct	_	_
+
+!# {"sid": 166, "sid_uuid": "8bd86f8415802048166416fd1d3ba787c1af1adf004ded30c5a0a51cd1111c72", "raw_text": "Sur place vente de livres consacr\u00e9s \u00e0 Jean Ferrat"}
+1	Sur	sur	ADP	_	_	{"ud": "2"}	case	_	wordform=sur
+2	place	place	NOUN	_	Gender=Fem|Number=Sing	{"ud": "3"}	nmod	_	_
+3	vente	vente	NOUN	_	Gender=Fem|Number=Sing	{"ud": "0"}	root	_	_
+4	de	de	ADP	_	_	{"ud": "5"}	case	_	_
+5	livres	livre	NOUN	_	Gender=Masc|Number=Plur	{"ud": "3"}	nmod	_	_
+6	consacrés	consacrer	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	{"ud": "5"}	acl	_	_
+7	à	à	ADP	_	_	{"ud": "8"}	case	_	_
+8	Jean	Jean	PROPN	_	_	{"ud": "6"}	obl:arg	_	_
+9	Ferrat	Ferrat	PROPN	_	_	{"ud": "8"}	flat:name	_	_
+
+!# {"sid": 171, "sid_uuid": "8086a07e50e093ae2db57d2ba7cdfe123ef6dd506dba80159cdf5a79954af142", "raw_text": "\u00c7a va forc\u00e9ment me rappeler des souvenirs ."}
+1	Ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	{"ud": "2"}	nsubj	_	wordform=ça
+2	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	{"ud": "0"}	root	_	_
+3	forcément	forcément	ADV	_	_	{"ud": "2"}	advmod	_	_
+4	me	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	{"ud": "5"}	iobj	_	_
+5	rappeler	rappeler	VERB	_	VerbForm=Inf	{"ud": "2"}	xcomp	_	Subject=SubjRaising
+6	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	{"ud": "7"}	det	_	_
+7	souvenirs	souvenir	NOUN	_	Gender=Masc|Number=Plur	{"ud": "5"}	obj	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	{"ud": "2"}	punct	_	_
+
+!# {"sid": 177, "sid_uuid": "f6a6970f542d77110772fa8556ad247ba73da4b282151efe9decc42b329349f3", "raw_text": "Quel est le co\u00fbt d' un tel projet ?"}
+1	Quel	quel	ADJ	_	Gender=Masc|Number=Sing	{"ud": "0"}	root	_	wordform=quel
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	{"ud": "1"}	cop	_	_
+3	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	{"ud": "4"}	det	_	_
+4	coût	coût	NOUN	_	Gender=Masc|Number=Sing	{"ud": "1"}	nsubj	_	_
+5	d'	de	ADP	_	_	{"ud": "8"}	case	_	SpaceAfter=No
+6	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	{"ud": "8"}	det	_	_
+7	tel	tel	ADJ	_	Gender=Masc|Number=Sing	{"ud": "8"}	amod	_	_
+8	projet	projet	NOUN	_	Gender=Masc|Number=Sing	{"ud": "4"}	nmod	_	_
+9	?	?	PUNCT	_	_	{"ud": "1"}	punct	_	_
+
+!# {"sid": 180, "sid_uuid": "89c8cb7f1928ed640af2cf5369d89bb1774ae31712af5c40f5b4d6b9791b33f0", "raw_text": "Mardi midi , l' automobiliste \u00e9tait toujours en garde \u00e0 vue ."}
+1	Mardi	mardi	NOUN	_	Gender=Masc|Number=Sing	{"ud": "9"}	obl:mod	_	wordform=mardi
+2	midi	midi	NOUN	_	Gender=Masc|Number=Sing	{"ud": "1"}	nmod	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	{"ud": "1"}	punct	_	_
+4	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	{"ud": "5"}	det	_	SpaceAfter=No
+5	automobiliste	automobiliste	NOUN	_	Gender=Masc|Number=Sing	{"ud": "9"}	nsubj	_	_
+6	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	{"ud": "9"}	cop	_	_
+7	toujours	toujours	ADV	_	_	{"ud": "9"}	advmod	_	_
+8	en	en	ADP	_	_	{"ud": "9"}	case	_	_
+9	garde	garde	NOUN	_	Gender=Masc|Number=Sing	{"ud": "0"}	root	_	ExtPos=NOUN|Idiom=Yes
+10	à	à	ADP	_	_	{"ud": "9"}	fixed	_	InIdiom=Yes
+11	vue	vue	NOUN	_	Gender=Fem|Number=Sing	{"ud": "9"}	fixed	_	InIdiom=Yes|SpaceAfter=No
+12	.	.	PUNCT	_	_	{"ud": "9"}	punct	_	_
+
+!# {"sid": 183, "sid_uuid": "8d36e72d02aa3977e77359527854cf2478ada50f75cece7cc14c4a115458c2f0", "raw_text": "On a le droit \" d' \u00eatre contre \" ."}
+1	On	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	{"ud": "2"}	nsubj	_	wordform=on
+2	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	{"ud": "0"}	root	_	_
+3	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	{"ud": "4"}	det	_	_
+4	droit	droit	NOUN	_	Gender=Masc|Number=Sing	{"ud": "2"}	obj:lvc	_	_
+5	"	"	PUNCT	_	_	{"ud": "8"}	punct	_	SpaceAfter=No
+6	d'	de	ADP	_	_	{"ud": "8"}	mark	_	SpaceAfter=No
+7	être	être	AUX	_	VerbForm=Inf	{"ud": "8"}	cop	_	Subject=SubjRaising
+8	contre	contre	ADP	_	_	{"ud": "4"}	xcomp	_	SpaceAfter=No
+9	"	"	PUNCT	_	_	{"ud": "8"}	punct	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	{"ud": "2"}	punct	_	_
+
+!# {"sid": 189, "sid_uuid": "f0cb2b49e129ab630a79ecaa94d51d47446bb277b9f2bd0b807a7ca933e8e528", "raw_text": "Peut-\u00eatre serait -il plus lib\u00e9rateur de crier bien fort : OUACHE ! ..."}
+1	Peut-être	peut-être	ADV	_	_	{"ud": "5"}	advmod	_	wordform=peut-être
+2	serait	être	AUX	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	{"ud": "5"}	cop	_	SpaceAfter=No
+3	-il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	{"ud": "5"}	expl:subj	_	wordform=il
+4	plus	plus	ADV	_	_	{"ud": "5"}	advmod	_	_
+5	libérateur	libérateur	ADJ	_	Gender=Masc|Number=Sing	{"ud": "0"}	root	_	_
+6	de	de	ADP	_	_	{"ud": "7"}	mark	_	_
+7	crier	crier	VERB	_	VerbForm=Inf	{"ud": "5"}	csubj	_	Subject=Generic
+8	bien	bien	ADV	_	_	{"ud": "9"}	advmod	_	_
+9	fort	fort	ADV	_	_	{"ud": "7"}	advmod	_	_
+10	:	:	PUNCT	_	_	{"ud": "11"}	punct	_	_
+11	OUACHE	ouache	INTJ	_	_	{"ud": "7"}	obj	_	wordform=ouache
+12	!	!	PUNCT	_	_	{"ud": "11"}	punct	_	SpaceAfter=No
+13	...	...	PUNCT	_	_	{"ud": "5"}	punct	_	_
+
+!# {"sid": 200, "sid_uuid": "f1168451bb3c5578e4d2c422d11c3d49b1871b0b01bedd95ba60bb6bb94959ab", "raw_text": "A 5 minutes \u00e0 pieds du de le m\u00e9tro ."}
+1	A	à	ADP	_	_	{"ud": "3"}	case	_	wordform=à
+2	5	5	NUM	_	Number=Plur	{"ud": "3"}	nummod	_	_
+3	minutes	minute	NOUN	_	Gender=Fem|Number=Plur	{"ud": "0"}	root	_	_
+4	à	à	ADP	_	_	{"ud": "5"}	case	_	_
+5	pieds	pied	NOUN	_	Gender=Masc|Number=Plur	{"ud": "3"}	nmod	_	_
+6-7	du	_	_	_	_	{"ud": "_"}	_	_	_
+6	de	de	ADP	_	_	{"ud": "8"}	case	_	_
+7	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	{"ud": "8"}	det	_	_
+8	métro	métro	NOUN	_	Gender=Masc|Number=Sing	{"ud": "3"}	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	{"ud": "3"}	punct	_	_
+
+!# {"sid": 202, "sid_uuid": "e365a8cb21c349b2ac11c5e430792db0b3c4795f16e61b9a9e9cdfcf4469def6", "raw_text": "Allez -y ."}
+1	Allez	aller	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	{"ud": "0"}	root	_	SpaceAfter=No|wordform=allez
+2	-y	y	PRON	_	Person=3|PronType=Prs	{"ud": "1"}	iobj	_	SpaceAfter=No|wordform=y
+3	.	.	PUNCT	_	_	{"ud": "1"}	punct	_	_
+
+!# {"sid": 212, "sid_uuid": "de4beb279eb5f542c128d03b8e0aaff049256427353781c811301573fb1093d7", "raw_text": "Boutique bobo chic mais il manque l' essentiel : le professionnalisme !"}
+1	Boutique	boutique	NOUN	_	Gender=Fem|Number=Sing	{"ud": "0"}	root	_	wordform=boutique
+2	bobo	bobo	NOUN	_	Gender=Masc|Number=Sing	{"ud": "1"}	nmod	_	_
+3	chic	chic	ADJ	_	Gender=Masc|Number=Sing	{"ud": "2"}	amod	_	_
+4	mais	mais	CCONJ	_	_	{"ud": "6"}	cc	_	_
+5	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	{"ud": "6"}	expl:subj	_	_
+6	manque	manquer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	{"ud": "1"}	conj	_	_
+7	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	{"ud": "8"}	det	_	SpaceAfter=No
+8	essentiel	essentiel	NOUN	_	Gender=Masc|Number=Sing	{"ud": "6"}	obj	_	_
+9	:	:	PUNCT	_	_	{"ud": "11"}	punct	_	_
+10	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	{"ud": "11"}	det	_	_
+11	professionnalisme	professionnalisme	NOUN	_	Gender=Masc|Number=Sing	{"ud": "8"}	appos	_	_
+12	!	!	PUNCT	_	_	{"ud": "1"}	punct	_	_
+
+!# {"sid": 214, "sid_uuid": "d97ca00f14d8f3fe4105989bf1090a6a77ed3e620fd2bfee58e7719fc918e57d", "raw_text": "Bref , \u00e0 d\u00e9conseiller !"}
+1	Bref	bref	INTJ	_	_	{"ud": "4"}	discourse	_	SpaceAfter=No|wordform=bref
+2	,	,	PUNCT	_	_	{"ud": "1"}	punct	_	_
+3	à	à	ADP	_	_	{"ud": "4"}	mark	_	_
+4	déconseiller	déconseiller	VERB	_	VerbForm=Inf	{"ud": "0"}	root	_	Subject=Generic
+5	!	!	PUNCT	_	_	{"ud": "4"}	punct	_	_
+
+!# {"sid": 215, "sid_uuid": "d026532b20333a778a3481c185ef9de978a18f1c6183c9909edcc243e63827a5", "raw_text": "B\u00e9mol : le refus des de les cartes de paiement !"}
+1	Bémol	bémol	NOUN	_	Gender=Masc|Number=Sing	{"ud": "0"}	root	_	wordform=bémol
+2	:	:	PUNCT	_	_	{"ud": "4"}	punct	_	_
+3	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	{"ud": "4"}	det	_	_
+4	refus	refus	NOUN	_	Gender=Masc|Number=Sing	{"ud": "1"}	appos	_	_
+5-6	des	_	_	_	_	{"ud": "_"}	_	_	_
+5	de	de	ADP	_	_	{"ud": "7"}	case	_	_
+6	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	{"ud": "7"}	det	_	_
+7	cartes	carte	NOUN	_	Gender=Fem|Number=Plur	{"ud": "4"}	nmod	_	_
+8	de	de	ADP	_	_	{"ud": "9"}	case	_	_
+9	paiement	paiement	NOUN	_	Gender=Masc|Number=Sing	{"ud": "7"}	nmod	_	_
+10	!	!	PUNCT	_	_	{"ud": "1"}	punct	_	_
+
+!# {"sid": 222, "sid_uuid": "6d2a0a4d9a1169ecb8ce8bf7bc5e29f384f550852cadfbf65f938d155edff143", "raw_text": "Cette \u00e9cole est tr\u00e8s bien s\u00e9rieuse et aide beaucoup"}
+1	Cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	{"ud": "2"}	det	_	wordform=cette
+2	école	école	NOUN	_	Gender=Fem|Number=Sing	{"ud": "6"}	nsubj	_	_
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	{"ud": "6"}	cop	_	_
+4	très	très	ADV	_	_	{"ud": "5"}	advmod	_	_
+5	bien	bien	ADV	_	_	{"ud": "6"}	advmod	_	_
+6	sérieuse	sérieux	ADJ	_	Gender=Fem|Number=Sing	{"ud": "0"}	root	_	_
+7	et	et	CCONJ	_	_	{"ud": "8"}	cc	_	_
+8	aide	aider	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	{"ud": "6"}	conj	_	_
+9	beaucoup	beaucoup	ADV	_	_	{"ud": "8"}	advmod	_	_
+
+!# {"sid": 231, "sid_uuid": "97e44067bc8caeb72804b1a1334df3eecbb4179b1d8a689bfaf2cb5688862ade", "raw_text": "Et un jacuzzi minuscule ."}
+1	Et	et	CCONJ	_	_	{"ud": "3"}	cc	_	wordform=et
+2	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	{"ud": "3"}	det	_	_
+3	jacuzzi	jacuzzi	NOUN	_	Gender=Masc|Number=Sing	{"ud": "0"}	root	_	_
+4	minuscule	minuscule	ADJ	_	Gender=Masc|Number=Sing	{"ud": "3"}	amod	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	{"ud": "3"}	punct	_	_
+
+!# {"sid": 232, "sid_uuid": "81919e30a0d753aca57902fbb773f6d41d1eccb6cb7ad1c1fe9f07c5fad62b77", "raw_text": "Fini les plats d\u00e9cevants !"}
+1	Fini	finir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	{"ud": "0"}	root	_	wordform=fini
+2	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	{"ud": "3"}	det	_	_
+3	plats	plat	NOUN	_	Gender=Masc|Number=Plur	{"ud": "1"}	obj	_	_
+4	décevants	décevant	ADJ	_	Gender=Masc|Number=Plur	{"ud": "3"}	amod	_	_
+5	!	!	PUNCT	_	_	{"ud": "1"}	punct	_	_
+
+!# {"sid": 233, "sid_uuid": "d69891b190a1760ee551e4b2bdce8d3359b5265e45d2b6de4c33a478a9e1b0d5", "raw_text": "G\u00e9nial , et en plus c' est rapide ."}
+1	Génial	génial	ADJ	_	Gender=Masc|Number=Sing	{"ud": "0"}	root	_	SpaceAfter=No|wordform=génial
+2	,	,	PUNCT	_	_	{"ud": "8"}	punct	_	_
+3	et	et	CCONJ	_	_	{"ud": "8"}	cc	_	_
+4	en	en	ADP	_	_	{"ud": "8"}	advmod	_	ExtPos=ADV|Idiom=Yes
+5	plus	plus	ADV	_	_	{"ud": "4"}	fixed	_	InIdiom=Yes
+6	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	{"ud": "8"}	nsubj	_	SpaceAfter=No
+7	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	{"ud": "8"}	cop	_	_
+8	rapide	rapide	ADJ	_	Gender=Masc|Number=Sing	{"ud": "1"}	conj	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	{"ud": "1"}	punct	_	_
+
+!# {"sid": 234, "sid_uuid": "b98c7cb8540bd9d66543b4b7fa8cda6d7c628ee5b8f3f62bf818703767845558", "raw_text": "Ici c' est tr\u00e8s professionnelle ."}
+1	Ici	ici	ADV	_	_	{"ud": "5"}	advmod	_	wordform=ici
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	{"ud": "5"}	nsubj	_	SpaceAfter=No
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	{"ud": "5"}	cop	_	_
+4	très	très	ADV	_	_	{"ud": "5"}	advmod	_	_
+5	professionnelle	professionnel	ADJ	_	Gender=Fem|Number=Sing|Typo=Yes	{"ud": "0"}	root	_	CorrectForm=professionnel|CorrectGender=Masc|SpaceAfter=No
+6	.	.	PUNCT	_	_	{"ud": "5"}	punct	_	_
+
+!# {"sid": 235, "sid_uuid": "93a6d1979c11cd50e39f0f19db5718253ab38c48b499bbc48d181e52f64e6177", "raw_text": "Il sont form\u00e9s \u00e0 vous arnaquer ."}
+1	Il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs|Typo=Yes	{"ud": "3"}	nsubj:pass	_	CorrectForm=Ils|CorrectNumber=Plur|wordform=il
+2	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	{"ud": "3"}	aux:pass	_	_
+3	formés	former	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	{"ud": "0"}	root	_	_
+4	à	à	ADP	_	_	{"ud": "6"}	mark	_	_
+5	vous	le	PRON	_	Number=Plur|Person=2|PronType=Prs	{"ud": "6"}	obj	_	_
+6	arnaquer	arnaquer	VERB	_	VerbForm=Inf	{"ud": "3"}	xcomp	_	SpaceAfter=No|Subject=SubjRaising
+7	.	.	PUNCT	_	_	{"ud": "3"}	punct	_	_
+
+!# {"sid": 237, "sid_uuid": "9bb220b897842ed093ae987534c8ba7916ab411aae36e6087ccf625842ad7a1a", "raw_text": "Il y a m\u00eame un caf\u00e9 avec des pingouins !"}
+1	Il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	{"ud": "3"}	expl:subj	_	wordform=il
+2	y	y	PRON	_	Person=3|PronType=Prs	{"ud": "3"}	expl	_	_
+3	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	{"ud": "0"}	root	_	_
+4	même	même	ADV	_	_	{"ud": "3"}	advmod	_	_
+5	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	{"ud": "6"}	det	_	_
+6	café	café	NOUN	_	Gender=Masc|Number=Sing	{"ud": "3"}	obj	_	_
+7	avec	avec	ADP	_	_	{"ud": "9"}	case	_	_
+8	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	{"ud": "9"}	det	_	_
+9	pingouins	pingouin	NOUN	_	Gender=Masc|Number=Plur	{"ud": "6"}	nmod	_	_
+10	!	!	PUNCT	_	_	{"ud": "3"}	punct	_	_
+
+!# {"sid": 240, "sid_uuid": "df2c4209465137a0e8551fecced4e9261e1d275ff44fa94a3ce382b2bc736d2c", "raw_text": "Ils ont r\u00e9alis\u00e9 un excellent travail"}
+1	Ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	{"ud": "3"}	nsubj	_	wordform=ils
+2	ont	avoir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	{"ud": "3"}	aux:tense	_	_
+3	réalisé	réaliser	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	{"ud": "0"}	root	_	_
+4	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	{"ud": "6"}	det	_	_
+5	excellent	excellent	ADJ	_	Gender=Masc|Number=Sing	{"ud": "6"}	amod	_	_
+6	travail	travail	NOUN	_	Gender=Masc|Number=Sing	{"ud": "3"}	obj	_	_
+
+!# {"sid": 241, "sid_uuid": "a2aecf293d9f570d0cd9563ef6e48aa6862a27d1558adc114bac30ff10432082", "raw_text": "Ils sont sur Cherbourg depuis 2007 ."}
+1	Ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	{"ud": "2"}	nsubj	_	wordform=ils
+2	sont	être	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	{"ud": "0"}	root	_	_
+3	sur	sur	ADP	_	_	{"ud": "4"}	case	_	_
+4	Cherbourg	Cherbourg	PROPN	_	_	{"ud": "2"}	obl:arg	_	_
+5	depuis	depuis	ADP	_	_	{"ud": "6"}	case	_	_
+6	2007	2007	NUM	_	Number=Plur	{"ud": "2"}	obl:mod	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	{"ud": "2"}	punct	_	_
+
+!# {"sid": 243, "sid_uuid": "a50eb73e9668310838107e64400f6c7a1eb135fa1b33c8ca1ff4b1dcd514c401", "raw_text": "J' adore la bouffe et le style ."}
+1	J'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	{"ud": "2"}	nsubj	_	SpaceAfter=No|wordform=j'
+2	adore	adorer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	{"ud": "0"}	root	_	_
+3	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	{"ud": "4"}	det	_	_
+4	bouffe	bouffe	NOUN	_	Gender=Fem|Number=Sing	{"ud": "2"}	obj	_	_
+5	et	et	CCONJ	_	_	{"ud": "7"}	cc	_	_
+6	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	{"ud": "7"}	det	_	_
+7	style	style	NOUN	_	Gender=Masc|Number=Sing	{"ud": "4"}	conj	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	{"ud": "2"}	punct	_	_
+
+!# {"sid": 260, "sid_uuid": "ae7a0bfad9c38bdff573772e2a64c5d504c457e5c9a8d764f2e0619c5febd3d2", "raw_text": "Les terrains de tennis ferment \u00e0 18h !"}
+1	Les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	{"ud": "2"}	det	_	wordform=les
+2	terrains	terrain	NOUN	_	Gender=Masc|Number=Plur	{"ud": "5"}	nsubj	_	_
+3	de	de	ADP	_	_	{"ud": "4"}	case	_	_
+4	tennis	tennis	NOUN	_	Gender=Masc|Number=Sing	{"ud": "2"}	nmod	_	_
+5	ferment	fermer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	{"ud": "0"}	root	_	_
+6	à	à	ADP	_	_	{"ud": "7"}	case	_	_
+7	18h	18h	NOUN	_	Gender=Fem|Number=Plur	{"ud": "5"}	obl:mod	_	_
+8	!	!	PUNCT	_	_	{"ud": "5"}	punct	_	_
+
+!# {"sid": 261, "sid_uuid": "8814f6a6737a48c6e9b74bb1cdf6b116c7244d222215a8a7af5ee81a8110d6ab", "raw_text": "Leur chocolat chaud est divin !"}
+1	Leur	son	DET	_	Number=Sing|Number[psor]=Plur|Person[psor]=3|Poss=Yes|PronType=Prs	{"ud": "2"}	det	_	wordform=leur
+2	chocolat	chocolat	NOUN	_	Gender=Masc|Number=Sing	{"ud": "5"}	nsubj	_	_
+3	chaud	chaud	ADJ	_	Gender=Masc|Number=Sing	{"ud": "2"}	amod	_	_
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	{"ud": "5"}	cop	_	_
+5	divin	divin	ADJ	_	Gender=Masc|Number=Sing	{"ud": "0"}	root	_	_
+6	!	!	PUNCT	_	_	{"ud": "5"}	punct	_	_
+
+!# {"sid": 262, "sid_uuid": "0e23fe2398b1d8017aae9c7ce56239e4cc9e1565eb89a9028ae5627c6ef3a102", "raw_text": "Madame Tellier est une excellente comptable que je recommande vivement !"}
+1	Madame	madame	NOUN	_	Gender=Fem|Number=Sing	{"ud": "6"}	nsubj	_	wordform=madame
+2	Tellier	Tellier	PROPN	_	_	{"ud": "1"}	flat:name	_	_
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	{"ud": "6"}	cop	_	_
+4	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	{"ud": "6"}	det	_	_
+5	excellente	excellent	ADJ	_	Gender=Fem|Number=Sing	{"ud": "6"}	amod	_	_
+6	comptable	comptable	NOUN	_	Gender=Fem|Number=Sing	{"ud": "0"}	root	_	_
+7	que	que	PRON	_	PronType=Rel	{"ud": "9"}	obj	_	_
+8	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	{"ud": "9"}	nsubj	_	_
+9	recommande	recommander	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	{"ud": "6"}	acl:relcl	_	_
+10	vivement	vivement	ADV	_	_	{"ud": "9"}	advmod	_	_
+11	!	!	PUNCT	_	_	{"ud": "6"}	punct	_	_
+
+!# {"sid": 263, "sid_uuid": "02ac8219753bb8112d87987db8c72ae4952c85cbfdf6b19a97dbf47207c6dfc7", "raw_text": "Magasin de chaussures pour enfants / adolescents tr\u00e8s convivial ."}
+1	Magasin	magasin	NOUN	_	Gender=Masc|Number=Sing	{"ud": "0"}	root	_	wordform=magasin
+2	de	de	ADP	_	_	{"ud": "3"}	case	_	_
+3	chaussures	chaussure	NOUN	_	Gender=Fem|Number=Plur	{"ud": "1"}	nmod	_	_
+4	pour	pour	ADP	_	_	{"ud": "5"}	case	_	_
+5	enfants	enfant	NOUN	_	Number=Plur	{"ud": "3"}	nmod	_	SpaceAfter=No
+6	/	/	SYM	_	_	{"ud": "7"}	cc	_	ExtPos=CCONJ|SpaceAfter=No
+7	adolescents	adolescent	NOUN	_	Gender=Masc|Number=Plur	{"ud": "5"}	conj	_	_
+8	très	très	ADV	_	_	{"ud": "9"}	advmod	_	_
+9	convivial	convivial	ADJ	_	Gender=Masc|Number=Sing	{"ud": "1"}	amod	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	{"ud": "1"}	punct	_	_
+
+!# {"sid": 265, "sid_uuid": "17cd7dedf3ed094e62de2749a833ab7ae530bfdfdb28b233959489b92a3e3351", "raw_text": "Merci beaucoup \u00e0 lui !"}
+1	Merci	merci	INTJ	_	_	{"ud": "0"}	root	_	wordform=merci
+2	beaucoup	beaucoup	ADV	_	_	{"ud": "1"}	advmod	_	_
+3	à	à	ADP	_	_	{"ud": "4"}	case	_	_
+4	lui	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	{"ud": "1"}	obl:arg	_	_
+5	!	!	PUNCT	_	_	{"ud": "1"}	punct	_	_
+
+!# {"sid": 270, "sid_uuid": "ea1f978f6263a8cd3a953b56427e766942395b9ead9f23c4c59470fa77605693", "raw_text": "On y retourne cet \u00e9t\u00e9 !"}
+1	On	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	{"ud": "3"}	nsubj	_	wordform=on
+2	y	y	PRON	_	Person=3|PronType=Prs	{"ud": "3"}	iobj	_	_
+3	retourne	retourner	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	{"ud": "0"}	root	_	_
+4	cet	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	{"ud": "5"}	det	_	_
+5	été	été	NOUN	_	Gender=Masc|Number=Sing	{"ud": "3"}	obl:mod	_	_
+6	!	!	PUNCT	_	_	{"ud": "3"}	punct	_	_
+
+!# {"sid": 277, "sid_uuid": "f0a4f18c3905c7bd014907c8954c994ef1b151f110d430103cfe1efa12b916d9", "raw_text": "Produits super sympa et qui rendent bien sur mon mur ."}
+1	Produits	produit	NOUN	_	Gender=Masc|Number=Plur	{"ud": "0"}	root	_	wordform=produits
+2	super	super	ADV	_	_	{"ud": "3"}	advmod	_	_
+3	sympa	sympa	ADJ	_	Gender=Masc|Number=Sing|Typo=Yes	{"ud": "1"}	amod	_	CorrectForm=sympas|CorrectNumber=Plur
+4	et	et	CCONJ	_	_	{"ud": "6"}	cc	_	_
+5	qui	qui	PRON	_	PronType=Rel	{"ud": "6"}	nsubj	_	_
+6	rendent	rendre	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	{"ud": "3"}	conj	_	_
+7	bien	bien	ADV	_	_	{"ud": "6"}	advmod	_	_
+8	sur	sur	ADP	_	_	{"ud": "10"}	case	_	_
+9	mon	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	{"ud": "10"}	det	_	_
+10	mur	mur	NOUN	_	Gender=Masc|Number=Sing	{"ud": "6"}	obl:mod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	{"ud": "1"}	punct	_	_
+
+!# {"sid": 278, "sid_uuid": "35dd25b2df3049fac37257e3713390801c7c479cf3f97c63fad0590e2f398535", "raw_text": "Ps : l' ann\u00e9e prochaine on y retourne d' office ...."}
+1	Ps	ps	NOUN	_	Gender=Masc|Number=Sing	{"ud": "8"}	obl:mod	_	wordform=ps
+2	:	:	PUNCT	_	_	{"ud": "1"}	punct	_	_
+3	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	{"ud": "4"}	det	_	SpaceAfter=No
+4	année	année	NOUN	_	Gender=Fem|Number=Sing	{"ud": "8"}	obl:mod	_	_
+5	prochaine	prochain	ADJ	_	Gender=Fem|Number=Sing	{"ud": "4"}	amod	_	_
+6	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	{"ud": "8"}	nsubj	_	_
+7	y	y	PRON	_	Person=3|PronType=Prs	{"ud": "8"}	iobj	_	_
+8	retourne	retourner	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	{"ud": "0"}	root	_	_
+9	d'	de	ADP	_	_	{"ud": "10"}	case	_	SpaceAfter=No
+10	office	office	NOUN	_	Gender=Masc|Number=Sing	{"ud": "8"}	obl:mod	_	SpaceAfter=No
+11	....	....	PUNCT	_	_	{"ud": "8"}	punct	_	_
+
+!# {"sid": 279, "sid_uuid": "71896a28a949da638e0f538b0a4c19e2834e6355612c7b4261802e22101afd3a", "raw_text": "Qu' on se le dise !"}
+1	Qu'	que	SCONJ	_	_	{"ud": "5"}	mark	_	SpaceAfter=No|wordform=qu'
+2	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	{"ud": "5"}	nsubj	_	_
+3	se	se	PRON	_	Person=3|PronType=Prs|Reflex=Yes	{"ud": "5"}	iobj	_	_
+4	le	le	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	{"ud": "5"}	obj	_	_
+5	dise	dire	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	{"ud": "0"}	root	_	_
+6	!	!	PUNCT	_	_	{"ud": "5"}	punct	_	_
+
+!# {"sid": 283, "sid_uuid": "2de613c4f0d1f564dbfd7ff097bab15df5e0fc19fd2a08f6699c1479a1d571e9", "raw_text": "Si vous souhaitez r\u00e9galer \" vos papilles \" n' h\u00e9sitez surtout pas !"}
+1	Si	si	SCONJ	_	_	{"ud": "3"}	mark	_	wordform=si
+2	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	{"ud": "3"}	nsubj	_	_
+3	souhaitez	souhaiter	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	{"ud": "10"}	advcl	_	_
+4	régaler	régaler	VERB	_	VerbForm=Inf	{"ud": "3"}	xcomp	_	Subject=SubjRaising
+5	"	"	PUNCT	_	_	{"ud": "7"}	punct	_	SpaceAfter=No
+6	vos	son	DET	_	Number=Plur|Number[psor]=Plur|Person[psor]=2|Poss=Yes|PronType=Prs	{"ud": "7"}	det	_	_
+7	papilles	papille	NOUN	_	Gender=Fem|Number=Plur	{"ud": "4"}	obj	_	SpaceAfter=No
+8	"	"	PUNCT	_	_	{"ud": "7"}	punct	_	_
+9	n'	ne	ADV	_	Polarity=Neg	{"ud": "10"}	advmod	_	SpaceAfter=No
+10	hésitez	hésiter	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	{"ud": "0"}	root	_	_
+11	surtout	surtout	ADV	_	_	{"ud": "12"}	advmod	_	_
+12	pas	pas	ADV	_	Polarity=Neg	{"ud": "10"}	advmod	_	_
+13	!	!	PUNCT	_	_	{"ud": "10"}	punct	_	_
+
+!# {"sid": 289, "sid_uuid": "f2a3259875f5a71af2922e3059afb1f79f64e19b06e2e79f5642d32d0b86870c", "raw_text": "Vous repartirez tr\u00e8s d\u00e9\u00e7u ..."}
+1	Vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	{"ud": "2"}	nsubj	_	wordform=vous
+2	repartirez	repartir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	{"ud": "0"}	root	_	_
+3	très	très	ADV	_	_	{"ud": "4"}	advmod	_	_
+4	déçu	déçu	ADJ	_	Gender=Masc|Number=Sing	{"ud": "2"}	xcomp	_	SpaceAfter=No
+5	...	...	PUNCT	_	_	{"ud": "2"}	punct	_	_
+
+!# {"sid": 296, "sid_uuid": "6fb9048460f1ecab894424323c4148693153ca728e3295cd3b1a0ae30a4d7a5f", "raw_text": "un caf\u00e9 17 euros !"}
+1	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	{"ud": "2"}	det	_	_
+2	café	café	NOUN	_	Gender=Masc|Number=Sing	{"ud": "0"}	root	_	_
+3	17	17	NUM	_	Number=Plur	{"ud": "4"}	nummod	_	_
+4	euros	euro	NOUN	_	Gender=Masc|Number=Plur	{"ud": "2"}	nmod	_	_
+5	!	!	PUNCT	_	_	{"ud": "2"}	punct	_	_
+
+!# {"sid": 297, "sid_uuid": "6e9c4c67b3468a3dfc6853b051cd381a4c1d4a1d775c407ef8d2530b371743dd", "raw_text": "\u00c7a donne le go\u00fbt d' avoir une \" bedaine \" .."}
+1	Ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	{"ud": "2"}	nsubj	_	wordform=ça
+2	donne	donner	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	{"ud": "0"}	root	_	_
+3	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	{"ud": "4"}	det	_	_
+4	goût	goût	NOUN	_	Gender=Masc|Number=Sing	{"ud": "2"}	obj	_	_
+5	d'	de	ADP	_	_	{"ud": "6"}	mark	_	SpaceAfter=No
+6	avoir	avoir	VERB	_	VerbForm=Inf	{"ud": "4"}	acl	_	Subject=Generic
+7	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	{"ud": "9"}	det	_	_
+8	"	"	PUNCT	_	_	{"ud": "9"}	punct	_	SpaceAfter=No
+9	bedaine	bedaine	NOUN	_	Gender=Fem|Number=Sing	{"ud": "6"}	obj	_	SpaceAfter=No
+10	"	"	PUNCT	_	_	{"ud": "9"}	punct	_	SpaceAfter=No
+11	..	..	PUNCT	_	_	{"ud": "2"}	punct	_	_
+
+!# {"sid": 308, "sid_uuid": "bf28a9b5d3d4496a18f62bda81e01888ea50279752b76152ecd4219a6eebc115", "raw_text": "Aller dans ce restaurant est tout simplement un grand plaisir !"}
+1	Aller	aller	VERB	_	VerbForm=Inf	{"ud": "10"}	csubj	_	Subject=Generic|wordform=aller
+2	dans	dans	ADP	_	_	{"ud": "4"}	case	_	_
+3	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	{"ud": "4"}	det	_	_
+4	restaurant	restaurant	NOUN	_	Gender=Masc|Number=Sing	{"ud": "1"}	obl:arg	_	_
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	{"ud": "10"}	cop	_	_
+6	tout	tout	ADV	_	_	{"ud": "7"}	advmod	_	_
+7	simplement	simplement	ADV	_	_	{"ud": "10"}	advmod	_	_
+8	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	{"ud": "10"}	det	_	_
+9	grand	grand	ADJ	_	Gender=Masc|Number=Sing	{"ud": "10"}	amod	_	_
+10	plaisir	plaisir	NOUN	_	Gender=Masc|Number=Sing	{"ud": "0"}	root	_	_
+11	!	!	PUNCT	_	_	{"ud": "10"}	punct	_	_
+
+!# {"sid": 315, "sid_uuid": "8e4903f2d0dbc904c9ccfc0dd823db4e74f4fbaf8cb9308cf33f1be136880930", "raw_text": "Elle a \u00e9t\u00e9 impliqu\u00e9e dans plusieurs accidents a\u00e9riens ."}
+1	Elle	il	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	{"ud": "4"}	nsubj:pass	_	wordform=elle
+2	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	{"ud": "4"}	aux:tense	_	_
+3	été	être	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	{"ud": "4"}	aux:pass	_	_
+4	impliquée	impliquer	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	{"ud": "0"}	root	_	_
+5	dans	dans	ADP	_	_	{"ud": "7"}	case	_	_
+6	plusieurs	plusieurs	DET	_	Number=Plur|PronType=Ind	{"ud": "7"}	det	_	_
+7	accidents	accident	NOUN	_	Gender=Masc|Number=Plur	{"ud": "4"}	obl:arg	_	_
+8	aériens	aérien	ADJ	_	Gender=Masc|Number=Plur	{"ud": "7"}	amod	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	{"ud": "4"}	punct	_	_
+
+!# {"sid": 319, "sid_uuid": "fe5c81df615f49f2d02c4d12fd80a5bff735d70a98458eb3c6ac710a68a61417", "raw_text": "Eglise Saint Denis ( XIIIe , XIVe , XVIe , XVIIIe si\u00e8cles ) ."}
+1	Eglise	Eglise	PROPN	_	_	{"ud": "0"}	root	_	_
+2	Saint	Saint	PROPN	_	_	{"ud": "1"}	appos	_	_
+3	Denis	Denis	PROPN	_	_	{"ud": "2"}	flat:name	_	_
+4	(	(	PUNCT	_	_	{"ud": "12"}	punct	_	SpaceAfter=No
+5	XIIIe	XIIIe	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	{"ud": "12"}	amod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	{"ud": "7"}	punct	_	_
+7	XIVe	XIVe	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	{"ud": "5"}	conj	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	{"ud": "9"}	punct	_	_
+9	XVIe	XVIe	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	{"ud": "5"}	conj	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	{"ud": "11"}	punct	_	_
+11	XVIIIe	XVIIIe	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	{"ud": "5"}	conj	_	_
+12	siècles	siècle	NOUN	_	Gender=Masc|Number=Plur	{"ud": "1"}	nmod	_	SpaceAfter=No
+13	)	)	PUNCT	_	_	{"ud": "12"}	punct	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	{"ud": "1"}	punct	_	_
+
+!# {"sid": 331, "sid_uuid": "0170c83ba86947aea840132f3e115cc87ffad251d5ddb3e88c78e8528f18c304", "raw_text": "Pour Pok\u00e9mon , il en faut exactement 60 ."}
+1	Pour	pour	ADP	_	_	{"ud": "2"}	case	_	wordform=pour
+2	Pokémon	Pokémon	PROPN	_	_	{"ud": "6"}	obl:mod	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	{"ud": "2"}	punct	_	_
+4	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	{"ud": "6"}	expl:subj	_	_
+5	en	en	PRON	_	Person=3|PronType=Prs	{"ud": "8"}	nmod	_	_
+6	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	{"ud": "0"}	root	_	_
+7	exactement	exactement	ADV	_	_	{"ud": "8"}	advmod	_	_
+8	60	60	NUM	_	Number=Plur	{"ud": "6"}	obj	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	{"ud": "6"}	punct	_	_
+
+!# {"sid": 341, "sid_uuid": "0eea9dd987cb0fb570a820c1eb33c782f603f4b4a89cef132f2e6c4ab80750e2", "raw_text": "Il devient joueur autonome \u00e0 l' automne ."}
+1	Il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	{"ud": "2"}	nsubj	_	wordform=il
+2	devient	devenir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	{"ud": "0"}	root	_	_
+3	joueur	joueur	NOUN	_	Gender=Masc|Number=Sing	{"ud": "2"}	xcomp	_	_
+4	autonome	autonome	ADJ	_	Gender=Masc|Number=Sing	{"ud": "3"}	amod	_	_
+5	à	à	ADP	_	_	{"ud": "7"}	case	_	_
+6	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	{"ud": "7"}	det	_	SpaceAfter=No
+7	automne	automne	NOUN	_	Gender=Masc|Number=Sing	{"ud": "2"}	obl	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	{"ud": "2"}	punct	_	_
+
+!# {"sid": 361, "sid_uuid": "4da876aa05389fe22eabaaa7e8e2300d4896c2b912dc6958ce5023f7f7f04f00", "raw_text": "Les Nations Unies m\u00e8nent une campagne mondiale \u00ab Scellons l' accord !"}
+1	Les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	{"ud": "2"}	det	_	wordform=les
+2	Nations	nation	NOUN	_	Gender=Fem|Number=Plur	{"ud": "4"}	nsubj	_	wordform=nations
+3	Unies	uni	ADJ	_	Gender=Fem|Number=Plur	{"ud": "2"}	amod	_	wordform=unies
+4	mènent	mener	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	{"ud": "0"}	root	_	_
+5	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	{"ud": "6"}	det	_	_
+6	campagne	campagne	NOUN	_	Gender=Fem|Number=Sing	{"ud": "4"}	obj	_	_
+7	mondiale	mondial	ADJ	_	Gender=Fem|Number=Sing	{"ud": "6"}	amod	_	_
+8	«	«	PUNCT	_	_	{"ud": "9"}	punct	_	_
+9	Scellons	sceller	VERB	_	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	{"ud": "6"}	appos	_	ExtPos=PROPN|Title=Yes|wordform=scellons
+10	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	{"ud": "11"}	det	_	InTitle=Yes|SpaceAfter=No
+11	accord	accord	NOUN	_	Gender=Masc|Number=Sing	{"ud": "9"}	obj	_	InTitle=Yes
+12	!	!	PUNCT	_	_	{"ud": "4"}	punct	_	_
+
+!# {"sid": 376, "sid_uuid": "01624623951f1b5f495e2fd0cb2de49e5d0a2b19825eed150b5e31c0305bff2e", "raw_text": "Ce cabinet d' ost\u00e9opathie est vraiment tr\u00e8s bien ."}
+1	Ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	{"ud": "2"}	det	_	wordform=ce
+2	cabinet	cabinet	NOUN	_	Gender=Masc|Number=Sing	{"ud": "8"}	nsubj	_	_
+3	d'	de	ADP	_	_	{"ud": "4"}	case	_	SpaceAfter=No
+4	ostéopathie	ostéopathie	NOUN	_	Gender=Fem|Number=Sing	{"ud": "2"}	nmod	_	_
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	{"ud": "8"}	cop	_	_
+6	vraiment	vraiment	ADV	_	_	{"ud": "8"}	advmod	_	_
+7	très	très	ADV	_	_	{"ud": "8"}	advmod	_	_
+8	bien	bien	ADV	_	_	{"ud": "0"}	root	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	{"ud": "8"}	punct	_	_
+
+!# {"sid": 393, "sid_uuid": "4e2201229a0f9e46682c5829d0e4b59591e68196ab57b2bccb674c5d23c9bd43", "raw_text": "N' arrivez surtout pas quelques minutes en retard !"}
+1	N'	ne	ADV	_	Polarity=Neg	{"ud": "2"}	advmod	_	SpaceAfter=No|wordform=n'
+2	arrivez	arriver	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	{"ud": "0"}	root	_	_
+3	surtout	surtout	ADV	_	_	{"ud": "4"}	advmod	_	_
+4	pas	pas	ADV	_	Polarity=Neg	{"ud": "2"}	advmod	_	_
+5	quelques	quelque	DET	_	Number=Plur|PronType=Ind	{"ud": "6"}	det	_	_
+6	minutes	minute	NOUN	_	Gender=Fem|Number=Plur	{"ud": "2"}	obl:mod	_	_
+7	en	en	ADP	_	_	{"ud": "8"}	case	_	_
+8	retard	retard	NOUN	_	Gender=Masc|Number=Sing	{"ud": "6"}	nmod	_	_
+9	!	!	PUNCT	_	_	{"ud": "2"}	punct	_	_
+
+!# {"sid": 394, "sid_uuid": "ca978e679b69811ec8cf3e835fbf999d3adca96250f99599246dd6c9e4db09b7", "raw_text": "Charles Monginot ( 1825-1900 ) est un peintre fran\u00e7ais ."}
+1	Charles	Charles	PROPN	_	_	{"ud": "8"}	nsubj	_	_
+2	Monginot	Monginot	PROPN	_	_	{"ud": "1"}	flat:name	_	_
+3	(	(	PUNCT	_	_	{"ud": "4"}	punct	_	SpaceAfter=No
+4	1825-1900	1825-1900	NUM	_	Number=Plur	{"ud": "1"}	nmod	_	SpaceAfter=No
+5	)	)	PUNCT	_	_	{"ud": "4"}	punct	_	_
+6	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	{"ud": "8"}	cop	_	_
+7	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	{"ud": "8"}	det	_	_
+8	peintre	peintre	NOUN	_	Gender=Masc|Number=Sing	{"ud": "0"}	root	_	_
+9	français	français	ADJ	_	Gender=Masc|Number=Sing	{"ud": "8"}	amod	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	{"ud": "8"}	punct	_	_
+
+!# {"sid": 400, "sid_uuid": "a3bf1812c763a316f964a3ce0de64f94109f3f055ac7553ab025630956393932", "raw_text": "Les transactions se font essentiellement en esp\u00e8ces ."}
+1	Les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	{"ud": "2"}	det	_	wordform=les
+2	transactions	transaction	NOUN	_	Gender=Fem|Number=Plur	{"ud": "4"}	nsubj:pass	_	_
+3	se	se	PRON	_	Person=3|PronType=Prs|Reflex=Yes	{"ud": "4"}	expl:pass	_	_
+4	font	faire	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	{"ud": "0"}	root	_	_
+5	essentiellement	essentiellement	ADV	_	_	{"ud": "4"}	advmod	_	_
+6	en	en	ADP	_	_	{"ud": "7"}	case	_	_
+7	espèces	espèce	NOUN	_	Gender=Fem|Number=Plur	{"ud": "4"}	obl:mod	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	{"ud": "4"}	punct	_	_
+
+!# {"sid": 401, "sid_uuid": "2e74187170ce66827102a7f1231b485447294cca2622bdd6a74d8061beb3f572", "raw_text": "Equipe de professionnels avec des ann\u00e9es d' exp\u00e9rience ."}
+1	Equipe	équipe	NOUN	_	Gender=Fem|Number=Sing	{"ud": "0"}	root	_	wordform=equipe
+2	de	de	ADP	_	_	{"ud": "3"}	case	_	_
+3	professionnels	professionnel	NOUN	_	Gender=Masc|Number=Plur	{"ud": "1"}	nmod	_	_
+4	avec	avec	ADP	_	_	{"ud": "6"}	case	_	_
+5	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	{"ud": "6"}	det	_	_
+6	années	année	NOUN	_	Gender=Fem|Number=Plur	{"ud": "1"}	nmod	_	_
+7	d'	de	ADP	_	_	{"ud": "8"}	case	_	SpaceAfter=No
+8	expérience	expérience	NOUN	_	Gender=Fem|Number=Sing	{"ud": "6"}	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	{"ud": "1"}	punct	_	_
+

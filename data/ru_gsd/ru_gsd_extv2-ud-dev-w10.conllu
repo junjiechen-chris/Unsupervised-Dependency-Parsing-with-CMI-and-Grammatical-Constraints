@@ -1,0 +1,1993 @@
+!# {"sid": 3, "sid_uuid": "f4236de4aba43751aa21547432c6e7f940dc7a1ce4450a56e822af091c52540e", "raw_text": "\u0421\u0435\u0440\u0436\u0430\u043d\u0442 \u043f\u043e\u0441\u043e\u0432\u0435\u0442\u043e\u0432\u0430\u043b \u0411\u0430\u043a\u043b\u0441\u0443 \u043f\u043e\u0439\u0442\u0438 \u043d\u0430 \u0440\u0430\u0431\u043e\u0442\u0443 \u0432\u043e\u0434\u0438\u0442\u0435\u043b\u0435\u043c \u043c\u0430\u0448\u0438\u043d\u044b \u0441\u043a\u043e\u0440\u043e\u0439 \u043f\u043e\u043c\u043e\u0449\u0438 ."}
+1	Сержант	сержант	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	{"ud": "2"}	nsubj	_	_
+2	посоветовал	посоветовать	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+3	Баклсу	Баклс	PROPN	NNP	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	{"ud": "2"}	iobj	_	_
+4	пойти	пойти	VERB	VB	Aspect=Perf|VerbForm=Inf|Voice=Act	{"ud": "2"}	xcomp	_	_
+5	на	на	ADP	IN	_	{"ud": "6"}	case	_	_
+6	работу	работа	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	{"ud": "4"}	obl	_	_
+7	водителем	водитель	NOUN	NN	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	{"ud": "4"}	xcomp	_	_
+8	машины	машина	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	{"ud": "7"}	nmod	_	_
+9	скорой	скорый	ADJ	JJL	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	{"ud": "10"}	amod	_	_
+10	помощи	помощь	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	{"ud": "8"}	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	{"ud": "2"}	punct	_	_
+
+!# {"sid": 4, "sid_uuid": "aaa0daca6ad085bc02b3e34b4bcef471642639ad778fc25ffa8bb0182a6fa112", "raw_text": "\u0411\u0430\u0440\u044b\u043a\u0438\u043d\u0430 \u0438\u043d\u043e\u0433\u0434\u0430 \u043d\u0430\u0437\u044b\u0432\u0430\u044e\u0442 `` \u043e\u0442\u0446\u043e\u043c \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u0440\u0435\u0433\u0433\u0438 &#39;&#39; ."}
+1	Барыкина	Барыкин	PROPN	NNP	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	{"ud": "3"}	obj	_	_
+2	иногда	иногда	ADV	RB	Degree=Pos	{"ud": "3"}	advmod	_	_
+3	называют	называть	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+4	``	``	PUNCT	``	_	{"ud": "5"}	punct	_	SpaceAfter=No
+5	отцом	отец	NOUN	NN	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	{"ud": "3"}	xcomp	_	_
+6	русского	русский	ADJ	JJL	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	{"ud": "7"}	amod	_	_
+7	регги	регги	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "5"}	nmod	_	SpaceAfter=No
+8	&#39;&#39;	&#39;&#39;	PUNCT	&#39;&#39;	_	{"ud": "5"}	punct	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	{"ud": "3"}	punct	_	_
+
+!# {"sid": 5, "sid_uuid": "8ac9b2364e06a106c7c91dcf0f6dd38b7da6d0750524875c2e0d38ddced96499", "raw_text": "\u0411\u0435\u0437\u0433\u0430\u0447\u0438\u0445\u0430 -- \u0434\u0435\u0440\u0435\u0432\u043d\u044f \u0432 \u0411\u0430\u0431\u0443\u0448\u043a\u0438\u043d\u0441\u043a\u043e\u043c \u0440\u0430\u0439\u043e\u043d\u0435 \u0412\u043e\u043b\u043e\u0433\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 ."}
+1	Безгачиха	Безгачиха	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	{"ud": "3"}	nsubj	_	_
+2	--	--	PUNCT	--	_	{"ud": "3"}	punct	_	_
+3	деревня	деревня	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	{"ud": "0"}	root	_	_
+4	в	в	ADP	IN	_	{"ud": "6"}	case	_	_
+5	Бабушкинском	бабушкинский	ADJ	JJL	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "6"}	amod	_	_
+6	районе	район	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	{"ud": "3"}	nmod	_	_
+7	Вологодской	вологодский	ADJ	JJL	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	{"ud": "8"}	amod	_	_
+8	области	область	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	{"ud": "6"}	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	{"ud": "3"}	punct	_	_
+
+!# {"sid": 10, "sid_uuid": "76c98f6fdffcc1617d7e76eaf82a8ee7df8764ac599c6778b11010e8dd9e9b12", "raw_text": "\u041e\u0434\u0438\u043d \u0438\u0437 \u043f\u0438\u043e\u043d\u0435\u0440\u043e\u0432 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0439 \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u0430\u0432\u0438\u0430\u0446\u0438\u0438 ."}
+1	Один	один	NUM	CD	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|NumType=Card	{"ud": "0"}	root	_	_
+2	из	из	ADP	IN	_	{"ud": "3"}	case	_	_
+3	пионеров	пионер	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	{"ud": "1"}	nmod	_	_
+4	исследований	исследование	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	{"ud": "3"}	nmod	_	_
+5	в	в	ADP	IN	_	{"ud": "6"}	case	_	_
+6	области	область	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	{"ud": "4"}	nmod	_	_
+7	авиации	авиация	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	{"ud": "6"}	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	{"ud": "1"}	punct	_	_
+
+!# {"sid": 14, "sid_uuid": "aa7e880f4cd5b2592ec58029378b5e14dc9d478ef537f9034d670883dfd2d444", "raw_text": "\u0423\u0447\u0430\u0441\u0442\u043d\u0438\u043a \u0412\u0435\u043b\u0438\u043a\u043e\u0439 \u041e\u0442\u0435\u0447\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0439 \u0432\u043e\u0439\u043d\u044b \u0441 \u0438\u044e\u043d\u044f 1941 \u0433\u043e\u0434\u0430 ."}
+1	Участник	участник	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	{"ud": "0"}	root	_	_
+2	Великой	великий	ADJ	JJL	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	{"ud": "4"}	amod	_	_
+3	Отечественной	отечественный	ADJ	JJL	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	{"ud": "4"}	amod	_	_
+4	войны	война	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	{"ud": "1"}	nmod	_	_
+5	с	с	ADP	IN	_	{"ud": "6"}	case	_	_
+6	июня	июнь	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "1"}	nmod	_	_
+7	1941	1941	ADJ	ORD	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "8"}	amod	_	_
+8	года	год	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "6"}	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	{"ud": "1"}	punct	_	_
+
+!# {"sid": 20, "sid_uuid": "e23bc92e091f2f6a1569a13f6008f1812cf61aa84a5c64495f8eeb7a5cab53ed", "raw_text": "\u0412\u044b\u0448\u0438\u0432\u043a\u0438 \u041f\u043e\u043b\u0435\u0441\u044c\u044f -- \u043f\u0440\u043e\u0441\u0442\u044b\u0435 \u0438 \u0447\u0435\u0442\u043a\u0438\u0435 \u043f\u043e \u043a\u043e\u043c\u043f\u043e\u0437\u0438\u0446\u0438\u0438 ."}
+1	Вышивки	вышивка	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	{"ud": "4"}	nsubj	_	_
+2	Полесья	Полесье	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	{"ud": "1"}	nmod	_	_
+3	--	--	PUNCT	--	_	{"ud": "4"}	punct	_	_
+4	простые	простой	ADJ	JJL	Case=Nom|Degree=Pos|Number=Plur	{"ud": "0"}	root	_	_
+5	и	и	CCONJ	CC	_	{"ud": "6"}	cc	_	_
+6	четкие	четкий	ADJ	JJL	Case=Nom|Degree=Pos|Number=Plur	{"ud": "4"}	conj	_	_
+7	по	по	ADP	IN	_	{"ud": "8"}	case	_	_
+8	композиции	композиция	NOUN	NN	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	{"ud": "6"}	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	{"ud": "4"}	punct	_	_
+
+!# {"sid": 23, "sid_uuid": "644ed605104136eff40c9c6ef9bbfc2391514b0befef3546f5997809fdf59ff6", "raw_text": "\u0422\u0435\u043a\u0441\u0442 \u0431\u044b\u043b \u043d\u0430\u043f\u0438\u0441\u0430\u043d \u043f\u043e - \u043b\u0430\u0442\u044b\u043d\u0438 ."}
+1	Текст	текст	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "3"}	nsubj:pass	_	_
+2	был	быть	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	{"ud": "3"}	aux:pass	_	_
+3	написан	написать	VERB	VBNH	Animacy=Inan|Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	{"ud": "0"}	root	_	_
+4	по	по	ADP	AFX	_	{"ud": "6"}	case	_	SpaceAfter=No
+5	-	-	PUNCT	-	_	{"ud": "6"}	punct	_	SpaceAfter=No
+6	латыни	латыни	NOUN	NN	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	{"ud": "3"}	obl	_	SpaceAfter=No
+7	.	.	PUNCT	.	_	{"ud": "3"}	punct	_	_
+
+!# {"sid": 29, "sid_uuid": "9f9f8f344638f6dcb3fd030b0346db702e3ddec73205e151f3396caebb3cd800", "raw_text": "`` \u0414\u0435\u0442\u0438 \u0433\u043e\u0440 &#39;&#39; -- \u0430\u043b\u044c\u0431\u043e\u043c \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0439 \u0440\u043e\u043a-\u0433\u0440\u0443\u043f\u043f\u044b `` \u0427\u0430\u0439\u0444 &#39;&#39; ."}
+1	``	``	PUNCT	``	_	{"ud": "2"}	punct	_	SpaceAfter=No
+2	Дети	ребенок	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	{"ud": "6"}	nsubj	_	_
+3	гор	гора	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	{"ud": "2"}	nmod	_	SpaceAfter=No
+4	&#39;&#39;	&#39;&#39;	PUNCT	&#39;&#39;	_	{"ud": "2"}	punct	_	_
+5	--	--	PUNCT	--	_	{"ud": "6"}	punct	_	_
+6	альбом	альбом	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "0"}	root	_	_
+7	российской	российский	ADJ	JJL	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	{"ud": "8"}	amod	_	_
+8	рок-группы	рок-группа	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	{"ud": "6"}	nmod	_	_
+9	``	``	PUNCT	)	_	{"ud": "10"}	punct	_	SpaceAfter=No
+10	Чайф	Чайф	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "8"}	appos	_	SpaceAfter=No
+11	&#39;&#39;	&#39;&#39;	PUNCT	&#39;&#39;	_	{"ud": "10"}	punct	_	SpaceAfter=No
+12	.	.	PUNCT	.	_	{"ud": "6"}	punct	_	_
+
+!# {"sid": 30, "sid_uuid": "9683b254150231ee8478d9c97cad4bb0501c1263f08fe3ec6d39246307d11015", "raw_text": "\u0416\u0435\u043d\u0430 \u0414\u0437\u043e\u0434\u0437\u0443\u0430\u0448\u0432\u0438\u043b\u0438 \u043f\u0440\u0438\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0442\u0435\u0442\u0435\u0439 \u0436\u0435\u043d\u0435 \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u0430 \u0413\u0443\u0446\u0430\u0435\u0432\u0430 ."}
+1	Жена	жена	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	{"ud": "3"}	nsubj	_	_
+2	Дзодзуашвили	Дзодзуашвили	PROPN	NNP	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	{"ud": "1"}	nmod	_	_
+3	приходится	приходиться	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	{"ud": "0"}	root	_	_
+4	тетей	тетя	NOUN	NN	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	{"ud": "3"}	xcomp	_	_
+5	жене	жена	NOUN	NN	Animacy=Anim|Case=Dat|Gender=Fem|Number=Sing	{"ud": "3"}	iobj	_	_
+6	Владимира	Владимир	PROPN	NNP	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	{"ud": "5"}	nmod	_	_
+7	Гуцаева	Гуцаев	PROPN	NNP	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	{"ud": "6"}	flat:name	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	{"ud": "3"}	punct	_	_
+
+!# {"sid": 32, "sid_uuid": "6085de2308bfa856b3f93c2a54cab63503beb6e40f0ee23d955a748e883f4616", "raw_text": "\u0425\u0438\u0440\u0430\u043c\u0430\u0446\u0443 \u0414\u0437\u0435\u043d\u043a\u0438 \u0438 \u042f\u0446\u0443\u043c\u043e\u0442\u043e \u042d\u0439\u0442\u0438 \u043f\u0440\u0438\u0437\u044b\u0432\u0430\u044e\u0442 \u0432 \u0430\u0440\u043c\u0438\u044e ."}
+1	Хирамацу	Хирамацу	PROPN	NNP	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	{"ud": "6"}	obj	_	_
+2	Дзенки	Дзенки	PROPN	NNP	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	{"ud": "1"}	flat:name	_	_
+3	и	и	CCONJ	CC	_	{"ud": "4"}	cc	_	_
+4	Яцумото	Яцумото	PROPN	NNP	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	{"ud": "1"}	conj	_	_
+5	Эйти	Эйти	PROPN	NNP	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	{"ud": "4"}	flat:name	_	_
+6	призывают	призывать	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+7	в	в	ADP	IN	_	{"ud": "8"}	case	_	_
+8	армию	армия	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	{"ud": "6"}	obl	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	{"ud": "6"}	punct	_	_
+
+!# {"sid": 34, "sid_uuid": "a23e4b60dfd8925bca6b69d2163a5a94a489b3a8621f41ea0b7739d5d47802a6", "raw_text": "\u041c\u043d\u043e\u0433\u043e\u0447\u0438\u0441\u043b\u0435\u043d\u043d\u044b\u0435 \u043f\u0430\u0440\u043e\u0434\u0438\u0438 \u0435\u0432\u0440\u0435\u0439\u0441\u043a\u043e\u0439 \u0440\u0435\u0447\u0438 \u043f\u043e\u044f\u0432\u043b\u044f\u044e\u0442\u0441\u044f \u0438 \u0432 \u0437\u0430\u043f\u0438\u0441\u0438 \u0440\u043e\u0436\u0434\u0435\u0441\u0442\u0432\u0435\u043d\u0441\u043a\u0438\u0445 \u0433\u0438\u043c\u043d\u043e\u0432 ."}
+1	Многочисленные	многочисленный	ADJ	JJL	Case=Nom|Degree=Pos|Number=Plur	{"ud": "2"}	amod	_	_
+2	пародии	пародия	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	{"ud": "5"}	nsubj	_	_
+3	еврейской	еврейский	ADJ	JJL	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	{"ud": "4"}	amod	_	_
+4	речи	речь	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	{"ud": "2"}	nmod	_	_
+5	появляются	появляться	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	{"ud": "0"}	root	_	_
+6	и	и	PART	UH	_	{"ud": "8"}	advmod	_	_
+7	в	в	ADP	IN	_	{"ud": "8"}	case	_	_
+8	записи	запись	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	{"ud": "5"}	obl	_	_
+9	рождественских	рождественский	ADJ	JJL	Case=Gen|Degree=Pos|Number=Plur	{"ud": "10"}	amod	_	_
+10	гимнов	гимн	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	{"ud": "8"}	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	{"ud": "5"}	punct	_	_
+
+!# {"sid": 37, "sid_uuid": "c9d70940d811e0ee346c629cfcf7c4d2b9931163885d768658c15d213aee8ca7", "raw_text": "\u0414\u0443\u043d \u0431\u044b\u043b \u0437\u0430\u0445\u0432\u0430\u0447\u0435\u043d \u044f\u043a\u043e\u0431\u0438\u0442\u0430\u043c\u0438 , \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0443\u0441\u0442\u0440\u043e\u0438\u043b\u0438 \u0432 \u0437\u0430\u043c\u043a\u0435 \u0442\u044e\u0440\u044c\u043c\u0443 ."}
+1	Дун	Дун	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	{"ud": "3"}	nsubj:pass	_	_
+2	был	быть	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	{"ud": "3"}	aux:pass	_	_
+3	захвачен	захватить	VERB	VBNH	Animacy=Anim|Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	{"ud": "0"}	root	_	_
+4	якобитами	якобит	NOUN	NN	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	{"ud": "3"}	obl:agent	_	SpaceAfter=No
+5	,	,	PUNCT	,	_	{"ud": "7"}	punct	_	_
+6	которые	который	PRON	AWP	Animacy=Anim|Case=Nom|Number=Plur	{"ud": "7"}	nsubj	_	_
+7	устроили	устроить	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	{"ud": "4"}	acl:relcl	_	_
+8	в	в	ADP	IN	_	{"ud": "9"}	case	_	_
+9	замке	замок	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	{"ud": "7"}	obl	_	_
+10	тюрьму	тюрьма	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	{"ud": "7"}	obj	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	{"ud": "3"}	punct	_	_
+
+!# {"sid": 41, "sid_uuid": "a87fd3cfc09b18f99f35658ce73197135545b629fcc66a377f9462891abe1d20", "raw_text": "\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u043d\u043d\u043e \u043f\u043e\u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0422\u0435\u0437\u0435\u0439 ."}
+1	Неожиданно	неожиданно	ADV	RB	Degree=Pos	{"ud": "2"}	advmod	_	_
+2	появляется	появляться	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	{"ud": "0"}	root	_	_
+3	Тезей	Тезей	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	{"ud": "2"}	nsubj	_	SpaceAfter=No
+4	.	.	PUNCT	.	_	{"ud": "2"}	punct	_	_
+
+!# {"sid": 44, "sid_uuid": "3cb685a7a9438b2bf07dee6a38dd2de2ada3626c52a9cf39a02f52902b44a715", "raw_text": "\u0412\u0441\u0435\u0433\u043e \u0441\u043a\u0430\u0447\u0430\u043d\u043e \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u043d\u0438\u044f : 207.022 \u0433\u0438\u0433\u0430\u0431\u0430\u0439\u0442"}
+1	Всего	всего	ADV	RB	Degree=Pos	{"ud": "2"}	advmod	_	_
+2	скачано	скачать	VERB	VBNH	Animacy=Inan|Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	{"ud": "0"}	root	_	_
+3	содержания	содержание	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	{"ud": "2"}	obj	_	SpaceAfter=No
+4	:	:	PUNCT	:	_	{"ud": "3"}	punct	_	_
+5	207.022	207022	NUM	CD	Animacy=Inan|Case=Nom|Gender=Masc|NumType=Card	{"ud": "6"}	nummod:gov	_	_
+6	гигабайт	гигабайт	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	{"ud": "3"}	appos	_	_
+
+!# {"sid": 49, "sid_uuid": "acbb6e3046d001da6bbb2714a6cc3efa89aaf5327713931fe67ca281ee7d91a1", "raw_text": "\u0421 \u043d\u0438\u043c \u0433\u0440\u0430\u043d\u0438\u0447\u0430\u0442 \u0433\u043e\u0440\u043e\u0434\u0430 \u0418\u0438\u0434\u0437\u0443\u043a\u0430 , \u041a\u0430\u043c\u0430 ."}
+1	С	с	ADP	IN	_	{"ud": "2"}	case	_	_
+2	ним	он	PRON	PRP	Case=Ins|Gender=Masc|Number=Sing|Person=3	{"ud": "3"}	obl	_	_
+3	граничат	граничить	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+4	города	город	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	{"ud": "3"}	nsubj	_	_
+5	Иидзука	Иидзука	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	{"ud": "4"}	appos	_	SpaceAfter=No
+6	,	,	PUNCT	,	_	{"ud": "7"}	punct	_	_
+7	Кама	Кама	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	{"ud": "5"}	conj	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	{"ud": "3"}	punct	_	_
+
+!# {"sid": 51, "sid_uuid": "f13cba08b4a62e07ba40c0d2aae72fbc4352ffc47cf1fe3ccfbb57ea8b00fb86", "raw_text": "\u0417\u0430 \u0438\u0437\u0443\u0447\u0435\u043d\u0438\u0435 \u0434\u0432\u043e\u0439\u043d\u043e\u0439 \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 \u0442\u0440\u0435\u0431\u043e\u0432\u0430\u043b\u043e\u0441\u044c \u0437\u0430\u043f\u043b\u0430\u0442\u0438\u0442\u044c 1000 \u0437\u043e\u043b\u043e\u0442\u044b\u0445 \u043c\u043e\u043d\u0435\u0442 ."}
+1	За	за	ADP	IN	_	{"ud": "2"}	case	_	_
+2	изучение	изучение	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	{"ud": "5"}	obl	_	_
+3	двойной	двойной	ADJ	JJL	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	{"ud": "4"}	amod	_	_
+4	специализации	специализация	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	{"ud": "2"}	nmod	_	_
+5	требовалось	требоваться	VERB	VBC	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	{"ud": "0"}	root	_	_
+6	заплатить	заплатить	VERB	VB	Aspect=Perf|VerbForm=Inf|Voice=Act	{"ud": "5"}	xcomp	_	_
+7	1000	1000	NUM	CD	Case=Acc|NumType=Card	{"ud": "9"}	nummod:gov	_	_
+8	золотых	золотой	ADJ	JJL	Case=Gen|Degree=Pos|Number=Plur	{"ud": "9"}	amod	_	_
+9	монет	монета	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	{"ud": "6"}	obj	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	{"ud": "5"}	punct	_	_
+
+!# {"sid": 52, "sid_uuid": "0a0381f63603dfb394383a254c31bf1f36487c44efc9176aa00e45c1cf0d3762", "raw_text": "\u0427\u043b\u0435\u043d - \u043a\u043e\u0440\u0440\u0435\u0441\u043f\u043e\u043d\u0434\u0435\u043d\u0442 \u0410\u041d \u0421\u0421\u0421\u0420 ( 1939 ) ."}
+1	Член	член	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	{"ud": "0"}	root	_	SpaceAfter=No
+2	-	-	PUNCT	-	_	{"ud": "3"}	punct	_	SpaceAfter=No
+3	корреспондент	корреспондент	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	{"ud": "1"}	appos	_	_
+4	АН	АН	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	{"ud": "1"}	nmod	_	_
+5	СССР	СССР	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "4"}	nmod	_	_
+6	(	(	PUNCT	(	_	{"ud": "7"}	punct	_	SpaceAfter=No
+7	1939	1939	ADJ	ORD	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "1"}	appos	_	SpaceAfter=No
+8	)	)	PUNCT	)	_	{"ud": "7"}	punct	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	{"ud": "1"}	punct	_	_
+
+!# {"sid": 53, "sid_uuid": "8c545377d57575f0a23938481b5e4e12f41acad4467a4858f5123db951c2b578", "raw_text": "\u0412\u0435\u043b\u0438\u0447\u0438\u043d\u043e\u0439 , \u043e\u0431\u0440\u0430\u0442\u043d\u043e\u0439 \u041a\u041f\u0418 , \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u044d\u043d\u0435\u0440\u0433\u043e\u0435\u043c\u043a\u043e\u0441\u0442\u044c ."}
+1	Величиной	величина	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	{"ud": "6"}	xcomp	_	SpaceAfter=No
+2	,	,	PUNCT	,	_	{"ud": "3"}	punct	_	_
+3	обратной	обратный	ADJ	JJL	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	{"ud": "1"}	amod	_	_
+4	КПИ	кпи	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	{"ud": "3"}	obj	_	SpaceAfter=No
+5	,	,	PUNCT	,	_	{"ud": "3"}	punct	_	_
+6	является	являться	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	{"ud": "0"}	root	_	_
+7	энергоемкость	энергоемкость	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	{"ud": "6"}	nsubj	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	{"ud": "6"}	punct	_	_
+
+!# {"sid": 54, "sid_uuid": "293eb3df31dcb560a56d34389fbb1e91c340463cf6945344de9cf00423997117", "raw_text": "\u0412 1942 \u0433\u043e\u0434\u0443 \u0431\u044b\u043b \u0444\u0430\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u0438 \u0437\u0430\u043a\u043b\u044e\u0447\u0451\u043d \u043f\u043e\u0434 \u0434\u043e\u043c\u0430\u0448\u043d\u0438\u0439 \u0430\u0440\u0435\u0441\u0442 ."}
+1	В	в	ADP	IN	_	{"ud": "3"}	case	_	_
+2	1942	1942	ADJ	ORD	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "3"}	amod	_	_
+3	году	год	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	{"ud": "6"}	obl	_	_
+4	был	быть	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	{"ud": "6"}	aux:pass	_	_
+5	фактически	фактически	ADV	RB	Degree=Pos	{"ud": "6"}	advmod	_	_
+6	заключён	заключить	VERB	VBNH	Animacy=Anim|Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	{"ud": "0"}	root	_	_
+7	под	под	ADP	IN	_	{"ud": "9"}	case	_	_
+8	домашний	домашний	ADJ	JJL	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "9"}	amod	_	_
+9	арест	арест	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	{"ud": "6"}	obl	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	{"ud": "6"}	punct	_	_
+
+!# {"sid": 57, "sid_uuid": "b60dfb05f44e686e778dd95562f44a75a7e4dc7aae1868ab61c9123f1b54152a", "raw_text": "\u041f\u0440\u043e\u0432\u0451\u043b \u043f\u043e\u043b\u0442\u043e\u0440\u0430 \u0433\u043e\u0434\u0430 \u0432 \u0420\u0438\u043c\u0435 \u0438 \u0434\u0440\u0443\u0433\u0438\u0445 \u0435\u0432\u0440\u043e\u043f\u0435\u0439\u0441\u043a\u0438\u0445 \u0433\u043e\u0440\u043e\u0434\u0430\u0445 ."}
+1	Провёл	провести	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+2	полтора	полтора	NUM	CD	Case=Acc|Gender=Masc|NumType=Card	{"ud": "3"}	nummod:gov	_	_
+3	года	год	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "1"}	obl	_	_
+4	в	в	ADP	IN	_	{"ud": "5"}	case	_	_
+5	Риме	Рим	PROPN	NNP	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	{"ud": "1"}	obl	_	_
+6	и	и	CCONJ	CC	_	{"ud": "9"}	cc	_	_
+7	других	другой	ADJ	JJL	Case=Loc|Degree=Pos|Number=Plur	{"ud": "9"}	amod	_	_
+8	европейских	европейский	ADJ	JJL	Case=Loc|Degree=Pos|Number=Plur	{"ud": "9"}	amod	_	_
+9	городах	город	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	{"ud": "5"}	conj	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	{"ud": "1"}	punct	_	_
+
+!# {"sid": 64, "sid_uuid": "183b292902969964161fcfeeffebb123c61d1eb85a702c677bf839d5c082e4e3", "raw_text": "\u041c\u043e\u0449\u043d\u043e\u0441\u0442\u044c -- 2 \u041c\u0412\u0442 ."}
+1	Мощность	мощность	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	{"ud": "4"}	nsubj	_	_
+2	--	--	PUNCT	--	_	{"ud": "4"}	punct	_	_
+3	2	2	NUM	CD	Animacy=Inan|Case=Nom|Gender=Masc|NumType=Card	{"ud": "4"}	nummod:gov	_	_
+4	МВт	мвт	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "0"}	root	_	SpaceAfter=No
+5	.	.	PUNCT	.	_	{"ud": "4"}	punct	_	_
+
+!# {"sid": 69, "sid_uuid": "272ef68222ec670d044c54f7525ba11d3302845201a3069d226b7b5040bf4654", "raw_text": "\u0421\u0442\u0430\u043d\u0438\u0446\u0430 \u043e\u0441\u043d\u043e\u0432\u0430\u043d\u0430 \u0432 1863 \u0433\u043e\u0434\u0443 \u0432 \u0432\u0435\u0440\u0445\u043e\u0432\u044c\u044f\u0445 \u0440\u0435\u043a\u0438 \u0410\u0431\u0438\u043d ."}
+1	Станица	станица	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	{"ud": "2"}	nsubj:pass	_	_
+2	основана	основать	VERB	VBNH	Animacy=Inan|Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	{"ud": "0"}	root	_	_
+3	в	в	ADP	IN	_	{"ud": "5"}	case	_	_
+4	1863	1863	ADJ	ORD	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "5"}	amod	_	_
+5	году	год	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	{"ud": "2"}	obl	_	_
+6	в	в	ADP	IN	_	{"ud": "7"}	case	_	_
+7	верховьях	верховье	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	{"ud": "2"}	obl	_	_
+8	реки	река	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	{"ud": "7"}	nmod	_	_
+9	Абин	Абин	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "8"}	appos	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	{"ud": "2"}	punct	_	_
+
+!# {"sid": 72, "sid_uuid": "505c006634b8607e4a5bdce212360b0fffb3c125489ec6c19ea6f461f02f43e2", "raw_text": "\u041a\u0430\u043a \u0438 \u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u043c\u043e\u0441\u0442 , \u041a\u0443\u0437\u043d\u0435\u0447\u043d\u044b\u0439 \u043c\u043e\u0441\u0442 \u043f\u043e\u0441\u043b\u0435 \u0432\u043e\u0439\u043d\u044b \u043d\u0435 \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u043b\u0441\u044f ."}
+1	Как	как	ADP	IN	_	{"ud": "4"}	case	_	_
+2	и	и	PART	UH	_	{"ud": "4"}	advmod	_	_
+3	Рабочий	рабочий	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "4"}	amod	_	_
+4	мост	мост	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "11"}	obl	_	SpaceAfter=No
+5	,	,	PUNCT	,	_	{"ud": "11"}	punct	_	_
+6	Кузнечный	кузнечный	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "7"}	amod	_	_
+7	мост	мост	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "11"}	nsubj	_	_
+8	после	после	ADP	IN	_	{"ud": "9"}	case	_	_
+9	войны	война	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	{"ud": "11"}	obl	_	_
+10	не	не	PART	NEG	Polarity=Neg	{"ud": "11"}	advmod	_	_
+11	восстанавливался	восстанавливаться	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	{"ud": "0"}	root	_	SpaceAfter=No
+12	.	.	PUNCT	.	_	{"ud": "11"}	punct	_	_
+
+!# {"sid": 75, "sid_uuid": "e51513e1cd5dc0ce617efe7e8d5c15bc7c6d163c965751922843d8c77a5ca743", "raw_text": "\u0412 \u0446\u0435\u043b\u043e\u043c \u0415\u0432\u0440\u043e\u043f\u0435\u0439\u0441\u043a\u0438\u0439 \u0441\u043e\u044e\u0437 \u0432\u044b\u0434\u0435\u043b\u044f\u0435\u0442\u0441\u044f \u0434\u043e\u0432\u043e\u043b\u044c\u043d\u043e \u0441\u043b\u043e\u0436\u043d\u043e\u0439 \u0434\u0435\u043c\u043e\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u0435\u0439 ."}
+1	В	в	ADP	IN	_	{"ud": "2"}	case	_	_
+2	целом	целое	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	{"ud": "5"}	obl	_	_
+3	Европейский	европейский	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "4"}	amod	_	_
+4	союз	союз	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "5"}	nsubj	_	_
+5	выделяется	выделяться	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	{"ud": "0"}	root	_	_
+6	довольно	довольно	ADV	RB	Degree=Pos	{"ud": "7"}	advmod	_	_
+7	сложной	сложный	ADJ	JJL	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	{"ud": "9"}	amod	_	_
+8	демографической	демографический	ADJ	JJL	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	{"ud": "9"}	amod	_	_
+9	ситуацией	ситуация	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	{"ud": "5"}	obj	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	{"ud": "5"}	punct	_	_
+
+!# {"sid": 76, "sid_uuid": "b3c780ceeab4d37f6d20851bf2e24fce330cbe080d1fde26c2e47ac03b806cfb", "raw_text": "\u041d\u0430\u043f\u043e\u0447\u0432\u0435\u043d\u043d\u044b\u0439 \u043f\u043e\u043a\u0440\u043e\u0432 \u043d\u0435\u0440\u0435\u0434\u043a\u043e \u0445\u043e\u0440\u043e\u0448\u043e \u0440\u0430\u0437\u0432\u0438\u0442 \u0438\u0437 \u0437\u0435\u043b\u0435\u043d\u044b\u0445 \u043c\u0445\u043e\u0432 ."}
+1	Напочвенный	напочвенный	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "2"}	amod	_	_
+2	покров	покров	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "5"}	nsubj	_	_
+3	нередко	нередко	ADV	RB	Degree=Pos	{"ud": "5"}	advmod	_	_
+4	хорошо	хорошо	ADV	RB	Degree=Pos	{"ud": "5"}	advmod	_	_
+5	развит	развить	VERB	VBNH	Animacy=Inan|Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	{"ud": "0"}	root	_	_
+6	из	из	ADP	IN	_	{"ud": "8"}	case	_	_
+7	зеленых	зеленый	ADJ	JJL	Case=Gen|Degree=Pos|Number=Plur	{"ud": "8"}	amod	_	_
+8	мхов	мох	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	{"ud": "5"}	obl	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	{"ud": "5"}	punct	_	_
+
+!# {"sid": 81, "sid_uuid": "6ed6a6aa83ba5f12a7b0bbff59095bf54d071229f63e2afd44edee201bcf65ca", "raw_text": "\u041e\u043d \u0432\u043a\u043b\u044e\u0447\u0430\u043b \u0433\u0430\u0440\u043d\u0438\u0437\u043e\u043d , \u0441\u043a\u043b\u0430\u0434 \u0441\u043d\u0430\u0431\u0436\u0435\u043d\u0438\u044f \u0438 \u0431\u043e\u043b\u044c\u043d\u0438\u0446\u044b ."}
+1	Он	он	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	{"ud": "2"}	nsubj	_	_
+2	включал	включать	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+3	гарнизон	гарнизон	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	{"ud": "2"}	obj	_	SpaceAfter=No
+4	,	,	PUNCT	,	_	{"ud": "5"}	punct	_	_
+5	склад	склад	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	{"ud": "3"}	conj	_	_
+6	снабжения	снабжение	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	{"ud": "5"}	nmod	_	_
+7	и	и	CCONJ	CC	_	{"ud": "8"}	cc	_	_
+8	больницы	больница	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	{"ud": "3"}	conj	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	{"ud": "2"}	punct	_	_
+
+!# {"sid": 87, "sid_uuid": "11dd7215c0fce4d690bf2388c76cb3fc8778736f12da214a9f51449973dcdf08", "raw_text": "\u0412\u0438\u043a\u0442\u043e\u0440\u0430 \u041f\u043e\u0437\u0434\u043d\u043e\u0432\u0430 \u043d\u0435 \u0441\u0442\u0430\u043b\u043e \u0432 11 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2010 \u0433\u043e\u0434\u0430 ."}
+1	Виктора	Виктор	PROPN	NNP	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	{"ud": "4"}	obj	_	_
+2	Позднова	Позднов	PROPN	NNP	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	{"ud": "1"}	flat:name	_	_
+3	не	не	PART	NEG	Polarity=Neg	{"ud": "4"}	advmod	_	_
+4	стало	стать	VERB	VBC	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+5	в	в	ADP	IN	_	{"ud": "6"}	case	_	_
+6	11	11	ADJ	ORD	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	{"ud": "4"}	obl	_	_
+7	октября	октябрь	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "6"}	flat	_	_
+8	2010	2010	ADJ	ORD	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "9"}	amod	_	_
+9	года	год	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "7"}	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	{"ud": "4"}	punct	_	_
+
+!# {"sid": 88, "sid_uuid": "cd36ef30b9f086322fe9aa44bc1e1d13946e656ea92e91fb9c39c34e2786a01f", "raw_text": "\u0412\u0438\u043d\u043e\u0432\u043d\u044b\u043c \u0441\u0435\u0431\u044f \u043d\u0435 \u043f\u0440\u0438\u0437\u043d\u0430\u043b , \u0431\u044b\u043b \u043f\u0440\u0438\u0433\u043e\u0432\u043e\u0440\u0451\u043d \u043a \u043f\u044f\u0442\u0438 \u0433\u043e\u0434\u0430\u043c \u0441\u0441\u044b\u043b\u043a\u0438 ."}
+1	Виновным	виновный	ADJ	JJL	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "4"}	xcomp	_	_
+2	себя	себя	PRON	PRP	Case=Acc|Reflex=Yes	{"ud": "4"}	obj	_	_
+3	не	не	PART	NEG	Polarity=Neg	{"ud": "4"}	advmod	_	_
+4	признал	признать	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	SpaceAfter=No
+5	,	,	PUNCT	,	_	{"ud": "7"}	punct	_	_
+6	был	быть	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	{"ud": "7"}	aux:pass	_	_
+7	приговорён	приговорить	VERB	VBNH	Animacy=Anim|Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	{"ud": "1"}	parataxis	_	_
+8	к	к	ADP	IN	_	{"ud": "10"}	case	_	_
+9	пяти	пять	NUM	CD	Case=Dat|NumType=Card	{"ud": "10"}	nummod	_	_
+10	годам	год	NOUN	NN	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	{"ud": "7"}	obl	_	_
+11	ссылки	ссылка	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	{"ud": "10"}	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	.	_	{"ud": "4"}	punct	_	_
+
+!# {"sid": 94, "sid_uuid": "6fdff3bfb01c7cfc7c3aaa9bf874fedd455de2863ce61b2a42fbec024876870e", "raw_text": "\u0412\u043e\u0437\u043c\u043e\u0436\u043d\u043e , \u0447\u0442\u043e \u043f\u0440\u0438\u0447\u0438\u043d\u043e\u0439 \u0430\u0432\u0430\u0440\u0438\u0438 \u0441\u0442\u0430\u043b\u043e \u043d\u0435\u0434\u043e\u043c\u043e\u0433\u0430\u043d\u0438\u0435 \u043d\u0435\u043c\u0446\u0430 ."}
+1	Возможно	возможно	ADV	RB	Degree=Pos	{"ud": "0"}	root	_	SpaceAfter=No
+2	,	,	PUNCT	,	_	{"ud": "6"}	punct	_	_
+3	что	что	SCONJ	IN	_	{"ud": "6"}	mark	_	_
+4	причиной	причина	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	{"ud": "6"}	obj	_	_
+5	аварии	авария	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	{"ud": "4"}	nmod	_	_
+6	стало	стать	VERB	VBC	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	{"ud": "1"}	ccomp	_	_
+7	недомогание	недомогание	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	{"ud": "6"}	nsubj	_	_
+8	немца	немец	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	{"ud": "7"}	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	{"ud": "1"}	punct	_	_
+
+!# {"sid": 95, "sid_uuid": "bd4c818442eb825008a572b46440956f62002f879eabf5e645470d5d845e9675", "raw_text": "\u0417\u0430\u043d\u0438\u043c\u0430\u0435\u0442 \u043f\u043b\u043e\u0449\u0430\u0434\u044c 900,483 \u043a\u043c2 ."}
+1	Занимает	занимать	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+2	площадь	площадь	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	{"ud": "1"}	obj	_	_
+3	900,483	900,483	NUM	CD	Animacy=Inan|Case=Nom|NumType=Card	{"ud": "4"}	nummod:gov	_	_
+4	км2	км2	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "2"}	nmod	_	SpaceAfter=No
+5	.	.	PUNCT	.	_	{"ud": "1"}	punct	_	_
+
+!# {"sid": 96, "sid_uuid": "36250d833ef346bec39ef9b611487fd9e7153b5f85aa6d47d62240373b488c16", "raw_text": "\u041c\u0430\u0440\u0438\u0430\u043d\u043e \u0437\u0430\u043a\u043e\u043d\u0447\u0438\u043b \u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u0443\u044e \u0430\u043a\u0430\u0434\u0435\u043c\u0438\u044e ."}
+1	Мариано	Мариано	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	{"ud": "2"}	nsubj	_	_
+2	закончил	закончить	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+3	Национальную	национальный	ADJ	JJL	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	{"ud": "4"}	amod	_	_
+4	академию	академия	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	{"ud": "2"}	obj	_	SpaceAfter=No
+5	.	.	PUNCT	.	_	{"ud": "2"}	punct	_	_
+
+!# {"sid": 99, "sid_uuid": "03e3379ba0b8c38a64f735bcd499eedd52185c5e1b4cc535ebe58fe708107e7e", "raw_text": "\u0443\u0440\u043e\u0432\u0435\u043d\u044c \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u044b : \u0431\u0430\u043a\u0430\u043b\u0430\u0432\u0440\u0438\u0430\u0442 + \u043c\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430"}
+1	уровень	уровень	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "4"}	nsubj	_	_
+2	программы	программа	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	{"ud": "1"}	nmod	_	SpaceAfter=No
+3	:	:	PUNCT	:	_	{"ud": "4"}	punct	_	_
+4	бакалавриат	бакалавриат	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "0"}	root	_	_
+5	+	+	SYM	SYM	_	{"ud": "6"}	cc	_	_
+6	магистратура	магистратура	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	{"ud": "4"}	conj	_	_
+
+!# {"sid": 108, "sid_uuid": "ab0b5d6016b43c923cb707c295a8606059079c67de3b38bb598611e2a82a1e6f", "raw_text": "\u041c\u043e\u043b\u043e\u0434\u044b\u0435 \u0432\u0435\u0442\u043a\u0438 \u0440\u044b\u0436\u0435-\u0431\u0443\u0440\u044b\u0435 , \u0437\u0430\u0442\u0435\u043c \u0442\u0435\u043c\u043d\u0435\u044e\u0449\u0438\u0435 \u0434\u043e \u0442\u0451\u043c\u043d\u043e-\u043a\u043e\u0440\u0438\u0447\u043d\u0435\u0432\u044b\u0445 ."}
+1	Молодые	молодой	ADJ	JJL	Case=Nom|Degree=Pos|Number=Plur	{"ud": "2"}	amod	_	_
+2	ветки	ветка	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	{"ud": "3"}	nsubj	_	_
+3	рыже-бурые	рыже-бурый	ADJ	JJL	Case=Nom|Degree=Pos|Number=Plur	{"ud": "0"}	root	_	SpaceAfter=No
+4	,	,	PUNCT	,	_	{"ud": "6"}	punct	_	_
+5	затем	затем	ADV	RB	Degree=Pos	{"ud": "6"}	advmod	_	_
+6	темнеющие	темнеть	VERB	VBNL	Animacy=Inan|Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	{"ud": "3"}	conj	_	_
+7	до	до	ADP	IN	_	{"ud": "8"}	case	_	_
+8	тёмно-коричневых	тёмно-коричневый	ADJ	JJL	Case=Gen|Degree=Pos|Number=Plur	{"ud": "6"}	obl	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	{"ud": "3"}	punct	_	_
+
+!# {"sid": 109, "sid_uuid": "f18bfdf2badc116cf40202bb0d749daf644066170d68056dace0290a4ea1c5ba", "raw_text": "\u0414\u043e\u043b\u0436\u043d\u043e\u0441\u0442\u044c \u043e\u043a\u0440\u0443\u0436\u043d\u043e\u0433\u043e \u0432\u0438\u043a\u0430\u0440\u0438\u044f \u0421\u0442\u0430\u043a\u043b\u0438\u0448\u043a\u0441\u043a\u043e\u0433\u043e \u0434\u0435\u043a\u0430\u043d\u0430\u0442\u0430 \u0437\u0430\u043d\u0438\u043c\u0430\u0435\u0442 \u0441\u0432\u044f\u0449\u0435\u043d\u043d\u0438\u043a \u0419\u043e\u043d\u0430\u0441 \u0414\u0430\u043b\u0438\u043d\u044f\u0432\u0438\u0447\u044e\u0441 ( ) ."}
+1	Должность	должность	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	{"ud": "6"}	obj	_	_
+2	окружного	окружной	ADJ	JJL	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "3"}	amod	_	_
+3	викария	викарий	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	{"ud": "1"}	nmod	_	_
+4	Стаклишкского	стаклишкский	ADJ	JJL	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "5"}	amod	_	_
+5	деканата	деканат	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "3"}	nmod	_	_
+6	занимает	занимать	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+7	священник	священник	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	{"ud": "6"}	nsubj	_	_
+8	Йонас	Йонас	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	{"ud": "7"}	appos	_	_
+9	Далинявичюс	Далинявичюс	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	{"ud": "8"}	flat:name	_	_
+10	(	(	PUNCT	(	_	{"ud": "7"}	punct	_	SpaceAfter=No
+11	)	)	PUNCT	)	_	{"ud": "7"}	punct	_	SpaceAfter=No
+12	.	.	PUNCT	.	_	{"ud": "6"}	punct	_	_
+
+!# {"sid": 110, "sid_uuid": "63d71e618b1b63e2acf97a4c5532b83535e126f7f9f74e740f3f30bddea0b787", "raw_text": "\u0414\u0432\u043e\u044e\u0440\u043e\u0434\u043d\u044b\u0439 \u0431\u0440\u0430\u0442 \u043f\u043e\u044d\u0442\u0435\u0441\u0441\u044b \u0417\u0438\u043d\u0430\u0438\u0434\u044b \u0413\u0438\u043f\u043f\u0438\u0443\u0441 ."}
+1	Двоюродный	двоюродный	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "2"}	amod	_	_
+2	брат	брат	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	{"ud": "0"}	root	_	_
+3	поэтессы	поэтесса	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	{"ud": "2"}	nmod	_	_
+4	Зинаиды	Зинаида	PROPN	NNP	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	{"ud": "3"}	appos	_	_
+5	Гиппиус	Гиппиус	PROPN	NNP	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	{"ud": "4"}	flat:name	_	SpaceAfter=No
+6	.	.	PUNCT	.	_	{"ud": "2"}	punct	_	_
+
+!# {"sid": 111, "sid_uuid": "c13b72a29b137cc720bac27bb64b0eaa9a54bab9b979c7b920df21c861020aec", "raw_text": "\u041b\u0443\u0447\u0448\u0438\u0439 \u0431\u043e\u043c\u0431\u0430\u0440\u0434\u0438\u0440 `` \u0410\u043d\u0434\u0435\u0440\u043b\u0435\u0445\u0442\u0430 &#39;&#39; \u0432 \u041b\u0438\u0433\u0435 \u0415\u0432\u0440\u043e\u043f\u044b 2011/12 ."}
+1	Лучший	лучший	ADJ	JJS	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "2"}	amod	_	_
+2	бомбардир	бомбардир	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	{"ud": "0"}	root	_	_
+3	``	``	PUNCT	``	_	{"ud": "4"}	punct	_	SpaceAfter=No
+4	Андерлехта	Андерлехт	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "2"}	nmod	_	SpaceAfter=No
+5	&#39;&#39;	&#39;&#39;	PUNCT	&#39;&#39;	_	{"ud": "4"}	punct	_	_
+6	в	в	ADP	IN	_	{"ud": "7"}	case	_	_
+7	Лиге	лига	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	{"ud": "2"}	nmod	_	_
+8	Европы	Европа	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	{"ud": "7"}	nmod	_	_
+9	2011/12	2011/12	NUM	CD	Case=Nom|NumType=Card	{"ud": "7"}	nummod	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	{"ud": "2"}	punct	_	_
+
+!# {"sid": 116, "sid_uuid": "b8e2f06104645c839f461797503fb6cbddf0299fe36451858b17fafe6c125a93", "raw_text": "\u0414\u0435\u0440\u0436\u0430\u0442\u0441\u044f \u043f\u0430\u0440\u0430\u043c\u0438 \u0438\u043b\u0438 \u043d\u0435\u0431\u043e\u043b\u044c\u0448\u0438\u043c\u0438 \u0433\u0440\u0443\u043f\u043f\u0430\u043c\u0438 ."}
+1	Держатся	держаться	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	{"ud": "0"}	root	_	_
+2	парами	пара	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	{"ud": "1"}	obj	_	_
+3	или	или	CCONJ	CC	_	{"ud": "5"}	cc	_	_
+4	небольшими	небольшой	ADJ	JJL	Case=Ins|Degree=Pos|Number=Plur	{"ud": "5"}	amod	_	_
+5	группами	группа	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	{"ud": "2"}	conj	_	SpaceAfter=No
+6	.	.	PUNCT	.	_	{"ud": "1"}	punct	_	_
+
+!# {"sid": 117, "sid_uuid": "e8c030a1b1fa85b3ed121902cf57c774c46990e11cb58b27f82d9c38efe80468", "raw_text": "\u0412 \u0434\u0435\u043a\u0430\u0431\u0440\u0435 2012 \u0433\u043e\u0434\u0430 \u043d\u0430 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438 \u0426\u0410\u0420 \u043d\u0430\u0447\u0430\u043b\u0441\u044f \u0432\u043e\u043e\u0440\u0443\u0436\u0451\u043d\u043d\u044b\u0439 \u043a\u043e\u043d\u0444\u043b\u0438\u043a\u0442 ."}
+1	В	в	ADP	IN	_	{"ud": "2"}	case	_	_
+2	декабре	декабрь	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	{"ud": "8"}	obl	_	_
+3	2012	2012	ADJ	ORD	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "4"}	amod	_	_
+4	года	год	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "2"}	nmod	_	_
+5	на	на	ADP	IN	_	{"ud": "6"}	case	_	_
+6	территории	территория	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	{"ud": "8"}	obl	_	_
+7	ЦАР	ЦАР	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	{"ud": "6"}	nmod	_	_
+8	начался	начаться	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	{"ud": "0"}	root	_	_
+9	вооружённый	вооруженный	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "10"}	amod	_	_
+10	конфликт	конфликт	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "8"}	nsubj	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	{"ud": "8"}	punct	_	_
+
+!# {"sid": 119, "sid_uuid": "611282501957b2f3a133be2695298272ff7443102c3017165823ba89b0f47b4a", "raw_text": "\u0410\u043a\u0442\u0438\u0432\u043d\u043e\u0435 \u0433\u0440\u0443\u0437\u043e\u0432\u043e\u0435 \u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435 \u0442\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u0438\u0440\u043e\u0432\u043a\u0430 \u0442\u043e\u0440\u0444\u0430 ."}
+1	Активное	активный	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	{"ud": "3"}	amod	_	_
+2	грузовое	грузовой	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	{"ud": "3"}	amod	_	_
+3	движение	движение	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	{"ud": "0"}	root	_	_
+4	транспортировка	транспортировка	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	{"ud": "3"}	conj	_	_
+5	торфа	торф	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "4"}	nmod	_	SpaceAfter=No
+6	.	.	PUNCT	.	_	{"ud": "3"}	punct	_	_
+
+!# {"sid": 121, "sid_uuid": "593b5878308204926498a57e0998386ef3d6ec4baf1267338960fc7ca6c2ed70", "raw_text": "\u0423\u0440\u044f \u0441 \u043a\u0443\u0440\u0438\u0446\u0435\u0439 \u0432\u0430\u0440\u0438\u0442\u0441\u044f \u043f\u0440\u0438 \u0441\u043b\u0430\u0431\u043e\u043c \u043a\u0438\u043f\u0435\u043d\u0438\u0438 \u0441 \u0443\u0434\u0430\u043b\u0435\u043d\u0438\u0435\u043c \u043f\u0435\u043d\u044b ."}
+1	Уря	уря	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	{"ud": "4"}	nsubj	_	_
+2	с	с	ADP	IN	_	{"ud": "3"}	case	_	_
+3	курицей	курица	NOUN	NN	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	{"ud": "1"}	nmod	_	_
+4	варится	вариться	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	{"ud": "0"}	root	_	_
+5	при	при	ADP	IN	_	{"ud": "7"}	case	_	_
+6	слабом	слабый	ADJ	JJL	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	{"ud": "7"}	amod	_	_
+7	кипении	кипение	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	{"ud": "4"}	obl	_	_
+8	с	с	ADP	IN	_	{"ud": "9"}	case	_	_
+9	удалением	удаление	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	{"ud": "4"}	obl	_	_
+10	пены	пена	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	{"ud": "9"}	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	{"ud": "4"}	punct	_	_
+
+!# {"sid": 122, "sid_uuid": "ad9eb592fdf4f34bf3b326f979b4cb07a9e61096eab8cddc46b0c94bc37efaf1", "raw_text": "`` \u0424\u0430\u0431\u0438\u0430\u043d\u0441\u043a\u043e\u0435 \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u043e &#39;&#39; \u0441\u043e\u0442\u0440\u0443\u0434\u043d\u0438\u0447\u0430\u0435\u0442 \u0441 \u043b\u0435\u0439\u0431\u043e\u0440\u0438\u0441\u0442\u0441\u043a\u043e\u0439 \u043f\u0430\u0440\u0442\u0438\u0435\u0439 \u0441 \u043c\u043e\u043c\u0435\u043d\u0442\u0430 \u043e\u0441\u043d\u043e\u0432\u0430\u043d\u0438\u044f \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0435\u0439 ."}
+1	``	``	PUNCT	``	_	{"ud": "3"}	punct	_	SpaceAfter=No
+2	Фабианское	фабианский	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	{"ud": "3"}	amod	_	_
+3	общество	общество	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	{"ud": "5"}	obj	_	SpaceAfter=No
+4	&#39;&#39;	&#39;&#39;	PUNCT	&#39;&#39;	_	{"ud": "3"}	punct	_	_
+5	сотрудничает	сотрудничать	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+6	с	с	ADP	IN	_	{"ud": "8"}	case	_	_
+7	лейбористской	лейбористский	ADJ	JJL	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	{"ud": "8"}	amod	_	_
+8	партией	партия	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	{"ud": "5"}	obl	_	_
+9	с	с	ADP	IN	_	{"ud": "10"}	case	_	_
+10	момента	момент	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "5"}	obl	_	_
+11	основания	основание	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	{"ud": "10"}	nmod	_	_
+12	последней	последний	ADJ	JJL	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	{"ud": "11"}	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	.	_	{"ud": "5"}	punct	_	_
+
+!# {"sid": 124, "sid_uuid": "06452641a29dc9ceea285b3c2564f5f6ebe9a4803fc37eb297b434bed32998f8", "raw_text": "\u0417\u0430\u043d\u0438\u043c\u0430\u0435\u0442 \u043f\u043b\u043e\u0449\u0430\u0434\u044c 31.52 \u043a\u043c2 ."}
+1	Занимает	занимать	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+2	площадь	площадь	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	{"ud": "1"}	obj	_	_
+3	31.52	31.52	NUM	CD	Animacy=Inan|Case=Nom|Gender=Masc|NumType=Card	{"ud": "4"}	nummod:gov	_	_
+4	км2	км2	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "2"}	nmod	_	SpaceAfter=No
+5	.	.	PUNCT	.	_	{"ud": "1"}	punct	_	_
+
+!# {"sid": 125, "sid_uuid": "4014f32181c99e440e4ae931b5d96eb62489fe155dd1671e2978a915484e8869", "raw_text": "\u0414\u043b\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0438\u043d\u0444\u0443\u0437\u0438\u0438 \u0441\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 \u043f\u0440\u0438\u0431\u043b\u0438\u0437\u0438\u0442\u0435\u043b\u044c\u043d\u043e 30 \u043c\u0438\u043d ."}
+1	Длительность	длительность	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	{"ud": "3"}	nsubj	_	_
+2	инфузии	инфузия	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	{"ud": "1"}	nmod	_	_
+3	составляет	составлять	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+4	приблизительно	приблизительно	ADV	RB	Degree=Pos	{"ud": "5"}	advmod	_	_
+5	30	30	NUM	CD	Case=Acc|NumType=Card	{"ud": "6"}	nummod:gov	_	_
+6	мин	мина	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	{"ud": "3"}	obj	_	SpaceAfter=No
+7	.	.	PUNCT	.	_	{"ud": "3"}	punct	_	_
+
+!# {"sid": 126, "sid_uuid": "01110405a6c56363aac9ea3b28595f07c1f6d6c12049bb010d21a44d6fb7f829", "raw_text": "\u0412 1979 \u0433\u043e\u0434\u0443 \u0424\u0440\u0430\u043d\u043a\u0435 \u043e\u0441\u043d\u043e\u0432\u0430\u043b Ars Electronica \u0432 \u041b\u0438\u043d\u0446\u0435 , \u0410\u0432\u0441\u0442\u0440\u0438\u044f ."}
+1	В	в	ADP	IN	_	{"ud": "3"}	case	_	_
+2	1979	1979	ADJ	ORD	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "3"}	amod	_	_
+3	году	год	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	{"ud": "5"}	obl	_	_
+4	Франке	Франке	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	{"ud": "5"}	nsubj	_	_
+5	основал	основать	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+6	Ars	Ars	X	FW	Foreign=Yes	{"ud": "5"}	obj	_	_
+7	Electronica	Electronica	X	FW	Foreign=Yes	{"ud": "6"}	flat:foreign	_	_
+8	в	в	ADP	IN	_	{"ud": "9"}	case	_	_
+9	Линце	Линц	PROPN	NNP	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	{"ud": "5"}	obl	_	SpaceAfter=No
+10	,	,	PUNCT	,	_	{"ud": "9"}	punct	_	_
+11	Австрия	Австрия	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	{"ud": "9"}	list	_	SpaceAfter=No
+12	.	.	PUNCT	.	_	{"ud": "5"}	punct	_	_
+
+!# {"sid": 128, "sid_uuid": "d21fdc9af74642a54ae751351f2cdb5552ccaa9e21e4f41bb745579b0802a0df", "raw_text": "\u0412 \u0440\u0430\u043c\u043a\u0430\u0445 \u0440\u0435\u0433\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0439 \u0438\u043d\u0438\u0446\u0438\u0430\u0442\u0438\u0432\u044b `` \u0425\u0430\u0440\u044c\u043a\u043e\u0432 \u043d\u0430\u0443\u0447\u043d\u044b\u0439 -- \u0425\u0430\u0440\u044c\u043a\u043e\u0432\u0443 \u0438\u043d\u0434\u0443\u0441\u0442\u0440\u0438\u0430\u043b\u044c\u043d\u043e\u043c\u0443 ! &#39;&#39;"}
+1	В	в	ADP	IN	_	{"ud": "4"}	case	_	_
+2	рамках	рамка	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	{"ud": "1"}	fixed	_	_
+3	региональной	региональный	ADJ	JJL	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	{"ud": "4"}	amod	_	_
+4	инициативы	инициатива	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	{"ud": "0"}	root	_	_
+5	``	``	PUNCT	``	_	{"ud": "6"}	punct	_	SpaceAfter=No
+6	Харьков	Харьков	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "4"}	appos	_	_
+7	научный	научный	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "6"}	amod	_	_
+8	--	--	PUNCT	--	_	{"ud": "6"}	punct	_	_
+9	Харькову	Харьков	PROPN	NNP	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	{"ud": "6"}	nmod	_	_
+10	индустриальному	индустриальный	ADJ	JJL	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "9"}	amod	_	SpaceAfter=No
+11	!	!	PUNCT	.	_	{"ud": "6"}	punct	_	SpaceAfter=No
+12	&#39;&#39;	&#39;&#39;	PUNCT	&#39;&#39;	_	{"ud": "6"}	punct	_	_
+
+!# {"sid": 129, "sid_uuid": "48364654e83de6e43761250dabafcd3ac5337d55d72a9d11e1920fbe5e5a2cb2", "raw_text": "\u0420\u0435\u043a\u0430 \u0425\u043c\u0435\u043b\u0438\u043d\u043a\u0430 \u0431\u0435\u0440\u0451\u0442 \u043d\u0430\u0447\u0430\u043b\u043e \u0432 \u0440\u0430\u0439\u043e\u043d\u0435 \u0441\u0435\u043b\u0430 \u041d\u0435\u0447\u0430\u0435\u0432\u043e ."}
+1	Река	река	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	{"ud": "3"}	nsubj	_	_
+2	Хмелинка	Хмелинка	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	{"ud": "1"}	appos	_	_
+3	берёт	брать	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+4	начало	начало	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	{"ud": "3"}	obj	_	_
+5	в	в	ADP	IN	_	{"ud": "6"}	case	_	_
+6	районе	район	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	{"ud": "3"}	obl	_	_
+7	села	село	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	{"ud": "6"}	nmod	_	_
+8	Нечаево	Нечаево	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	{"ud": "7"}	appos	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	{"ud": "3"}	punct	_	_
+
+!# {"sid": 134, "sid_uuid": "8426853807e9a51e77ceccde217c8e33f3949b418e917d0498ef288a30aebb33", "raw_text": "\u041e\u0442\u0431\u043e\u0440\u043e\u0447\u043d\u044b\u0439 \u0442\u0443\u0440\u043d\u0438\u0440 \u043f\u0440\u043e\u0432\u043e\u0434\u0438\u0442\u0441\u044f \u0432 \u0440\u0430\u043c\u043a\u0430\u0445 \u043f\u044f\u0442\u0438 \u043a\u043e\u043d\u0442\u0438\u043d\u0435\u043d\u0442\u0430\u043b\u044c\u043d\u044b\u0445 \u043a\u043e\u043d\u0444\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0439 ."}
+1	Отборочный	отборочный	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "2"}	amod	_	_
+2	турнир	турнир	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "3"}	nsubj	_	_
+3	проводится	проводиться	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	{"ud": "0"}	root	_	_
+4	в	в	ADP	IN	_	{"ud": "5"}	case	_	_
+5	рамках	рамка	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	{"ud": "3"}	obl	_	_
+6	пяти	пять	NUM	CD	Case=Gen|NumType=Card	{"ud": "8"}	nummod	_	_
+7	континентальных	континентальный	ADJ	JJL	Case=Gen|Degree=Pos|Number=Plur	{"ud": "8"}	amod	_	_
+8	конфедераций	конфедерация	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	{"ud": "5"}	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	{"ud": "3"}	punct	_	_
+
+!# {"sid": 137, "sid_uuid": "165ba6665ad8cb82e132b24801bfddc1b0fa3c588daeb9a5ed77a7bdf3280cd4", "raw_text": "\u0418\u0433\u0440\u0430 \u0441\u043e\u0437\u0434\u0430\u043d\u0430 \u0432 \u0436\u0430\u043d\u0440\u0435 \u043a\u0432\u0435\u0441\u0442\u0430 ."}
+1	Игра	игра	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	{"ud": "2"}	nsubj:pass	_	_
+2	создана	создать	VERB	VBNH	Animacy=Inan|Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	{"ud": "0"}	root	_	_
+3	в	в	ADP	IN	_	{"ud": "4"}	case	_	_
+4	жанре	жанр	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	{"ud": "2"}	obl	_	_
+5	квеста	квест	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "4"}	nmod	_	SpaceAfter=No
+6	.	.	PUNCT	.	_	{"ud": "2"}	punct	_	_
+
+!# {"sid": 143, "sid_uuid": "5f5cfe79e02ac78119600ec217cdf26f143253c032dc97bd23371db3886b362e", "raw_text": "\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044f \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043d\u0430 \u043d\u0430 Allmusic ."}
+1	Информация	информация	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	{"ud": "2"}	nsubj:pass	_	_
+2	подтверждена	подтвердить	VERB	VBNH	Animacy=Inan|Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	{"ud": "0"}	root	_	_
+3	на	на	ADP	IN	_	{"ud": "4"}	case	_	_
+4	Allmusic	Allmusic	X	FW	Foreign=Yes	{"ud": "2"}	obl	_	SpaceAfter=No
+5	.	.	PUNCT	.	_	{"ud": "2"}	punct	_	_
+
+!# {"sid": 147, "sid_uuid": "8c383e359dcc777b4e1bc3ec513c7736a718c2855f976076254f6e1b531d0e31", "raw_text": "Rhynchocyon udzungwensis ( ) -- \u0430\u0444\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u043e\u0435 \u043c\u043b\u0435\u043a\u043e\u043f\u0438\u0442\u0430\u044e\u0449\u0435\u0435 \u0438\u0437 \u0441\u0435\u043c\u0435\u0439\u0441\u0442\u0432\u0430 \u043f\u0440\u044b\u0433\u0443\u043d\u0447\u0438\u043a\u043e\u0432\u044b\u0445 ."}
+1	Rhynchocyon	rhynchocyon	X	FW	Foreign=Yes	{"ud": "7"}	nsubj	_	_
+2	udzungwensis	udzungwensis	X	FW	Foreign=Yes	{"ud": "1"}	flat:foreign	_	_
+3	(	(	PUNCT	(	_	{"ud": "1"}	punct	_	SpaceAfter=No
+4	)	)	PUNCT	)	_	{"ud": "1"}	punct	_	_
+5	--	--	PUNCT	--	_	{"ud": "7"}	punct	_	_
+6	африканское	африканский	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	{"ud": "7"}	amod	_	_
+7	млекопитающее	млекопитающее	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Neut|Number=Sing	{"ud": "0"}	root	_	_
+8	из	из	ADP	IN	_	{"ud": "9"}	case	_	_
+9	семейства	семейство	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	{"ud": "7"}	nmod	_	_
+10	прыгунчиковых	прыгунчиковый	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Neut|Number=Plur	{"ud": "9"}	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	{"ud": "7"}	punct	_	_
+
+!# {"sid": 149, "sid_uuid": "61b5ed23d6514813912b0052af3e9eb1226e132158227757b6382700d58cfb67", "raw_text": "\u0425\u043e\u0437\u044f\u0438\u043d \u043c\u043e\u0436\u0435\u0442 \u0443\u0441\u0442\u0440\u043e\u0438\u0442\u044c \u0441\u0432\u043e\u0435\u0433\u043e \u043f\u0438\u0442\u043e\u043c\u0446\u0430 \u043d\u0430 \u0440\u0430\u0431\u043e\u0442\u0443 ."}
+1	Хозяин	хозяин	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	{"ud": "2"}	nsubj	_	_
+2	может	мочь	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+3	устроить	устроить	VERB	VB	Aspect=Perf|VerbForm=Inf|Voice=Act	{"ud": "2"}	xcomp	_	_
+4	своего	свой	DET	PRP$	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	{"ud": "5"}	det	_	_
+5	питомца	питомец	NOUN	NN	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	{"ud": "3"}	obj	_	_
+6	на	на	ADP	IN	_	{"ud": "7"}	case	_	_
+7	работу	работа	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	{"ud": "3"}	obl	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	{"ud": "2"}	punct	_	_
+
+!# {"sid": 152, "sid_uuid": "1c8c2b50a513a24a5da9ca9fab6ed55bf3f37c207db104e3b4efcd03d108ac61", "raw_text": "\u0412 605 \u0433\u043e\u0434\u0443 \u0410\u0433\u0438\u043b\u0443\u043b\u044c\u0444 \u043f\u043e\u0442\u0440\u0435\u0431\u043e\u0432\u0430\u043b \u043e\u0442 \u0412\u0438\u0437\u0430\u043d\u0442\u0438\u0438 \u0434\u0430\u043d\u044c \u0438 \u041e\u0440\u0432\u0438\u0435\u0442\u043e ."}
+1	В	в	ADP	IN	_	{"ud": "3"}	case	_	_
+2	605	605	ADJ	ORD	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "3"}	amod	_	_
+3	году	год	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	{"ud": "5"}	obl	_	_
+4	Агилульф	Агилульф	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	{"ud": "5"}	nsubj	_	_
+5	потребовал	потребовать	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+6	от	от	ADP	IN	_	{"ud": "7"}	case	_	_
+7	Византии	Византия	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	{"ud": "5"}	obl	_	_
+8	дань	дань	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	{"ud": "5"}	obj	_	_
+9	и	и	CCONJ	CC	_	{"ud": "10"}	cc	_	_
+10	Орвието	Орвието	PROPN	NNP	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	{"ud": "8"}	conj	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	{"ud": "5"}	punct	_	_
+
+!# {"sid": 154, "sid_uuid": "775cbfb3c048e158b0bc1b51762a6909408b2d9d9e00dd99f37a5379857f2ef0", "raw_text": "\u041c\u0443\u043d\u0438\u0446\u0438\u043f\u0430\u043b\u0438\u0442\u0435\u0442 \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0432 \u0441\u043e\u0441\u0442\u0430\u0432\u0435 \u0440\u0430\u0439\u043e\u043d\u0430 ( \u043a\u043e\u043c\u0430\u0440\u043a\u0438 ) \u0411\u0430\u0445\u043e - \u0413\u0432\u0430\u0434\u0430\u043b\u0435\u043d\u0442\u0438\u043d ."}
+1	Муниципалитет	муниципалитет	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "2"}	nsubj	_	_
+2	находится	находиться	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	{"ud": "0"}	root	_	_
+3	в	в	ADP	IN	_	{"ud": "4"}	case	_	_
+4	составе	состав	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	{"ud": "2"}	obl	_	_
+5	района	район	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "4"}	nmod	_	_
+6	(	(	PUNCT	(	_	{"ud": "7"}	punct	_	SpaceAfter=No
+7	комарки	комарка	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	{"ud": "5"}	appos	_	SpaceAfter=No
+8	)	)	PUNCT	)	_	{"ud": "7"}	punct	_	_
+9	Бахо	бахо	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "5"}	appos	_	SpaceAfter=No
+10	-	-	PUNCT	-	_	{"ud": "9"}	punct	_	SpaceAfter=No
+11	Гвадалентин	Гвадалентин	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "9"}	flat:foreign	_	SpaceAfter=No
+12	.	.	PUNCT	.	_	{"ud": "2"}	punct	_	_
+
+!# {"sid": 160, "sid_uuid": "b07eaae9b29d9e1c93c65fab8019cde06abe09a26af8e2043358eb15341675fd", "raw_text": "\u041d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0432 100 \u043a\u0438\u043b\u043e\u043c\u0435\u0442\u0440\u0430\u0445 \u043a \u0441\u0435\u0432\u0435\u0440\u0443 \u043e\u0442 \u043e\u0441\u0442\u0440\u043e\u0432\u0430 \u041b\u0443\u0441\u043e\u043d ."}
+1	Находится	находиться	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	{"ud": "0"}	root	_	_
+2	в	в	ADP	IN	_	{"ud": "4"}	case	_	_
+3	100	100	NUM	CD	Case=Loc|NumType=Card	{"ud": "4"}	nummod	_	_
+4	километрах	километр	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	{"ud": "1"}	obl	_	_
+5	к	к	ADP	IN	_	{"ud": "6"}	case	_	_
+6	северу	север	NOUN	NN	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	{"ud": "4"}	nmod	_	_
+7	от	от	ADP	IN	_	{"ud": "8"}	case	_	_
+8	острова	остров	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "6"}	nmod	_	_
+9	Лусон	Лусон	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "8"}	appos	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	{"ud": "1"}	punct	_	_
+
+!# {"sid": 166, "sid_uuid": "21d50c455b26442b322c793382026e83eb0953be336c7efd286fb251bcacd7a2", "raw_text": "\u0412 \u0440\u0430\u0439\u043e\u043d \u0432\u0445\u043e\u0434\u044f\u0442 \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0438\u0435 \u0447\u0430\u0441\u0442\u0438 \u042f\u0440\u043e\u0432\u0446\u0435 , \u041f\u0435\u0442\u0440\u0436\u0430\u043b\u043a\u0430 , \u0420\u0443\u0441\u043e\u0432\u0446\u0435 , \u0427\u0443\u043d\u043e\u0432\u043e ."}
+1	В	в	ADP	IN	_	{"ud": "2"}	case	_	_
+2	район	район	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	{"ud": "3"}	obl	_	_
+3	входят	входить	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+4	городские	городской	ADJ	JJL	Case=Nom|Degree=Pos|Number=Plur	{"ud": "5"}	amod	_	_
+5	части	часть	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	{"ud": "3"}	nsubj	_	_
+6	Яровце	Яровце	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "5"}	appos	_	SpaceAfter=No
+7	,	,	PUNCT	,	_	{"ud": "8"}	punct	_	_
+8	Петржалка	Петржалка	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	{"ud": "6"}	conj	_	SpaceAfter=No
+9	,	,	PUNCT	,	_	{"ud": "10"}	punct	_	_
+10	Русовце	Русовце	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "6"}	conj	_	SpaceAfter=No
+11	,	,	PUNCT	,	_	{"ud": "12"}	punct	_	_
+12	Чуново	Чуново	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "6"}	conj	_	SpaceAfter=No
+13	.	.	PUNCT	.	_	{"ud": "3"}	punct	_	_
+
+!# {"sid": 175, "sid_uuid": "deb3b0ede0a79942971957476ba76966e8d3e2363c7b04b0f07556239cd13d8c", "raw_text": "\u041e\u0431\u0449\u0438\u0439 \u0430\u043b\u0433\u043e\u0440\u0438\u0442\u043c ( `` \u0430\u043b\u0433\u043e\u0440\u0438\u0442\u043c \u0415\u0432\u043a\u043b\u0438\u0434\u0430 &#39;&#39; ) \u043f\u043e\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u0442 \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u043f\u043e\u0441\u043e\u0431 \u0443\u043c\u043d\u043e\u0436\u0435\u043d\u0438\u044f ."}
+1	Общий	общий	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "2"}	amod	_	_
+2	алгоритм	алгоритм	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "9"}	nsubj	_	_
+3	(	(	PUNCT	(	_	{"ud": "5"}	punct	_	SpaceAfter=No
+4	``	``	PUNCT	``	_	{"ud": "5"}	punct	_	SpaceAfter=No
+5	алгоритм	алгоритм	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "2"}	appos	_	_
+6	Евклида	Евклид	PROPN	NNP	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	{"ud": "5"}	nmod	_	SpaceAfter=No
+7	&#39;&#39;	&#39;&#39;	PUNCT	&#39;&#39;	_	{"ud": "5"}	punct	_	SpaceAfter=No
+8	)	)	PUNCT	)	_	{"ud": "5"}	punct	_	_
+9	показывает	показывать	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+10	универсальный	универсальный	ADJ	JJL	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "11"}	amod	_	_
+11	способ	способ	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	{"ud": "9"}	obj	_	_
+12	умножения	умножение	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	{"ud": "11"}	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	.	_	{"ud": "9"}	punct	_	_
+
+!# {"sid": 177, "sid_uuid": "5cfea3b9f571021d0cc2d0ae4e8af138f5ffa044eaa33324eb495f773c665e8b", "raw_text": "\u0420\u0435\u043a\u0438 \u041c\u0410\u0421\u0421\u0420 , \u043a\u0440\u043e\u043c\u0435 \u0414\u043d\u0435\u0441\u0442\u0440\u0430 , \u043d\u0435\u0441\u0443\u0434\u043e\u0445\u043e\u0434\u043d\u044b ."}
+1	Реки	река	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	{"ud": "7"}	nsubj	_	_
+2	МАССР	МАССР	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	{"ud": "1"}	nmod	_	SpaceAfter=No
+3	,	,	PUNCT	,	_	{"ud": "5"}	punct	_	_
+4	кроме	кроме	ADP	IN	_	{"ud": "5"}	case	_	_
+5	Днестра	Днестр	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "1"}	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	,	_	{"ud": "5"}	punct	_	_
+7	несудоходны	несудоходный	ADJ	JJH	Degree=Pos|Number=Plur|Variant=Short	{"ud": "0"}	root	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	{"ud": "7"}	punct	_	_
+
+!# {"sid": 178, "sid_uuid": "508c815185328a13cba1967020f629fa0b5a6895182da30c513eb291bde4e512", "raw_text": "\u041f\u043e\u0447\u0442\u043e\u0432\u044b\u0439 \u0438\u043d\u0434\u0435\u043a\u0441 -- 27040 ."}
+1	Почтовый	почтовый	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "2"}	amod	_	_
+2	индекс	индекс	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "4"}	nsubj	_	_
+3	--	--	PUNCT	--	_	{"ud": "4"}	punct	_	_
+4	27040	27040	NUM	CD	Case=Nom|NumType=Card	{"ud": "0"}	root	_	SpaceAfter=No
+5	.	.	PUNCT	.	_	{"ud": "4"}	punct	_	_
+
+!# {"sid": 179, "sid_uuid": "1b85cc634c3cd3fd36fb8da34dce401ba13e175305ba482cccf32168d8ce4c1e", "raw_text": "\u0414\u043e \u0440\u0435\u0432\u043e\u043b\u044e\u0446\u0438\u0438 1917 \u0433\u043e\u0434\u0430 \u043a\u0440\u0435\u0441\u0442\u044c\u044f\u043d\u0435 \u0437\u0430\u043d\u0438\u043c\u0430\u043b\u0438\u0441\u044c \u0437\u0435\u043c\u043b\u0435\u0434\u0435\u043b\u0438\u0435\u043c , \u0441\u043a\u043e\u0442\u043e\u0432\u043e\u0434\u0441\u0442\u043e\u043c \u0438 \u0440\u044b\u0431\u043e\u043b\u043e\u0432\u0441\u0442\u0432\u043e\u043c ."}
+1	До	до	ADP	IN	_	{"ud": "2"}	case	_	_
+2	революции	революция	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	{"ud": "6"}	obl	_	_
+3	1917	1917	ADJ	ORD	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "4"}	amod	_	_
+4	года	год	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "2"}	nmod	_	_
+5	крестьяне	крестьянин	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	{"ud": "6"}	nsubj	_	_
+6	занимались	заниматься	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	{"ud": "0"}	root	_	_
+7	земледелием	земледелие	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	{"ud": "6"}	obj	_	SpaceAfter=No
+8	,	,	PUNCT	,	_	{"ud": "9"}	punct	_	_
+9	скотоводстом	скотоводст	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	{"ud": "7"}	conj	_	_
+10	и	и	CCONJ	CC	_	{"ud": "11"}	cc	_	_
+11	рыболовством	рыболовство	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	{"ud": "7"}	conj	_	SpaceAfter=No
+12	.	.	PUNCT	.	_	{"ud": "6"}	punct	_	_
+
+!# {"sid": 183, "sid_uuid": "76187983232d534c8331352c6ca19ac8e4cd8ae16c8942c9b574db1b85602f07", "raw_text": "\u0421 \u0437\u0430\u043f\u0430\u0434\u0430 \u043a \u0445\u0440\u0430\u043c\u0443 \u043f\u0440\u0438\u043c\u044b\u043a\u0430\u043b\u0430 \u0442\u0440\u0430\u043f\u0435\u0437\u043d\u0430\u044f \u0447\u0430\u0441\u0442\u044c \u0441 \u043a\u043e\u043b\u043e\u043a\u043e\u043b\u044c\u043d\u0435\u0439 ."}
+1	С	с	ADP	IN	_	{"ud": "2"}	case	_	_
+2	запада	запад	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "5"}	obl	_	_
+3	к	к	ADP	IN	_	{"ud": "4"}	case	_	_
+4	храму	храм	NOUN	NN	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	{"ud": "5"}	obl	_	_
+5	примыкала	примыкать	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+6	трапезная	трапезный	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	{"ud": "7"}	amod	_	_
+7	часть	часть	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	{"ud": "5"}	nsubj	_	_
+8	с	с	ADP	IN	_	{"ud": "9"}	case	_	_
+9	колокольней	колокольня	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	{"ud": "7"}	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	{"ud": "5"}	punct	_	_
+
+!# {"sid": 186, "sid_uuid": "32a398631f15646521f07bca3f443c2ee688249dda58c2c8165703e35050ed0e", "raw_text": "\u041a\u0430\u0441\u0441\u0430\u043d\u0434\u0440\u0430 , \u043a\u0430\u043a \u0438 \u0441\u0435\u0441\u0442\u0440\u0430 , \u0437\u0430\u043c\u0443\u0436 \u0442\u0430\u043a \u0438 \u043d\u0435 \u0432\u044b\u0448\u043b\u0430 ."}
+1	Кассандра	Кассандра	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	{"ud": "11"}	nsubj	_	SpaceAfter=No
+2	,	,	PUNCT	,	_	{"ud": "5"}	punct	_	_
+3	как	как	ADP	IN	_	{"ud": "5"}	case	_	_
+4	и	и	PART	UH	_	{"ud": "5"}	advmod	_	_
+5	сестра	сестра	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	{"ud": "1"}	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	,	_	{"ud": "5"}	punct	_	_
+7	замуж	замуж	ADV	RB	Degree=Pos	{"ud": "11"}	advmod	_	_
+8	так	так	ADV	RB	Degree=Pos	{"ud": "11"}	advmod	_	_
+9	и	и	PART	UH	_	{"ud": "11"}	advmod	_	_
+10	не	не	PART	NEG	Polarity=Neg	{"ud": "11"}	advmod	_	_
+11	вышла	выйти	VERB	VBC	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	SpaceAfter=No
+12	.	.	PUNCT	.	_	{"ud": "11"}	punct	_	_
+
+!# {"sid": 188, "sid_uuid": "955198fa7eea33619a314a5ec5fd278fd834641a0189d3fae3e32e860c6c68d2", "raw_text": "\u041f\u0430\u043b\u0430\u0442\u0430 \u0434\u0435\u043f\u0443\u0442\u0430\u0442\u043e\u0432 ( ) , \u043d\u0438\u0436\u043d\u044f\u044f \u043f\u0430\u043b\u0430\u0442\u0430 \u043f\u0430\u0440\u043b\u0430\u043c\u0435\u043d\u0442\u0430 \u0427\u0438\u043b\u0438 ."}
+1	Палата	палата	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	{"ud": "7"}	nsubj	_	_
+2	депутатов	депутат	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	{"ud": "1"}	nmod	_	_
+3	(	(	PUNCT	(	_	{"ud": "2"}	punct	_	SpaceAfter=No
+4	)	)	PUNCT	)	_	{"ud": "2"}	punct	_	SpaceAfter=No
+5	,	,	PUNCT	,	_	{"ud": "7"}	punct	_	_
+6	нижняя	нижний	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	{"ud": "7"}	amod	_	_
+7	палата	палата	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	{"ud": "0"}	root	_	_
+8	парламента	парламент	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "7"}	nmod	_	_
+9	Чили	Чили	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	{"ud": "8"}	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	{"ud": "7"}	punct	_	_
+
+!# {"sid": 189, "sid_uuid": "6f63de57041f4dfcea3de446cf605c0f65b24cb261b8db3f9a7d44047b39d009", "raw_text": "\u0412 \u0432\u044b\u0431\u043e\u0440\u0430\u0445 \u043c\u043e\u0433\u043b\u0438 \u0443\u0447\u0430\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c \u0442\u043e\u043b\u044c\u043a\u043e \u0433\u0440\u0430\u0436\u0434\u0430\u043d\u0435 , \u043f\u043b\u0430\u0442\u044f\u0449\u0438\u0435 \u043d\u0430\u043b\u043e\u0433\u0438 ."}
+1	В	в	ADP	IN	_	{"ud": "2"}	case	_	_
+2	выборах	выборы	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	{"ud": "3"}	obl	_	_
+3	могли	мочь	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+4	участвовать	участвовать	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	{"ud": "3"}	xcomp	_	_
+5	только	только	PART	UH	_	{"ud": "6"}	advmod	_	_
+6	граждане	гражданин	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	{"ud": "3"}	nsubj	_	SpaceAfter=No
+7	,	,	PUNCT	,	_	{"ud": "8"}	punct	_	_
+8	платящие	платить	VERB	VBNL	Animacy=Anim|Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	{"ud": "6"}	acl	_	_
+9	налоги	налог	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	{"ud": "8"}	obj	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	{"ud": "3"}	punct	_	_
+
+!# {"sid": 190, "sid_uuid": "cc9f8d9791d66eda41900f0589138dc75ad5b08b83bbafc00f35e2089904e861", "raw_text": "\u041f\u043b\u043e\u0449\u0430\u0434\u044c -- 574 \u043a\u043c2 ."}
+1	Площадь	площадь	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	{"ud": "4"}	nsubj	_	_
+2	--	--	PUNCT	--	_	{"ud": "4"}	punct	_	_
+3	574	574	NUM	CD	Animacy=Inan|Case=Nom|NumType=Card	{"ud": "4"}	nummod:gov	_	_
+4	км2	км2	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "0"}	root	_	SpaceAfter=No
+5	.	.	PUNCT	.	_	{"ud": "4"}	punct	_	_
+
+!# {"sid": 191, "sid_uuid": "e90f45989f5d2b22441aa02fe546dd6aa2955e20780107a59c36a3aa3d0fd840", "raw_text": "\u041f\u043e\u0441\u043b\u0435 \u044d\u0442\u043e\u0433\u043e \u041b\u0430\u0439\u0442 \u0441\u0442\u0430\u043b \u0435\u0433\u043e \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u0438\u0440\u043e\u0432\u0430\u0442\u044c , \u0437\u0430\u0441\u0442\u0430\u0432\u0438\u0432 \u0432\u044b\u0434\u0430\u0442\u044c \u0443\u0431\u0435\u0436\u0438\u0449\u0435 \u043c\u0430\u0444\u0438\u0438 ."}
+1	После	после	ADP	IN	_	{"ud": "2"}	case	_	_
+2	этого	это	PRON	DT	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	{"ud": "4"}	obl	_	_
+3	Лайт	Лайт	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	{"ud": "4"}	nsubj	_	_
+4	стал	стать	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+5	его	он	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3	{"ud": "6"}	obj	_	_
+6	контролировать	контролировать	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	{"ud": "4"}	xcomp	_	SpaceAfter=No
+7	,	,	PUNCT	,	_	{"ud": "8"}	punct	_	_
+8	заставив	заставить	VERB	VBG	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	{"ud": "6"}	advcl	_	_
+9	выдать	выдать	VERB	VB	Aspect=Perf|VerbForm=Inf|Voice=Act	{"ud": "8"}	xcomp	_	_
+10	убежище	убежище	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	{"ud": "9"}	obj	_	_
+11	мафии	мафия	NOUN	NN	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	{"ud": "10"}	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	.	_	{"ud": "4"}	punct	_	_
+
+!# {"sid": 192, "sid_uuid": "cb96bec6b84d5cd267214180cae3b2d4a04ade774d1c1e17a74a443d349c9cbf", "raw_text": "\u041d\u043e\u0432\u043e\u0435 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u043f\u043e\u0441\u0435\u043b\u0435\u043d\u0438\u044e \u0431\u044b\u043b\u043e \u0434\u0430\u043d\u043e \u043f\u043e \u0440\u0435\u0447\u043a\u0435 \u041f\u0438\u0432\u043a\u0430 ."}
+1	Новое	новый	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	{"ud": "2"}	amod	_	_
+2	название	название	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	{"ud": "5"}	nsubj:pass	_	_
+3	поселению	поселение	NOUN	NN	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	{"ud": "5"}	iobj	_	_
+4	было	быть	AUX	VBC	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	{"ud": "5"}	aux:pass	_	_
+5	дано	дать	VERB	VBNH	Animacy=Inan|Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	{"ud": "0"}	root	_	_
+6	по	по	ADP	IN	_	{"ud": "7"}	case	_	_
+7	речке	речка	NOUN	NN	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	{"ud": "5"}	obl	_	_
+8	Пивка	Пивка	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	{"ud": "7"}	appos	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	{"ud": "5"}	punct	_	_
+
+!# {"sid": 193, "sid_uuid": "87ac088c82e82ed8196f88ed7500e1dbea776d00246964d6c4b81114727814ee", "raw_text": "\u041d\u0430\u0438\u0431\u043e\u043b\u0435\u0435 \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u0439 \u0440\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434 \u0431\u044b\u043b \u0441\u0434\u0435\u043b\u0430\u043d \u0414\u0430\u043d\u0438\u0438\u043b\u043e\u043c \u0425\u0430\u0440\u043c\u0441\u043e\u043c ."}
+1	Наиболее	наиболее	ADV	RBS	Degree=Sup	{"ud": "2"}	advmod	_	_
+2	известный	известный	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "4"}	amod	_	_
+3	русский	русский	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "4"}	amod	_	_
+4	перевод	перевод	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "6"}	nsubj:pass	_	_
+5	был	быть	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	{"ud": "6"}	aux:pass	_	_
+6	сделан	сделать	VERB	VBNH	Animacy=Inan|Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	{"ud": "0"}	root	_	_
+7	Даниилом	Даниил	PROPN	NNP	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	{"ud": "6"}	obl:agent	_	_
+8	Хармсом	Хармс	PROPN	NNP	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	{"ud": "7"}	flat:name	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	{"ud": "6"}	punct	_	_
+
+!# {"sid": 194, "sid_uuid": "59c79834bc7a0113d86db0c20d2b6cc8654b7fcda1b0bb89c821bf9415b24a95", "raw_text": "\u041e \u043b\u0435\u0447\u0435\u043d\u0438\u0438 \u0438 \u043f\u0440\u043e\u0444\u0438\u043b\u0430\u043a\u0442\u0438\u043a\u0435 \u0432 \u0441\u0442\u0430\u0442\u044c\u0435 \u043d\u0435\u0432\u0440\u0438\u0442 ."}
+1	О	о	ADP	IN	_	{"ud": "2"}	case	_	_
+2	лечении	лечение	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	{"ud": "0"}	root	_	_
+3	и	и	CCONJ	CC	_	{"ud": "4"}	cc	_	_
+4	профилактике	профилактика	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	{"ud": "2"}	conj	_	_
+5	в	в	ADP	IN	_	{"ud": "6"}	case	_	_
+6	статье	статья	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	{"ud": "4"}	nmod	_	_
+7	неврит	неврит	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "6"}	appos	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	{"ud": "2"}	punct	_	_
+
+!# {"sid": 196, "sid_uuid": "b0aa0e4c0982dcef7cdfefc6cd8f17913c9a86cf2ec14197c0b7ad1298717e95", "raw_text": "\u0418\u0437\u0430\u0431\u0435\u043b\u043b\u0430 \u0441\u043e\u0431\u0440\u0430\u043b\u0430\u0441\u044c \u0435\u0445\u0430\u0442\u044c \u0432 \u041f\u0438\u0442\u0442\u0441\u0431\u0443\u0440\u0433 \u043d\u0430 \u043b\u0435\u0447\u0435\u043d\u0438\u0435 ."}
+1	Изабелла	Изабелла	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	{"ud": "2"}	nsubj	_	_
+2	собралась	собраться	VERB	VBC	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	{"ud": "0"}	root	_	_
+3	ехать	ехать	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	{"ud": "2"}	xcomp	_	_
+4	в	в	ADP	IN	_	{"ud": "5"}	case	_	_
+5	Питтсбург	Питтсбург	PROPN	NNP	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	{"ud": "3"}	obl	_	_
+6	на	на	ADP	IN	_	{"ud": "7"}	case	_	_
+7	лечение	лечение	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	{"ud": "3"}	obl	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	{"ud": "2"}	punct	_	_
+
+!# {"sid": 200, "sid_uuid": "06ce4782635172333fa583c9c2d8d9587361bf3b77a799814b5f81cfa602f772", "raw_text": "\u041f\u0440\u043e\u0432\u043e\u0434\u044f\u0442\u0441\u044f \u0437\u0430\u043d\u044f\u0442\u0438\u044f \u0432 \u0432\u043e\u0441\u043a\u0440\u0435\u0441\u043d\u043e\u0439 \u0448\u043a\u043e\u043b\u0435 ."}
+1	Проводятся	проводиться	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	{"ud": "0"}	root	_	_
+2	занятия	занятие	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	{"ud": "1"}	nsubj	_	_
+3	в	в	ADP	IN	_	{"ud": "5"}	case	_	_
+4	воскресной	воскресный	ADJ	JJL	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	{"ud": "5"}	amod	_	_
+5	школе	школа	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	{"ud": "1"}	obl	_	SpaceAfter=No
+6	.	.	PUNCT	.	_	{"ud": "1"}	punct	_	_
+
+!# {"sid": 201, "sid_uuid": "382b3b2553a005b1e7f8b2a0eec8b8d8a86661d058a62bab4e54308d12508cc8", "raw_text": "\u0421\u0435\u043d\u043e ( ) -- \u043e\u0434\u043d\u0430 \u0438\u0437 45 \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u0439 \u0411\u0443\u0440\u043a\u0438\u043d\u0430 - \u0424\u0430\u0441\u043e ."}
+1	Сено	Сено	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	{"ud": "5"}	nsubj	_	_
+2	(	(	PUNCT	(	_	{"ud": "1"}	punct	_	SpaceAfter=No
+3	)	)	PUNCT	)	_	{"ud": "1"}	punct	_	_
+4	--	--	PUNCT	--	_	{"ud": "5"}	punct	_	_
+5	одна	один	NUM	CD	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing|NumType=Card	{"ud": "0"}	root	_	_
+6	из	из	ADP	IN	_	{"ud": "8"}	case	_	_
+7	45	45	NUM	CD	Case=Gen|NumType=Card	{"ud": "8"}	nummod	_	_
+8	провинций	провинция	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	{"ud": "5"}	nmod	_	_
+9	Буркина	Буркина	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	{"ud": "8"}	nmod	_	SpaceAfter=No
+10	-	-	PUNCT	-	_	{"ud": "9"}	punct	_	SpaceAfter=No
+11	Фасо	Фасо	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	{"ud": "9"}	flat:foreign	_	SpaceAfter=No
+12	.	.	PUNCT	.	_	{"ud": "5"}	punct	_	_
+
+!# {"sid": 208, "sid_uuid": "d1d14cc2d0ddcc8f81272c19d83f756ad586cdaf03e88105c40169eb47b6eff1", "raw_text": "\u0426\u0435\u043d\u0442\u0440 \u041b\u0443\u0431\u043d\u043e\u0432\u0441\u043a\u043e\u0433\u043e \u0441\u0435\u043b\u044c\u0441\u043a\u043e\u0433\u043e \u043f\u043e\u0441\u0435\u043b\u0435\u043d\u0438\u044f ."}
+1	Центр	центр	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "0"}	root	_	_
+2	Лубновского	лубновский	ADJ	JJL	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	{"ud": "4"}	amod	_	_
+3	сельского	сельский	ADJ	JJL	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	{"ud": "4"}	amod	_	_
+4	поселения	поселение	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	{"ud": "1"}	nmod	_	SpaceAfter=No
+5	.	.	PUNCT	.	_	{"ud": "1"}	punct	_	_
+
+!# {"sid": 215, "sid_uuid": "671cc7ed1da260f380e4951b680ecdc44beb2e793277bfd02b2240d78cd72383", "raw_text": "\u0423\u0433\u0440\u0438\u043d\u043e\u0432 ( ) -- \u0441\u0435\u043b\u043e \u0432 \u0421\u043e\u043a\u0430\u043b\u044c\u0441\u043a\u043e\u043c \u0440\u0430\u0439\u043e\u043d\u0435 \u041b\u044c\u0432\u043e\u0432\u0441\u043a\u043e\u0439 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u0423\u043a\u0440\u0430\u0438\u043d\u044b ."}
+1	Угринов	Угринов	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "5"}	nsubj	_	_
+2	(	(	PUNCT	(	_	{"ud": "1"}	punct	_	SpaceAfter=No
+3	)	)	PUNCT	)	_	{"ud": "1"}	punct	_	_
+4	--	--	PUNCT	--	_	{"ud": "5"}	punct	_	_
+5	село	село	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	{"ud": "0"}	root	_	_
+6	в	в	ADP	IN	_	{"ud": "8"}	case	_	_
+7	Сокальском	сокальский	ADJ	JJL	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "8"}	amod	_	_
+8	районе	район	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	{"ud": "5"}	nmod	_	_
+9	Львовской	львовский	ADJ	JJL	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	{"ud": "10"}	amod	_	_
+10	области	область	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	{"ud": "8"}	nmod	_	_
+11	Украины	Украина	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	{"ud": "10"}	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	.	_	{"ud": "5"}	punct	_	_
+
+!# {"sid": 219, "sid_uuid": "800f7423e6c11c9788e1feeee3881343ced7a9e3ad74be6e5eb8d921d2ad5339", "raw_text": "\u0411\u0435\u043b\u044b\u0439 \u0446\u0432\u0435\u0442 ( \u0441\u0435\u0440\u0435\u0431\u0440\u043e ) -- \u0441\u0438\u043c\u0432\u043e\u043b \u0447\u0438\u0441\u0442\u043e\u0442\u044b , \u0441\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u0441\u0442\u0432\u0430 , \u043c\u0438\u0440\u0430 \u0438 \u0432\u0437\u0430\u0438\u043c\u043e\u043f\u043e\u043d\u0438\u043c\u0430\u043d\u0438\u044f"}
+1	Белый	белый	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "2"}	amod	_	_
+2	цвет	цвет	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "7"}	nsubj	_	_
+3	(	(	PUNCT	(	_	{"ud": "4"}	punct	_	SpaceAfter=No
+4	серебро	серебро	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	{"ud": "2"}	appos	_	SpaceAfter=No
+5	)	)	PUNCT	)	_	{"ud": "4"}	punct	_	_
+6	--	--	PUNCT	--	_	{"ud": "7"}	punct	_	_
+7	символ	символ	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "0"}	root	_	_
+8	чистоты	чистота	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	{"ud": "7"}	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	,	_	{"ud": "10"}	punct	_	_
+10	совершенства	совершенство	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	{"ud": "8"}	conj	_	SpaceAfter=No
+11	,	,	PUNCT	,	_	{"ud": "12"}	punct	_	_
+12	мира	мир	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "8"}	conj	_	_
+13	и	и	CCONJ	CC	_	{"ud": "14"}	cc	_	_
+14	взаимопонимания	взаимопонимание	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	{"ud": "8"}	conj	_	_
+
+!# {"sid": 220, "sid_uuid": "7a9001789f9b571e648a87e1d3161dc4349623e14b24c70bb0922cbcd262c2a7", "raw_text": "\u0423\u0447\u0438\u043b\u0441\u044f \u0432 \u0413\u0451\u0442\u0442\u0438\u043d\u0433\u0435\u043d\u0441\u043a\u043e\u043c \u0438 \u041b\u0435\u0439\u043f\u0446\u0438\u0433\u0441\u043a\u043e\u043c \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430\u0445 ."}
+1	Учился	учиться	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	{"ud": "0"}	root	_	_
+2	в	в	ADP	IN	_	{"ud": "6"}	case	_	_
+3	Гёттингенском	геттингенский	ADJ	JJL	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "6"}	amod	_	_
+4	и	и	CCONJ	CC	_	{"ud": "5"}	cc	_	_
+5	Лейпцигском	лейпцигский	ADJ	JJL	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "3"}	conj	_	_
+6	университетах	университет	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	{"ud": "1"}	obl	_	SpaceAfter=No
+7	.	.	PUNCT	.	_	{"ud": "1"}	punct	_	_
+
+!# {"sid": 225, "sid_uuid": "f63925e9ae2566e2592806c4b7b98099c50e4458100d55f67e388f4c7b6b6393", "raw_text": "\u041e\u0431\u0449\u0435\u0435 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u0443\u0447\u0430\u0441\u0442\u043d\u0438\u043a\u043e\u0432 ( \u0441 \u0443\u0447\u0451\u0442\u043e\u043c \u043a\u0432\u0430\u043b\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438 ) \u0443\u043a\u0430\u0437\u0430\u043d\u043e \u0432 \u0441\u043a\u043e\u0431\u043a\u0430\u0445 ."}
+1	Общее	общий	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	{"ud": "2"}	amod	_	_
+2	количество	количество	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	{"ud": "9"}	nsubj	_	_
+3	участников	участник	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	{"ud": "2"}	nmod	_	_
+4	(	(	PUNCT	(	_	{"ud": "6"}	punct	_	SpaceAfter=No
+5	с	с	ADP	IN	_	{"ud": "6"}	case	_	_
+6	учётом	учет	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	{"ud": "3"}	nmod	_	_
+7	квалификации	квалификация	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	{"ud": "6"}	nmod	_	SpaceAfter=No
+8	)	)	PUNCT	)	_	{"ud": "6"}	punct	_	_
+9	указано	указать	VERB	VBNH	Animacy=Inan|Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	{"ud": "0"}	root	_	_
+10	в	в	ADP	IN	_	{"ud": "11"}	case	_	_
+11	скобках	скобка	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	{"ud": "9"}	obl	_	SpaceAfter=No
+12	.	.	PUNCT	.	_	{"ud": "9"}	punct	_	_
+
+!# {"sid": 227, "sid_uuid": "b35b9e8d63bf97f518e3fc51e7c93dd86f255c51b37dc5b6bbb7fc8b981b8991", "raw_text": "\u0427\u0438\u043d\u0430\u0440 ( ) , \u0441\u0435\u043b\u043e \u0432 \u0414\u0436\u0430\u043b\u0438\u043b\u0430\u0431\u0430\u0434\u0441\u043a\u043e\u043c \u0440\u0430\u0439\u043e\u043d\u0435 \u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d\u0430 ."}
+1	Чинар	Чинар	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "5"}	nsubj	_	_
+2	(	(	PUNCT	(	_	{"ud": "1"}	punct	_	SpaceAfter=No
+3	)	)	PUNCT	)	_	{"ud": "1"}	punct	_	SpaceAfter=No
+4	,	,	PUNCT	,	_	{"ud": "5"}	punct	_	_
+5	село	село	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	{"ud": "0"}	root	_	_
+6	в	в	ADP	IN	_	{"ud": "8"}	case	_	_
+7	Джалилабадском	джалилабадский	ADJ	JJL	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "8"}	amod	_	_
+8	районе	район	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	{"ud": "5"}	nmod	_	_
+9	Азербайджана	Азербайджан	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "8"}	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	{"ud": "5"}	punct	_	_
+
+!# {"sid": 230, "sid_uuid": "fe9f68e844ad71bfdbf186867751b9ce4d7f31ee68c7b9b33d3ab2da927afaa2", "raw_text": "\u0417\u0443\u0431\u044c\u044f \u0432\u0435\u0434\u043e\u043c\u043e\u0433\u043e \u043a\u043e\u043b\u0435\u0441\u0430 \u0438\u043c\u0435\u044e\u0442 \u0446\u0438\u043a\u043b\u043e\u0438\u0434\u0430\u043b\u044c\u043d\u044b\u0439 \u043f\u0440\u043e\u0444\u0438\u043b\u044c ."}
+1	Зубья	зуб	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	{"ud": "4"}	nsubj	_	_
+2	ведомого	ведомый	ADJ	JJL	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	{"ud": "3"}	amod	_	_
+3	колеса	колесо	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	{"ud": "1"}	nmod	_	_
+4	имеют	иметь	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+5	циклоидальный	циклоидальный	ADJ	JJL	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "6"}	amod	_	_
+6	профиль	профиль	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	{"ud": "4"}	obj	_	SpaceAfter=No
+7	.	.	PUNCT	.	_	{"ud": "4"}	punct	_	_
+
+!# {"sid": 232, "sid_uuid": "14e0aa996e9efbd186e6b403d0077c637d586588c9e90f48360a353f9e35b33a", "raw_text": "\u0412 1984 -- 1989 \u0433\u043e\u0434\u0430\u0445 \u0438\u0433\u0440\u0430\u043b \u0432\u043e \u0432\u0442\u043e\u0440\u043e\u0439 \u043b\u0438\u0433\u0435 \u0432 `` \u0423\u0440\u0430\u043b\u043c\u0430\u0448\u0435 &#39;&#39; ."}
+1	В	в	ADP	IN	_	{"ud": "5"}	case	_	_
+2	1984	1984	ADJ	ORD	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "5"}	amod	_	_
+3	--	--	PUNCT	--	_	{"ud": "4"}	punct	_	_
+4	1989	1989	ADJ	ORD	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "2"}	nmod	_	_
+5	годах	год	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	{"ud": "6"}	obl	_	_
+6	играл	играть	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+7	во	во	ADP	IN	_	{"ud": "9"}	case	_	_
+8	второй	второй	ADJ	ORD	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	{"ud": "9"}	amod	_	_
+9	лиге	лига	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	{"ud": "6"}	obl	_	_
+10	в	в	ADP	IN	_	{"ud": "12"}	case	_	_
+11	``	``	PUNCT	``	_	{"ud": "12"}	punct	_	SpaceAfter=No
+12	Уралмаше	Уралмаш	PROPN	NNP	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	{"ud": "6"}	obl	_	SpaceAfter=No
+13	&#39;&#39;	&#39;&#39;	PUNCT	&#39;&#39;	_	{"ud": "12"}	punct	_	SpaceAfter=No
+14	.	.	PUNCT	.	_	{"ud": "6"}	punct	_	_
+
+!# {"sid": 235, "sid_uuid": "28d5b29f73ba08a3c927818eae02b1feda2418849f141ba9c676a6ef55a79170", "raw_text": "\u0412\u043e\u0439\u0441\u043a\u0430 \u043e\u0431\u0440\u0430\u0449\u0435\u043d\u044b \u043d\u0430 \u0434\u043e\u0443\u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0442\u043e\u0432\u0430\u043d\u0438\u0435 \u0432\u043e\u0439\u0441\u043a \u0433\u0440\u0443\u043f\u043f\u044b ."}
+1	Войска	войско	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	{"ud": "2"}	nsubj:pass	_	_
+2	обращены	обратить	VERB	VBNH	Animacy=Inan|Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	{"ud": "0"}	root	_	_
+3	на	на	ADP	IN	_	{"ud": "4"}	case	_	_
+4	доукомплектование	доукомплектование	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	{"ud": "2"}	obl	_	_
+5	войск	войско	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	{"ud": "4"}	nmod	_	_
+6	группы	группа	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	{"ud": "5"}	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	.	_	{"ud": "2"}	punct	_	_
+
+!# {"sid": 236, "sid_uuid": "a7cf6fe08ef445d4e33659cf0737f115ca776fee81762dd9109afb6bd74d75da", "raw_text": "\u0412 1960-\u0445 \u0433\u043e\u0434\u0430\u0445 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043b\u0441\u044f \u0432 \u0433\u0438\u0434\u0440\u043e\u0430\u043a\u0443\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043c\u0430\u0445 Julie \u0438 Jezebel ."}
+1	В	в	ADP	IN	_	{"ud": "3"}	case	_	_
+2	1960-х	1960-й	ADJ	ORD	Case=Loc|Number=Plur	{"ud": "3"}	amod	_	_
+3	годах	год	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	{"ud": "4"}	obl	_	_
+4	использовался	использоваться	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	{"ud": "0"}	root	_	_
+5	в	в	ADP	IN	_	{"ud": "7"}	case	_	_
+6	гидроакустических	гидроакустический	ADJ	JJL	Case=Loc|Degree=Pos|Number=Plur	{"ud": "7"}	amod	_	_
+7	системах	система	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	{"ud": "4"}	obl	_	_
+8	Julie	Julie	X	FW	Foreign=Yes	{"ud": "7"}	appos	_	_
+9	и	и	CCONJ	CC	_	{"ud": "10"}	cc	_	_
+10	Jezebel	Jezebel	X	FW	Foreign=Yes	{"ud": "8"}	conj	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	{"ud": "4"}	punct	_	_
+
+!# {"sid": 238, "sid_uuid": "5f949cde2c04ce32f699153df94542a7c2c6ec7045c3741e9b66ba7648afc1b8", "raw_text": "\u0413\u043e\u043b\u043e\u0432\u0430 \u0441\u0432\u0435\u0440\u0445\u0443 \u043d\u0435 \u0432\u0438\u0434\u043d\u0430 , \u0442\u0430\u043a \u043a\u0430\u043a \u043f\u0440\u0438\u043a\u0440\u044b\u0442\u0430 \u043f\u0435\u0440\u0435\u0434\u043d\u0435\u0441\u043f\u0438\u043d\u043a\u043e\u0439 ."}
+1	Голова	голова	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	{"ud": "4"}	nsubj	_	_
+2	сверху	сверху	ADV	RB	Degree=Pos	{"ud": "4"}	advmod	_	_
+3	не	не	PART	NEG	Polarity=Neg	{"ud": "4"}	advmod	_	_
+4	видна	видный	ADJ	JJH	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	{"ud": "0"}	root	_	SpaceAfter=No
+5	,	,	PUNCT	,	_	{"ud": "8"}	punct	_	_
+6	так	так	SCONJ	IN	_	{"ud": "8"}	mark	_	_
+7	как	как	ADV	WRB	_	{"ud": "6"}	fixed	_	_
+8	прикрыта	прикрыть	VERB	VBNH	Animacy=Inan|Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	{"ud": "4"}	advcl	_	_
+9	переднеспинкой	переднеспинка	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	{"ud": "8"}	obl:agent	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	{"ud": "4"}	punct	_	_
+
+!# {"sid": 243, "sid_uuid": "3cc4bf608b65b2d7c4e54d6618109ca9fffbd93fcd220f40b1cd4426e55da5fb", "raw_text": "\u041e\u043d `` \u043e\u0434\u0435\u0442 &#39;&#39; \u0432 \u0433\u043e\u043b\u0443\u0431\u043e\u0439 \u043c\u0435\u0445\u0430\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043a\u043e\u0441\u0442\u044e\u043c \u0438 \u0448\u043b\u0435\u043c ."}
+1	Он	он	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	{"ud": "3"}	nsubj	_	_
+2	``	``	PUNCT	``	_	{"ud": "3"}	punct	_	SpaceAfter=No
+3	одет	одеть	VERB	VBNH	Animacy=Anim|Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	{"ud": "0"}	root	_	SpaceAfter=No
+4	&#39;&#39;	&#39;&#39;	PUNCT	&#39;&#39;	_	{"ud": "3"}	punct	_	_
+5	в	в	ADP	IN	_	{"ud": "8"}	case	_	_
+6	голубой	голубой	ADJ	JJL	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "8"}	amod	_	_
+7	механический	механический	ADJ	JJL	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "8"}	amod	_	_
+8	костюм	костюм	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	{"ud": "3"}	obl	_	_
+9	и	и	CCONJ	CC	_	{"ud": "10"}	cc	_	_
+10	шлем	шлем	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	{"ud": "8"}	conj	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	{"ud": "3"}	punct	_	_
+
+!# {"sid": 244, "sid_uuid": "87e8f736d8a83c65ccabc39c3b743fa5445702aa86e4ecc642d885009c0737f4", "raw_text": "\u0412 \u044d\u0442\u043e\u043c \u044d\u043f\u0438\u0437\u043e\u0434\u0435 \u0421\u0442\u0440\u0435\u043d\u0434\u0436\u0435\u0440 \u043e\u0442\u043f\u0440\u0430\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0432\u043e \u0424\u0440\u0430\u043d\u0446\u0438\u044e , \u0433\u043e\u0434 1935 ."}
+1	В	в	ADP	IN	_	{"ud": "3"}	case	_	_
+2	этом	этот	DET	DT	Case=Loc|Gender=Masc|Number=Sing	{"ud": "3"}	det	_	_
+3	эпизоде	эпизод	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	{"ud": "5"}	obl	_	_
+4	Стренджер	Стренджер	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	{"ud": "5"}	nsubj	_	_
+5	отправляется	отправляться	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	{"ud": "0"}	root	_	_
+6	во	во	ADP	IN	_	{"ud": "7"}	case	_	_
+7	Францию	Франция	PROPN	NNP	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	{"ud": "5"}	obl	_	SpaceAfter=No
+8	,	,	PUNCT	,	_	{"ud": "5"}	punct	_	_
+9	год	год	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "5"}	obl	_	_
+10	1935	1935	ADJ	ORD	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "9"}	amod	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	{"ud": "5"}	punct	_	_
+
+!# {"sid": 245, "sid_uuid": "4f82de476133c097ff9a3d7ececb4c2b803da5df696dfa232a83ea3ddf97f901", "raw_text": "\u0417\u0430\u043f\u0438\u0440\u0430\u043d\u0438\u0435 \u043e\u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043f\u043e\u0432\u043e\u0440\u043e\u0442\u043e\u043c \u0437\u0430\u0442\u0432\u043e\u0440\u0430 \u043d\u0430 2 \u0431\u043e\u0435\u0432\u044b\u0445 \u0443\u043f\u043e\u0440\u0430 ."}
+1	Запирание	запирание	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	{"ud": "2"}	nsubj	_	_
+2	осуществляется	осуществляться	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	{"ud": "0"}	root	_	_
+3	поворотом	поворот	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	{"ud": "2"}	iobj	_	_
+4	затвора	затвор	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "3"}	nmod	_	_
+5	на	на	ADP	IN	_	{"ud": "8"}	case	_	_
+6	2	2	NUM	CD	Animacy=Inan|Case=Acc|Gender=Masc|NumType=Card	{"ud": "8"}	nummod:gov	_	_
+7	боевых	боевой	ADJ	JJL	Case=Gen|Degree=Pos|Number=Plur	{"ud": "8"}	amod	_	_
+8	упора	упор	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "3"}	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	{"ud": "2"}	punct	_	_
+
+!# {"sid": 253, "sid_uuid": "41dc671c327cbc74eb0c195bea7e023496f684e0b434d57953973f04af2a1659", "raw_text": "\u041e\u0442\u0442\u043e \u0410\u043c\u043c\u043e\u043d \u043a\u0440\u0438\u0442\u0438\u043a\u043e\u0432\u0430\u043b \u043b\u0438\u0434\u0435\u0440\u043e\u0432 \u0421\u0414\u041f\u0413 , \u0432 \u0447\u0430\u0441\u0442\u043d\u043e\u0441\u0442\u0438 \u043d\u0430 \u0410\u0432\u0433\u0443\u0441\u0442\u0430 \u0411\u0435\u0431\u0435\u043b\u044f"}
+1	Отто	Отто	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	{"ud": "3"}	nsubj	_	_
+2	Аммон	Аммон	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	{"ud": "1"}	flat:name	_	_
+3	критиковал	критиковать	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+4	лидеров	лидер	NOUN	NN	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	{"ud": "3"}	obj	_	_
+5	СДПГ	СДПГ	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	{"ud": "4"}	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	,	_	{"ud": "3"}	punct	_	_
+7	в	в	ADP	IN	_	{"ud": "8"}	case	_	_
+8	частности	частность	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	{"ud": "3"}	obl	_	_
+9	на	на	ADP	IN	_	{"ud": "11"}	case	_	_
+10	Августа	Август	PROPN	NNP	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	{"ud": "3"}	obl	_	_
+11	Бебеля	Бебель	PROPN	NNP	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	{"ud": "10"}	flat:name	_	_
+
+!# {"sid": 255, "sid_uuid": "150a3300af63321160bbae8f55684158c463cca0f0d5dbcb2bf883ba1c7f04f5", "raw_text": "\u041e\u0440\u043a\u0435\u0441\u0442\u0440\u043e\u043c \u0434\u0438\u0440\u0438\u0436\u0438\u0440\u043e\u0432\u0430\u043b C\u00e9sar Mendoza Lasalle ."}
+1	Оркестром	оркестр	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	{"ud": "2"}	obj	_	_
+2	дирижировал	дирижировать	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+3	César	César	X	FW	Foreign=Yes	{"ud": "2"}	nsubj	_	_
+4	Mendoza	Mendoza	X	FW	Foreign=Yes	{"ud": "3"}	flat:name	_	_
+5	Lasalle	Lasalle	X	FW	Foreign=Yes	{"ud": "3"}	flat:name	_	SpaceAfter=No
+6	.	.	PUNCT	.	_	{"ud": "2"}	punct	_	_
+
+!# {"sid": 259, "sid_uuid": "0d42ff5e0373d696e1b2bb18f77b894a2f0a6a977ee8daebe8fb100e4d835aaa", "raw_text": "\u0412 1925 \u0433\u043e\u0434\u0443 \u043e\u043a\u043e\u043d\u0447\u0438\u043b \u043a\u0443\u0440\u0441\u044b `` \u0412\u044b\u0441\u0442\u0440\u0435\u043b &#39;&#39; ."}
+1	В	в	ADP	IN	_	{"ud": "3"}	case	_	_
+2	1925	1925	ADJ	ORD	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "3"}	amod	_	_
+3	году	год	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	{"ud": "4"}	obl	_	_
+4	окончил	окончить	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+5	курсы	курсы	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	{"ud": "4"}	obj	_	_
+6	``	``	PUNCT	``	_	{"ud": "7"}	punct	_	SpaceAfter=No
+7	Выстрел	выстрел	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	{"ud": "5"}	appos	_	SpaceAfter=No
+8	&#39;&#39;	&#39;&#39;	PUNCT	&#39;&#39;	_	{"ud": "7"}	punct	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	{"ud": "4"}	punct	_	_
+
+!# {"sid": 261, "sid_uuid": "1bf7937b18fdad901d5c00606784b70d45bedb4881821793d93634bf9de5389d", "raw_text": "\u0411\u0435\u0440\u0433\u0435\u043d ( \u041a\u0438\u0440\u043d ) ( ) -- \u043a\u043e\u043c\u043c\u0443\u043d\u0430 \u0432 \u0413\u0435\u0440\u043c\u0430\u043d\u0438\u0438 , \u0432 \u0437\u0435\u043c\u043b\u0435 \u0420\u0435\u0439\u043d\u043b\u0430\u043d\u0434 - \u041f\u0444\u0430\u043b\u044c\u0446 ."}
+1	Берген	Берген	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "8"}	nsubj	_	_
+2	(	(	PUNCT	(	_	{"ud": "3"}	punct	_	SpaceAfter=No
+3	Кирн	Кирн	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "1"}	appos	_	SpaceAfter=No
+4	)	)	PUNCT	)	_	{"ud": "3"}	punct	_	_
+5	(	(	PUNCT	(	_	{"ud": "3"}	punct	_	SpaceAfter=No
+6	)	)	PUNCT	)	_	{"ud": "3"}	punct	_	_
+7	--	--	PUNCT	--	_	{"ud": "8"}	punct	_	_
+8	коммуна	коммуна	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	{"ud": "0"}	root	_	_
+9	в	в	ADP	IN	_	{"ud": "10"}	case	_	_
+10	Германии	Германия	PROPN	NNP	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	{"ud": "8"}	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	,	_	{"ud": "13"}	punct	_	_
+12	в	в	ADP	IN	_	{"ud": "13"}	case	_	_
+13	земле	земля	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	{"ud": "8"}	nmod	_	_
+14	Рейнланд	Рейнланд	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "13"}	appos	_	SpaceAfter=No
+15	-	-	PUNCT	-	_	{"ud": "14"}	punct	_	SpaceAfter=No
+16	Пфальц	Пфальц	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "14"}	flat:foreign	_	SpaceAfter=No
+17	.	.	PUNCT	.	_	{"ud": "8"}	punct	_	_
+
+!# {"sid": 269, "sid_uuid": "df7dc51a4d5c5b97ca850714c35d4b1e0de3dda3b2c5d574d8f554b4768a0950", "raw_text": "\u0412\u0445\u043e\u0434\u0438\u0442 \u0432 \u0441\u043e\u0441\u0442\u0430\u0432 \u043a\u0430\u043d\u0442\u043e\u043d\u0430 \u0428\u0430\u0442\u0438\u0439\u043e\u043d - \u0441\u044e\u0440 - \u0421\u0435\u043d ."}
+1	Входит	входить	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+2	в	в	ADP	IN	_	{"ud": "3"}	case	_	_
+3	состав	состав	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	{"ud": "1"}	obl	_	_
+4	кантона	кантон	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "3"}	nmod	_	_
+5	Шатийон	Шатийон	X	FW	Foreign=Yes	{"ud": "4"}	appos	_	SpaceAfter=No
+6	-	-	PUNCT	-	_	{"ud": "5"}	punct	_	SpaceAfter=No
+7	сюр	сюр	X	FW	Foreign=Yes	{"ud": "5"}	flat:foreign	_	SpaceAfter=No
+8	-	-	PUNCT	-	_	{"ud": "5"}	punct	_	SpaceAfter=No
+9	Сен	сен	X	FW	Foreign=Yes	{"ud": "5"}	flat:foreign	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	{"ud": "1"}	punct	_	_
+
+!# {"sid": 274, "sid_uuid": "cebe79609f2a3cbcdcfe11e11616ad07afd2f7f4ddea9ab7f810f4b28be58217", "raw_text": "\u0412\u0441\u043a\u043e\u0440\u0435 \u0432 \u0431\u0430\u043d\u0434\u0443 \u0432\u043e\u0448\u0451\u043b \u043d\u0435\u043a\u0442\u043e \u0413\u0430\u0440\u0438\u043a \u041a\u0435\u0448\u0430\u0431\u044f\u043d ."}
+1	Вскоре	вскоре	ADV	RB	Degree=Pos	{"ud": "4"}	advmod	_	_
+2	в	в	ADP	IN	_	{"ud": "3"}	case	_	_
+3	банду	банда	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	{"ud": "4"}	obl	_	_
+4	вошёл	войти	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+5	некто	некто	PRON	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	{"ud": "4"}	nsubj	_	_
+6	Гарик	Гарик	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	{"ud": "5"}	appos	_	_
+7	Кешабян	Кешабян	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	{"ud": "6"}	flat:name	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	{"ud": "4"}	punct	_	_
+
+!# {"sid": 277, "sid_uuid": "55c1e6077357a2ffcf367e5393ea55dec2eb514e22f6a82afcd20ef35582f2fe", "raw_text": "\u0423\u0441\u043b\u0443\u0433\u0438 \u043c\u043e\u0431\u0438\u043b\u044c\u043d\u043e\u0439 \u0441\u0432\u044f\u0437\u0438 \u043f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u044e\u0442 `` \u041c\u0422\u0421 &#39;&#39; , `` \u0411\u0438\u043b\u0430\u0439\u043d &#39;&#39; , `` \u041c\u0435\u0433\u0430\u0424\u043e\u043d &#39;&#39; , `` Skylink &#39;&#39; \u0438 `` Tele2 &#39;&#39; ."}
+1	Услуги	услуга	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	{"ud": "4"}	obj	_	_
+2	мобильной	мобильный	ADJ	JJL	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	{"ud": "3"}	amod	_	_
+3	связи	связь	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	{"ud": "1"}	nmod	_	_
+4	предоставляют	предоставлять	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+5	``	``	PUNCT	``	_	{"ud": "6"}	punct	_	SpaceAfter=No
+6	МТС	МТС	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	{"ud": "4"}	nsubj	_	SpaceAfter=No
+7	&#39;&#39;	&#39;&#39;	PUNCT	&#39;&#39;	_	{"ud": "10"}	punct	_	SpaceAfter=No
+8	,	,	PUNCT	,	_	{"ud": "10"}	punct	_	_
+9	``	``	PUNCT	``	_	{"ud": "10"}	punct	_	SpaceAfter=No
+10	Билайн	Билайн	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "6"}	conj	_	SpaceAfter=No
+11	&#39;&#39;	&#39;&#39;	PUNCT	&#39;&#39;	_	{"ud": "10"}	punct	_	SpaceAfter=No
+12	,	,	PUNCT	,	_	{"ud": "14"}	punct	_	_
+13	``	``	PUNCT	``	_	{"ud": "14"}	punct	_	SpaceAfter=No
+14	МегаФон	Мегафон	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "6"}	conj	_	SpaceAfter=No
+15	&#39;&#39;	&#39;&#39;	PUNCT	&#39;&#39;	_	{"ud": "14"}	punct	_	SpaceAfter=No
+16	,	,	PUNCT	,	_	{"ud": "18"}	punct	_	_
+17	``	``	PUNCT	``	_	{"ud": "18"}	punct	_	SpaceAfter=No
+18	Skylink	Skylink	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "6"}	conj	_	SpaceAfter=No
+19	&#39;&#39;	&#39;&#39;	PUNCT	&#39;&#39;	_	{"ud": "18"}	punct	_	_
+20	и	и	CCONJ	CC	_	{"ud": "22"}	cc	_	_
+21	``	``	PUNCT	``	_	{"ud": "22"}	punct	_	SpaceAfter=No
+22	Tele2	Tele2	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "6"}	conj	_	SpaceAfter=No
+23	&#39;&#39;	&#39;&#39;	PUNCT	&#39;&#39;	_	{"ud": "22"}	punct	_	SpaceAfter=No
+24	.	.	PUNCT	.	_	{"ud": "4"}	punct	_	_
+
+!# {"sid": 279, "sid_uuid": "78e03ac743e4fc8c49194e742befbdd916a377d6c8be96527a6621676f85b535", "raw_text": "\u0412 1963 \u0433\u043e\u0434\u0443 \u0413\u043b\u0443\u0431\u043e\u043a\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d \u0431\u044b\u043b \u0443\u043f\u0440\u0430\u0437\u0434\u043d\u0451\u043d ."}
+1	В	в	ADP	IN	_	{"ud": "3"}	case	_	_
+2	1963	1963	ADJ	ORD	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "3"}	amod	_	_
+3	году	год	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	{"ud": "7"}	obl	_	_
+4	Глубокинский	глубокинский	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "5"}	amod	_	_
+5	район	район	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "7"}	nsubj:pass	_	_
+6	был	быть	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	{"ud": "7"}	aux:pass	_	_
+7	упразднён	упразднить	VERB	VBNH	Animacy=Inan|Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	{"ud": "0"}	root	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	{"ud": "7"}	punct	_	_
+
+!# {"sid": 289, "sid_uuid": "e4d7b061e831887c7fc041a3ebac9f4f6d044dc40fb8fa89becc91badf7aaf5e", "raw_text": "\u041b\u0443\u0447\u0448\u0430\u044f \u043d\u0430\u043f\u0430\u0434\u0430\u044e\u0449\u0430\u044f : \u041c\u0430\u043d\u043e\u043d \u0424\u043b\u0438\u0440 ( `` \u0421\u043a\u0430\u0432\u043e\u043b\u0438\u043d\u0438 &#39;&#39; )"}
+1	Лучшая	лучший	ADJ	JJS	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	{"ud": "2"}	amod	_	_
+2	нападающая	нападающий	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	{"ud": "4"}	nsubj	_	SpaceAfter=No
+3	:	:	PUNCT	:	_	{"ud": "2"}	punct	_	_
+4	Манон	Манон	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	{"ud": "0"}	root	_	_
+5	Флир	Флир	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	{"ud": "4"}	flat:name	_	_
+6	(	(	PUNCT	(	_	{"ud": "8"}	punct	_	SpaceAfter=No
+7	``	``	PUNCT	&#39;&#39;	_	{"ud": "8"}	punct	_	SpaceAfter=No
+8	Скаволини	Скаволини	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "4"}	appos	_	SpaceAfter=No
+9	&#39;&#39;	&#39;&#39;	PUNCT	``	_	{"ud": "8"}	punct	_	SpaceAfter=No
+10	)	)	PUNCT	)	_	{"ud": "4"}	punct	_	_
+
+!# {"sid": 292, "sid_uuid": "11bb969992b6bd1bad67fd25afb7239206c92507a13b79d4feedf37c7b9e474b", "raw_text": "\u0413\u043e\u0442\u043e\u0432\u0430\u044f \u0444\u0438\u0433\u0443\u0440\u043a\u0430 \u043f\u043e\u043a\u0440\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u0437\u043e\u043b\u043e\u0442\u043e\u043c 999,9-\u0439 \u043f\u0440\u043e\u0431\u044b \u0442\u043e\u043b\u0449\u0438\u043d\u043e\u0439 10 \u043c\u0438\u043a\u0440\u043e\u043d ."}
+1	Готовая	готовый	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	{"ud": "2"}	amod	_	_
+2	фигурка	фигурка	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	{"ud": "3"}	nsubj	_	_
+3	покрывается	покрываться	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	{"ud": "0"}	root	_	_
+4	золотом	золото	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	{"ud": "3"}	iobj	_	_
+5	999,9-й	999,9-й	ADJ	ORD	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	{"ud": "6"}	amod	_	_
+6	пробы	проба	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	{"ud": "4"}	nmod	_	_
+7	толщиной	толщина	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	{"ud": "4"}	nmod	_	_
+8	10	10	NUM	CD	Case=Nom|NumType=Card	{"ud": "9"}	nummod:gov	_	_
+9	микрон	микрон	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	{"ud": "7"}	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	{"ud": "3"}	punct	_	_
+
+!# {"sid": 301, "sid_uuid": "50e87ff9b420be1fc7ae0e8a7fe6aed7f314e9b1c99a1fa8e9020b17361798ef", "raw_text": "\u0412 1981 \u0433\u043e\u0434\u0443 \u0410\u043d\u0430\u0442\u043e\u043b\u0438\u0439 \u041a\u0432\u043e\u0447\u0443\u0440 \u043e\u043a\u043e\u043d\u0447\u0438\u043b \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0430\u0432\u0438\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0439 \u0438\u043d\u0441\u0442\u0438\u0442\u0443\u0442 ."}
+1	В	в	ADP	IN	_	{"ud": "3"}	case	_	_
+2	1981	1981	ADJ	ORD	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "3"}	amod	_	_
+3	году	год	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	{"ud": "6"}	obl	_	_
+4	Анатолий	Анатолий	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	{"ud": "6"}	nsubj	_	_
+5	Квочур	Квочур	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	{"ud": "4"}	flat:name	_	_
+6	окончил	окончить	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+7	Московский	московский	ADJ	JJL	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "9"}	amod	_	_
+8	авиационный	авиационный	ADJ	JJL	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "9"}	amod	_	_
+9	институт	институт	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	{"ud": "6"}	obj	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	{"ud": "6"}	punct	_	_
+
+!# {"sid": 304, "sid_uuid": "1c79f85e4dcfa8e104fbb07a0db7093e5c19979aa453bd48050bb31f96c51ab2", "raw_text": "\u0412 1967 \u0433\u043e\u0434\u0443 \u043e\u043a\u043e\u043d\u0447\u0438\u043b \u0444\u0438\u043b\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0444\u0430\u043a\u0443\u043b\u044c\u0442\u0435\u0442 \u041c\u0413\u0423 ."}
+1	В	в	ADP	IN	_	{"ud": "3"}	case	_	_
+2	1967	1967	ADJ	ORD	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "3"}	amod	_	_
+3	году	год	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	{"ud": "4"}	obl	_	_
+4	окончил	окончить	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+5	филологический	филологический	ADJ	JJL	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "6"}	amod	_	_
+6	факультет	факультет	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	{"ud": "4"}	obj	_	_
+7	МГУ	МГУ	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "6"}	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	{"ud": "4"}	punct	_	_
+
+!# {"sid": 306, "sid_uuid": "c308b876dc03c738c26a4f868be7d46fd52b4673987132ffaeebc7160869f217", "raw_text": "\u0412\u044b\u0441\u0442\u0443\u043f\u0430\u043b \u043f\u043e \u0440\u0430\u0434\u0438\u043e `` \u0421\u0432\u043e\u0431\u043e\u0434\u0430 &#39;&#39; ."}
+1	Выступал	выступать	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+2	по	по	ADP	IN	_	{"ud": "3"}	case	_	_
+3	радио	радио	NOUN	NN	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	{"ud": "1"}	obl	_	_
+4	``	``	PUNCT	``	_	{"ud": "5"}	punct	_	SpaceAfter=No
+5	Свобода	свобода	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	{"ud": "3"}	appos	_	SpaceAfter=No
+6	&#39;&#39;	&#39;&#39;	PUNCT	&#39;&#39;	_	{"ud": "5"}	punct	_	SpaceAfter=No
+7	.	.	PUNCT	.	_	{"ud": "1"}	punct	_	_
+
+!# {"sid": 319, "sid_uuid": "c8f9be029a63917bb232e2ee1ef7334c0e624acdd37611e236bbe94139bff062", "raw_text": "\u041e\u043d \u043d\u0430\u0434\u0435\u044f\u043b\u0441\u044f , \u0447\u0442\u043e \u0430\u0440\u0445\u0438\u0435\u0440\u0435\u0439 , \u0443\u0442\u043e\u043c\u043b\u0435\u043d\u043d\u044b\u0439 \u043d\u0435\u0434\u0430\u0432\u043d\u0435\u0439 \u0441\u0441\u044b\u043b\u043a\u043e\u0439 , \u043d\u0435 \u0441\u0442\u0430\u043d\u0435\u0442 \u0443\u043f\u043e\u0440\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c ."}
+1	Он	он	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	{"ud": "2"}	nsubj	_	_
+2	надеялся	надеяться	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	{"ud": "0"}	root	_	SpaceAfter=No
+3	,	,	PUNCT	,	_	{"ud": "12"}	punct	_	_
+4	что	что	SCONJ	IN	_	{"ud": "12"}	mark	_	_
+5	архиерей	архиерей	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	{"ud": "12"}	nsubj	_	SpaceAfter=No
+6	,	,	PUNCT	,	_	{"ud": "7"}	punct	_	_
+7	утомленный	утомить	VERB	VBNL	Animacy=Anim|Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	{"ud": "5"}	acl	_	_
+8	недавней	недавний	ADJ	JJL	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	{"ud": "9"}	amod	_	_
+9	ссылкой	ссылка	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	{"ud": "7"}	obl:agent	_	SpaceAfter=No
+10	,	,	PUNCT	,	_	{"ud": "7"}	punct	_	_
+11	не	не	PART	NEG	Polarity=Neg	{"ud": "12"}	advmod	_	_
+12	станет	стать	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	{"ud": "2"}	ccomp	_	_
+13	упорствовать	упорствовать	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	{"ud": "12"}	xcomp	_	SpaceAfter=No
+14	.	.	PUNCT	.	_	{"ud": "2"}	punct	_	_
+
+!# {"sid": 321, "sid_uuid": "2dd9b27e40137c051efa321b1e4d1b94108578a777ab46c382ed50798a214f8e", "raw_text": "\u0417\u0430\u043c\u0443\u0436\u0435\u043c , \u0434\u0432\u043e\u0435 \u0434\u0435\u0442\u0435\u0439 ."}
+1	Замужем	замужем	ADV	RB	Degree=Pos	{"ud": "0"}	root	_	SpaceAfter=No
+2	,	,	PUNCT	,	_	{"ud": "1"}	punct	_	_
+3	двое	двое	NUM	CD	Animacy=Anim|Case=Nom|Number=Plur|NumType=Card	{"ud": "4"}	nummod:gov	_	_
+4	детей	ребенок	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	{"ud": "1"}	parataxis	_	SpaceAfter=No
+5	.	.	PUNCT	.	_	{"ud": "1"}	punct	_	_
+
+!# {"sid": 322, "sid_uuid": "11f396a22904fae989113305ad463175ca3447413b5544de44b5d567acfdce2b", "raw_text": "( ) \u0420\u043e\u0434\u0438\u043b\u0441\u044f 12 \u044f\u043d\u0432\u0430\u0440\u044f 1959 \u0433\u043e\u0434\u0430 \u0432 \u0425\u0430\u043b\u044c\u043c\u0441\u0442\u0430\u0434\u0435 , \u0428\u0432\u0435\u0446\u0438\u044f ."}
+1	(	(	PUNCT	(	_	{"ud": "3"}	punct	_	SpaceAfter=No
+2	)	)	PUNCT	)	_	{"ud": "3"}	punct	_	_
+3	Родился	родиться	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	{"ud": "0"}	root	_	_
+4	12	12	ADJ	ORD	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	{"ud": "3"}	obl	_	_
+5	января	январь	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "4"}	flat	_	_
+6	1959	1959	ADJ	ORD	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "7"}	amod	_	_
+7	года	год	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "5"}	nmod	_	_
+8	в	в	ADP	IN	_	{"ud": "9"}	case	_	_
+9	Хальмстаде	Хальмстад	PROPN	NNP	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	{"ud": "3"}	obl	_	SpaceAfter=No
+10	,	,	PUNCT	,	_	{"ud": "9"}	punct	_	_
+11	Швеция	Швеция	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	{"ud": "9"}	appos	_	SpaceAfter=No
+12	.	.	PUNCT	.	_	{"ud": "3"}	punct	_	_
+
+!# {"sid": 328, "sid_uuid": "424a46ffb625082c28a1342fc4433041e6e28598e35c5694177a3207770c06f1", "raw_text": "\u0421\u0435\u043b\u043e \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043e \u043d\u0430 \u0432\u044b\u0441\u043e\u0442\u0435 140 \u043c\u0435\u0442\u0440\u043e\u0432 \u043d\u0430\u0434 \u0443\u0440\u043e\u0432\u043d\u0435\u043c \u043c\u043e\u0440\u044f ."}
+1	Село	село	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	{"ud": "2"}	nsubj	_	_
+2	расположено	расположить	VERB	VBNH	Animacy=Inan|Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	{"ud": "0"}	root	_	_
+3	на	на	ADP	IN	_	{"ud": "4"}	case	_	_
+4	высоте	высота	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	{"ud": "2"}	obl	_	_
+5	140	140	NUM	CD	Animacy=Inan|Case=Nom|NumType=Card	{"ud": "6"}	nummod:gov	_	_
+6	метров	метр	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	{"ud": "4"}	nmod	_	_
+7	над	над	ADP	IN	_	{"ud": "8"}	case	_	_
+8	уровнем	уровень	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	{"ud": "6"}	nmod	_	_
+9	моря	море	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	{"ud": "8"}	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	{"ud": "2"}	punct	_	_
+
+!# {"sid": 330, "sid_uuid": "a8bfa5768d7266370e0afd4fab264a8a1c66e6122fe4cb18834097fa0b849193", "raw_text": "\u0422\u0435\u043b\u0435\u0444\u043e\u043d\u043d\u044b\u0439 \u043a\u043e\u0434 -- 871 ."}
+1	Телефонный	телефонный	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "2"}	amod	_	_
+2	код	код	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "4"}	nsubj	_	_
+3	--	--	PUNCT	--	_	{"ud": "4"}	punct	_	_
+4	871	871	NUM	CD	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|NumType=Card	{"ud": "0"}	root	_	SpaceAfter=No
+5	.	.	PUNCT	.	_	{"ud": "4"}	punct	_	_
+
+!# {"sid": 332, "sid_uuid": "a7bfb7aba87d7761f0aa82da3423d32cc1f79a5cedf8d542a06a26a03ed218ff", "raw_text": "\u0421\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u0430\u044f \u044d\u0432\u043e\u043b\u044e\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u043f\u0430\u043b\u0435\u043e\u043d\u0442\u043e\u043b\u043e\u0433\u0438\u044f \u0431\u044b\u043b\u0430 \u043e\u0441\u043d\u043e\u0432\u0430\u043d\u0430 \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u043e\u043c \u041a\u043e\u0432\u0430\u043b\u0435\u0432\u0441\u043a\u0438\u043c ."}
+1	Современная	современный	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	{"ud": "3"}	amod	_	_
+2	эволюционная	эволюционный	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	{"ud": "3"}	amod	_	_
+3	палеонтология	палеонтология	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	{"ud": "5"}	nsubj:pass	_	_
+4	была	быть	AUX	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	{"ud": "5"}	aux:pass	_	_
+5	основана	основать	VERB	VBNH	Animacy=Inan|Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	{"ud": "0"}	root	_	_
+6	Владимиром	Владимир	PROPN	NNP	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	{"ud": "5"}	obl:agent	_	_
+7	Ковалевским	Ковалевский	PROPN	NNP	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	{"ud": "6"}	flat:name	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	{"ud": "5"}	punct	_	_
+
+!# {"sid": 338, "sid_uuid": "6c73b9ff03e292e216001978e86f50f1e341df07e3153ea68edacb4873c85e43", "raw_text": "\u041d\u0430\u0441\u0435\u043b\u0435\u043d\u0438\u0435 -- 11 \u0436\u0438\u0442\u0435\u043b\u0435\u0439 ( 2007 \u0433\u043e\u0434 ) ."}
+1	Население	население	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	{"ud": "4"}	nsubj	_	_
+2	--	--	PUNCT	--	_	{"ud": "4"}	punct	_	_
+3	11	11	NUM	CD	Case=Nom|NumType=Card	{"ud": "4"}	nummod:gov	_	_
+4	жителей	житель	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	{"ud": "0"}	root	_	_
+5	(	(	PUNCT	(	_	{"ud": "7"}	punct	_	SpaceAfter=No
+6	2007	2007	ADJ	ORD	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "7"}	amod	_	_
+7	год	год	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "4"}	appos	_	SpaceAfter=No
+8	)	)	PUNCT	)	_	{"ud": "7"}	punct	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	{"ud": "4"}	punct	_	_
+
+!# {"sid": 347, "sid_uuid": "ece647197b17ff06ba7b87651b144f11afb616d97992f47e129962a44c93cf1c", "raw_text": "\u0412 1928 \u0433\u043e\u0434\u0443 \u043e\u043d \u0443\u0447\u0430\u0441\u0442\u0432\u043e\u0432\u0430\u043b \u0432 \u0431\u043e\u0442\u0430\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f\u0445 \u0432 \u0413\u0440\u0435\u043d\u043b\u0430\u043d\u0434\u0438\u0438 ."}
+1	В	в	ADP	IN	_	{"ud": "3"}	case	_	_
+2	1928	1928	ADJ	ORD	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "3"}	amod	_	_
+3	году	год	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	{"ud": "5"}	obl	_	_
+4	он	он	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	{"ud": "5"}	nsubj	_	_
+5	участвовал	участвовать	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+6	в	в	ADP	IN	_	{"ud": "8"}	case	_	_
+7	ботанических	ботанический	ADJ	JJL	Case=Loc|Degree=Pos|Number=Plur	{"ud": "8"}	amod	_	_
+8	исследованиях	исследование	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	{"ud": "5"}	obl	_	_
+9	в	в	ADP	IN	_	{"ud": "10"}	case	_	_
+10	Гренландии	Гренландия	PROPN	NNP	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	{"ud": "5"}	obl	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	{"ud": "5"}	punct	_	_
+
+!# {"sid": 350, "sid_uuid": "9eaee521a4c28d3e73fc4ae162c38ae94f6dae0703bb8ed0355fed9fbd5a018f", "raw_text": "\u041e\u043d\u0438 \u0432\u0435\u043b\u0438 \u0441\u0435\u0431\u044f , \u0441\u043b\u043e\u0432\u043d\u043e \u043e\u0431\u0430 \u043d\u0435 \u043e\u0436\u0438\u0434\u0430\u043b\u0438 \u0432\u0441\u0442\u0440\u0435\u0442\u0438\u0442\u044c \u0434\u0440\u0443\u0433 \u0434\u0440\u0443\u0433\u0430 ."}
+1	Они	они	PRON	PRP	Case=Nom|Number=Plur|Person=3	{"ud": "2"}	nsubj	_	_
+2	вели	вести	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+3	себя	себя	PRON	PRP	Case=Acc|Reflex=Yes	{"ud": "2"}	obj	_	SpaceAfter=No
+4	,	,	PUNCT	,	_	{"ud": "2"}	punct	_	_
+5	словно	словно	SCONJ	IN	_	{"ud": "8"}	mark	_	_
+6	оба	оба	NUM	CD	Animacy=Anim|Case=Nom|Gender=Masc|NumType=Card	{"ud": "8"}	nsubj	_	_
+7	не	не	PART	NEG	Polarity=Neg	{"ud": "8"}	advmod	_	_
+8	ожидали	ожидать	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	{"ud": "2"}	advcl	_	_
+9	встретить	встретить	VERB	VB	Aspect=Perf|VerbForm=Inf|Voice=Act	{"ud": "8"}	xcomp	_	_
+10	друг	друг	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	{"ud": "9"}	obj	_	_
+11	друга	друг	NOUN	NN	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	{"ud": "10"}	fixed	_	SpaceAfter=No
+12	.	.	PUNCT	.	_	{"ud": "2"}	punct	_	_
+
+!# {"sid": 356, "sid_uuid": "54bc0420af805446c57bcb885158d8d576a4651b144352333d8915264bd20e6c", "raw_text": "\u0414\u043b\u0438\u043d\u0430 \u0440\u0435\u043a\u0438 \u0441\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 16 \u043a\u043c , \u043f\u043b\u043e\u0449\u0430\u0434\u044c \u0432\u043e\u0434\u043e\u0441\u0431\u043e\u0440\u043d\u043e\u0433\u043e \u0431\u0430\u0441\u0441\u0435\u0439\u043d\u0430 133 \u043a\u043c2 ."}
+1	Длина	длина	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	{"ud": "3"}	nsubj	_	_
+2	реки	река	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	{"ud": "1"}	nmod	_	_
+3	составляет	составлять	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+4	16	16	NUM	CD	Case=Acc|NumType=Card	{"ud": "5"}	nummod:gov	_	_
+5	км	км	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	{"ud": "3"}	obj	_	SpaceAfter=No
+6	,	,	PUNCT	,	_	{"ud": "3"}	punct	_	_
+7	площадь	площадь	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	{"ud": "11"}	nsubj	_	_
+8	водосборного	водосборный	ADJ	JJL	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "9"}	amod	_	_
+9	бассейна	бассейн	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "7"}	nmod	_	_
+10	133	133	NUM	CD	Animacy=Inan|Case=Nom|NumType=Card	{"ud": "11"}	nummod:gov	_	_
+11	км2	км2	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	{"ud": "3"}	parataxis	_	SpaceAfter=No
+12	.	.	PUNCT	.	_	{"ud": "3"}	punct	_	_
+
+!# {"sid": 357, "sid_uuid": "b3ebe2b4b967f4ecfa674b2e96c0bc88d326a749ccac7471980602b24a49cd4f", "raw_text": "\u042d\u043b\u0435\u043a\u0442\u0440\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u044f \u043e\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0443\u0435\u0442 ."}
+1	Электрификация	электрификация	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	{"ud": "2"}	nsubj	_	_
+2	отсутствует	отсутствовать	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	SpaceAfter=No
+3	.	.	PUNCT	.	_	{"ud": "2"}	punct	_	_
+
+!# {"sid": 361, "sid_uuid": "1f7d1dc38a2a50085b0decf0f5a1939bd6172d2be25cc9f1ca52c5b2a63b3132", "raw_text": "\u041d\u043e \u0432 1990 \u0433. \u0431\u0435\u0437\u043e\u0431\u043b\u0430\u0447\u043d\u0430\u044f \u0436\u0438\u0437\u043d\u044c \u0437\u0430\u043a\u043e\u043d\u0447\u0438\u043b\u0430\u0441\u044c ."}
+1	Но	но	CCONJ	CC	_	{"ud": "7"}	cc	_	_
+2	в	в	ADP	IN	_	{"ud": "4"}	case	_	_
+3	1990	1990	ADJ	ORD	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "4"}	amod	_	_
+4	г.	год	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	{"ud": "7"}	obl	_	_
+5	безоблачная	безоблачный	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	{"ud": "6"}	amod	_	_
+6	жизнь	жизнь	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	{"ud": "7"}	nsubj	_	_
+7	закончилась	закончиться	VERB	VBC	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	{"ud": "0"}	root	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	{"ud": "7"}	punct	_	_
+
+!# {"sid": 362, "sid_uuid": "50682e617ffda2fc7a8ef3741803d3787d37a76780b2ac704075082de3c0a7c6", "raw_text": "\u0415\u0433\u0438\u043f\u0435\u0442\u0441\u043a\u0438\u0439 \u043a\u043e\u0440\u043e\u043b\u044c \u0424\u0430\u0440\u0443\u043a \u0431\u044b\u043b \u043f\u0440\u043e\u0432\u043e\u0437\u0433\u043b\u0430\u0448\u0451\u043d \u043a\u043e\u0440\u043e\u043b\u0451\u043c \u0415\u0433\u0438\u043f\u0442\u0430 \u0438 \u0421\u0443\u0434\u0430\u043d\u0430 ."}
+1	Египетский	египетский	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "2"}	amod	_	_
+2	король	король	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	{"ud": "5"}	nsubj:pass	_	_
+3	Фарук	Фарук	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	{"ud": "2"}	appos	_	_
+4	был	быть	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	{"ud": "5"}	aux:pass	_	_
+5	провозглашён	провозгласить	VERB	VBNH	Animacy=Anim|Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	{"ud": "0"}	root	_	_
+6	королём	король	NOUN	NN	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	{"ud": "5"}	xcomp	_	_
+7	Египта	Египет	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "6"}	nmod	_	_
+8	и	и	CCONJ	CC	_	{"ud": "9"}	cc	_	_
+9	Судана	Судан	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "7"}	conj	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	{"ud": "5"}	punct	_	_
+
+!# {"sid": 365, "sid_uuid": "e56032acedf6bf20cfec190eef3b49c56174b60e1d44437cda70530efa2cb7bb", "raw_text": "\u0412 \u044d\u0442\u043e\u043c \u0436\u0435 \u0433\u043e\u0434\u0443 \u043d\u0430\u0447\u0430\u043b\u0438\u0441\u044c \u0440\u0430\u0431\u043e\u0442\u044b \u043f\u043e \u043c\u043e\u0449\u0435\u043d\u0438\u044e \u0443\u043b\u0438\u0446\u044b ."}
+1	В	в	ADP	IN	_	{"ud": "4"}	case	_	_
+2	этом	этот	DET	DT	Case=Loc|Gender=Masc|Number=Sing	{"ud": "4"}	det	_	_
+3	же	же	PART	UH	_	{"ud": "2"}	advmod	_	_
+4	году	год	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	{"ud": "5"}	obl	_	_
+5	начались	начаться	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	{"ud": "0"}	root	_	_
+6	работы	работа	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	{"ud": "5"}	nsubj	_	_
+7	по	по	ADP	IN	_	{"ud": "8"}	case	_	_
+8	мощению	мощение	NOUN	NN	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	{"ud": "6"}	nmod	_	_
+9	улицы	улица	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	{"ud": "8"}	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	{"ud": "5"}	punct	_	_
+
+!# {"sid": 367, "sid_uuid": "ae189949829357b6d902d39b33150a6f184635c8800e61b714ffd3ea89c52f01", "raw_text": "* \u041d\u0443\u043c\u0435\u0440\u0430\u0446\u0438\u044f \u0442\u0443\u0440\u043e\u0432 , \u0438\u0437-\u0437\u0430 \u043f\u0435\u0440\u0435\u043d\u043e\u0441\u043e\u0432 \u043c\u0430\u0442\u0447\u0435\u0439 , \u043c\u043e\u0436\u0435\u0442 \u043e\u0442\u043b\u0438\u0447\u0430\u0442\u0441\u044f \u043e\u0442 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0439 ."}
+1	*	*	SYM	SYM	_	{"ud": "2"}	parataxis	_	_
+2	Нумерация	нумерация	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	{"ud": "9"}	nsubj	_	_
+3	туров	тур	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	{"ud": "2"}	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	,	_	{"ud": "6"}	punct	_	_
+5	из-за	из-за	ADP	AFX	_	{"ud": "6"}	case	_	_
+6	переносов	перенос	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	{"ud": "9"}	obl	_	_
+7	матчей	матч	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	{"ud": "6"}	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	,	_	{"ud": "6"}	punct	_	_
+9	может	мочь	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+10	отличатся	отличиться	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Mid	{"ud": "9"}	xcomp	_	_
+11	от	от	ADP	IN	_	{"ud": "12"}	case	_	_
+12	действительной	действительный	ADJ	JJL	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	{"ud": "10"}	obl	_	SpaceAfter=No
+13	.	.	PUNCT	.	_	{"ud": "9"}	punct	_	_
+
+!# {"sid": 374, "sid_uuid": "b90d09967d35afe9f86fba8128734c699e4f6d0909c8eb0fee0231f5142c7899", "raw_text": "\u0414\u043b\u044f \u043e\u0431\u0435\u0438\u0445 \u044f\u043f\u043e\u043d\u043e\u043a \u044d\u0442\u043e \u0441\u0442\u0430\u043b\u043e \u043e\u043b\u0438\u043c\u043f\u0438\u0439\u0441\u043a\u0438\u043c \u0434\u0435\u0431\u044e\u0442\u043e\u043c ."}
+1	Для	для	ADP	IN	_	{"ud": "3"}	case	_	_
+2	обеих	оба	NUM	CD	Animacy=Anim|Case=Gen|Gender=Fem|NumType=Card	{"ud": "3"}	nummod	_	_
+3	японок	японка	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	{"ud": "5"}	nmod	_	_
+4	это	это	PRON	DT	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	{"ud": "5"}	nsubj	_	_
+5	стало	стать	VERB	VBC	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	{"ud": "0"}	root	_	_
+6	олимпийским	олимпийский	ADJ	JJL	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "7"}	amod	_	_
+7	дебютом	дебют	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	{"ud": "5"}	obj	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	{"ud": "5"}	punct	_	_
+
+!# {"sid": 376, "sid_uuid": "71cb4cdc8d259050a601badb3047ecff30093701bf11291c6d666a685a4e8b19", "raw_text": "\u0417\u0438\u043c\u0430 \u0432 \u0434\u043e\u043b\u0438\u043d\u0435 \u043c\u044f\u0433\u043a\u0430\u044f , \u0447\u0438\u0441\u043b\u043e \u0441\u043e\u043b\u043d\u0435\u0447\u043d\u044b\u0445 \u0434\u043d\u0435\u0439 \u0441\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 270 ."}
+1	Зима	зима	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	{"ud": "4"}	nsubj	_	_
+2	в	в	ADP	IN	_	{"ud": "3"}	case	_	_
+3	долине	долина	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	{"ud": "4"}	nmod	_	_
+4	мягкая	мягкий	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	{"ud": "0"}	root	_	SpaceAfter=No
+5	,	,	PUNCT	,	_	{"ud": "4"}	punct	_	_
+6	число	число	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	{"ud": "9"}	nsubj	_	_
+7	солнечных	солнечный	ADJ	JJL	Case=Gen|Degree=Pos|Number=Plur	{"ud": "8"}	amod	_	_
+8	дней	день	NOUN	NN	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	{"ud": "6"}	nmod	_	_
+9	составляет	составлять	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	{"ud": "4"}	parataxis	_	_
+10	270	270	NUM	CD	Case=Acc|NumType=Card	{"ud": "9"}	obj	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	{"ud": "9"}	punct	_	_
+
+!# {"sid": 377, "sid_uuid": "568b7f8a89f710d96a29c61b5e63db1cb50fea56817ba8e753a41316b2c52a04", "raw_text": "\u0412 \u0442\u043e\u043c \u0436\u0435 1932 \u0433\u043e\u0434\u0443 \u0431\u044b\u043b \u043f\u0440\u0438\u0437\u0432\u0430\u043d \u0432 \u041a\u0440\u0430\u0441\u043d\u0443\u044e \u0410\u0440\u043c\u0438\u044e ."}
+1	В	в	ADP	IN	_	{"ud": "5"}	case	_	_
+2	том	тот	DET	DT	Case=Loc|Gender=Masc|Number=Sing	{"ud": "5"}	det	_	_
+3	же	же	PART	UH	_	{"ud": "2"}	advmod	_	_
+4	1932	1932	ADJ	ORD	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "5"}	amod	_	_
+5	году	год	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	{"ud": "7"}	obl	_	_
+6	был	быть	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	{"ud": "7"}	aux:pass	_	_
+7	призван	призвать	VERB	VBNH	Animacy=Anim|Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	{"ud": "0"}	root	_	_
+8	в	в	ADP	IN	_	{"ud": "10"}	case	_	_
+9	Красную	красный	ADJ	JJL	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	{"ud": "10"}	amod	_	_
+10	Армию	армия	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	{"ud": "7"}	obl	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	{"ud": "7"}	punct	_	_
+
+!# {"sid": 388, "sid_uuid": "cebab0e3890c1e1abc21c70278e80cba2605dcf14fa5c8d86eb2f07c922fb4ea", "raw_text": "Benteler \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 \u043f\u0440\u0438\u043d\u0430\u0434\u043b\u0435\u0436\u0438\u0442 \u0434\u0432\u0435 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438 :"}
+1	Benteler	Benteler	X	FW	Foreign=Yes	{"ud": "4"}	iobj	_	_
+2	в	в	ADP	IN	_	{"ud": "3"}	case	_	_
+3	России	Россия	PROPN	NNP	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	{"ud": "4"}	obl	_	_
+4	принадлежит	принадлежать	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+5	две	два	NUM	CD	Animacy=Inan|Case=Nom|Gender=Fem|NumType=Card	{"ud": "6"}	nummod:gov	_	_
+6	компании	компания	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	{"ud": "4"}	obl	_	SpaceAfter=No
+7	:	:	PUNCT	:	_	{"ud": "4"}	punct	_	_
+
+!# {"sid": 397, "sid_uuid": "f3cd7384d64cebf60752280d87fcfa630d5ce3118e31d5112c67408e559a2ae0", "raw_text": "\u0412\u0441\u0435 \u0430\u043a\u043a\u0443\u043c\u0443\u043b\u044f\u0442\u043e\u0440\u043d\u044b\u0435 \u0431\u0430\u0442\u0430\u0440\u0435\u0438 \u043d\u0430 \u0441\u0435\u0433\u043c\u0435\u043d\u0442\u0435 \u04206 -- \u0437\u0430\u043c\u0435\u043d\u0435\u043d\u044b ."}
+1	Все	весь	DET	DT	Case=Nom|Number=Plur	{"ud": "3"}	det	_	_
+2	аккумуляторные	аккумуляторный	ADJ	JJL	Case=Nom|Degree=Pos|Number=Plur	{"ud": "3"}	amod	_	_
+3	батареи	батарея	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	{"ud": "8"}	nsubj:pass	_	_
+4	на	на	ADP	IN	_	{"ud": "5"}	case	_	_
+5	сегменте	сегмент	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	{"ud": "3"}	nmod	_	_
+6	Р6	Р6	NUM	CD	Case=Nom|NumType=Card	{"ud": "5"}	appos	_	_
+7	--	--	PUNCT	--	_	{"ud": "8"}	punct	_	_
+8	заменены	заменить	VERB	VBNH	Animacy=Inan|Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	{"ud": "0"}	root	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	{"ud": "8"}	punct	_	_
+
+!# {"sid": 400, "sid_uuid": "83c290e6310fdbcb641db34cb2643e2b13ae38d17567e97a8ac5ab95850b58a2", "raw_text": "\u041e\u0440\u0443\u0436\u0438\u0435 \u0438\u043c\u0435\u0435\u0442 \u0432\u044b\u0434\u0432\u0438\u0436\u043d\u043e\u0439 \u043f\u0440\u0438\u043a\u043b\u0430\u0434 ."}
+1	Оружие	оружие	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	{"ud": "2"}	nsubj	_	_
+2	имеет	иметь	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+3	выдвижной	выдвижной	ADJ	JJL	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "4"}	amod	_	_
+4	приклад	приклад	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	{"ud": "2"}	obj	_	SpaceAfter=No
+5	.	.	PUNCT	.	_	{"ud": "2"}	punct	_	_
+
+!# {"sid": 401, "sid_uuid": "cb804c3dbf28487af09e6b169e3a7c559df8dd72c72f3bc3c9c9c2eb43ce5437", "raw_text": "\u0410\u043b\u0430\u043c\u0430\u0433\u0430\u043d -- \u0441\u0442\u0440\u0430\u0442\u043e\u0432\u0443\u043b\u043a\u0430\u043d , \u0432\u044b\u0441\u043e\u0442\u043e\u0439 744 \u043c\u0435\u0442\u0440\u0430 ."}
+1	Аламаган	Аламаган	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "3"}	nsubj	_	_
+2	--	--	PUNCT	--	_	{"ud": "3"}	punct	_	_
+3	стратовулкан	стратовулкан	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "0"}	root	_	SpaceAfter=No
+4	,	,	PUNCT	,	_	{"ud": "3"}	punct	_	_
+5	высотой	высота	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	{"ud": "3"}	nmod	_	_
+6	744	744	NUM	CD	Animacy=Inan|Case=Nom|NumType=Card	{"ud": "7"}	nummod:gov	_	_
+7	метра	метр	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "5"}	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	{"ud": "3"}	punct	_	_
+
+!# {"sid": 407, "sid_uuid": "714b90df055f0b73831cd04f4b854fbd143c86d0ad7f38b0511f8e0d137330d3", "raw_text": "\u041f\u0440\u043e\u0445\u043e\u0434\u0438\u0442 \u043f\u043e \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438 \u0410\u0434\u044b\u0433\u0435\u0438 \u0438 \u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0441\u043a\u043e\u0433\u043e \u043a\u0440\u0430\u044f ."}
+1	Проходит	проходить	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+2	по	по	ADP	IN	_	{"ud": "3"}	case	_	_
+3	территории	территория	NOUN	NN	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	{"ud": "1"}	obl	_	_
+4	Адыгеи	Адыгея	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	{"ud": "3"}	nmod	_	_
+5	и	и	CCONJ	CC	_	{"ud": "7"}	cc	_	_
+6	Краснодарского	краснодарский	ADJ	JJL	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "7"}	amod	_	_
+7	края	край	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "4"}	conj	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	{"ud": "1"}	punct	_	_
+
+!# {"sid": 411, "sid_uuid": "6a24242cd64f74e83365ca83779ad8c130f16b16564b87950ff5e5400e68349d", "raw_text": "\u041a\u0430\u0440\u043b XIV \u042e\u0445\u0430\u043d \u0443\u043c\u0435\u0440 8 \u043c\u0430\u0440\u0442\u0430 1844 \u0433\u043e\u0434\u0430 ."}
+1	Карл	Карл	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	{"ud": "4"}	nsubj	_	_
+2	XIV	XIV	X	FW	Foreign=Yes	{"ud": "1"}	amod	_	_
+3	Юхан	Юхан	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	{"ud": "1"}	nmod	_	_
+4	умер	умереть	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+5	8	8	ADJ	ORD	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	{"ud": "4"}	obl	_	_
+6	марта	март	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "5"}	flat	_	_
+7	1844	1844	ADJ	ORD	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "8"}	amod	_	_
+8	года	год	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "6"}	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	{"ud": "4"}	punct	_	_
+
+!# {"sid": 412, "sid_uuid": "7065bd9c8184f51a8fd7f5c1fd92c4234bb34a7bca5df54402caec047c3fcc1c", "raw_text": "\u0417\u0430 \u043e\u0431\u0440\u0430\u0437\u0435\u0446 \u0431\u044b\u043b\u043e \u0432\u0437\u044f\u0442\u043e \u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0435 \u043d\u0430 \u043f\u0435\u0447\u0430\u0442\u0438 \u0441\u0440\u0435\u0434\u043d\u0435\u0432\u0435\u043a\u043e\u0432\u043e\u0433\u043e \u043f\u0440\u0438\u043e\u0440\u0441\u0442\u0432\u0430 ."}
+1	За	за	ADP	IN	_	{"ud": "2"}	case	_	_
+2	образец	образец	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	{"ud": "4"}	obl	_	_
+3	было	быть	AUX	VBC	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	{"ud": "4"}	aux:pass	_	_
+4	взято	взять	VERB	VBNH	Animacy=Inan|Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	{"ud": "0"}	root	_	_
+5	изображение	изображение	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	{"ud": "4"}	nsubj:pass	_	_
+6	на	на	ADP	IN	_	{"ud": "7"}	case	_	_
+7	печати	печать	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	{"ud": "5"}	nmod	_	_
+8	средневекового	средневековый	ADJ	JJL	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	{"ud": "9"}	amod	_	_
+9	приорства	приорство	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	{"ud": "7"}	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	{"ud": "4"}	punct	_	_
+
+!# {"sid": 417, "sid_uuid": "d43083ae0dd95bd04e20e35898f5ae663b1cc93f81b32de09d1a4487e75e5295", "raw_text": "\u0414\u043e\u0445\u043e\u0434 \u043d\u0430 \u0434\u0443\u0448\u0443 \u043d\u0430\u0441\u0435\u043b\u0435\u043d\u0438\u044f \u0441\u043e\u0441\u0442\u0430\u0432\u0438\u043b 15282 \u0434\u043e\u043b\u043b\u0430\u0440\u043e\u0432 ."}
+1	Доход	доход	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "5"}	nsubj	_	_
+2	на	на	ADP	IN	_	{"ud": "3"}	case	_	_
+3	душу	душа	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	{"ud": "1"}	nmod	_	_
+4	населения	население	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	{"ud": "3"}	nmod	_	_
+5	составил	составить	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+6	15282	15282	NUM	CD	Animacy=Inan|Case=Acc|Gender=Masc|NumType=Card	{"ud": "7"}	nummod:gov	_	_
+7	долларов	доллар	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	{"ud": "5"}	obj	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	{"ud": "5"}	punct	_	_
+
+!# {"sid": 419, "sid_uuid": "a0ae304a59a6999c78f66778492139dbbc4ddf9e87bfd81ca5d983c354f0ba71", "raw_text": "\u0423\u0434\u043e\u0431\u043d\u044b \u0434\u043b\u044f \u0431\u044b\u0441\u0442\u0440\u043e\u0433\u043e \u0440\u0430\u0437\u0432\u0451\u0440\u0442\u044b\u0432\u0430\u043d\u0438\u044f ."}
+1	Удобны	удобный	ADJ	JJH	Degree=Pos|Number=Plur|Variant=Short	{"ud": "0"}	root	_	_
+2	для	для	ADP	IN	_	{"ud": "4"}	case	_	_
+3	быстрого	быстрый	ADJ	JJL	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	{"ud": "4"}	amod	_	_
+4	развёртывания	развертывание	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	{"ud": "1"}	nmod	_	SpaceAfter=No
+5	.	.	PUNCT	.	_	{"ud": "1"}	punct	_	_
+
+!# {"sid": 422, "sid_uuid": "12d26750ed087fe3fe8439566f4eacb135f11a7c39a6052d3847cf6db9f7d9ca", "raw_text": "\u041c\u043d\u043e\u0436\u0435\u0441\u0442\u0432\u043e \u0434\u0430\u0439\u0432-\u0446\u0435\u043d\u0442\u0440\u043e\u0432 CMAS \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043e \u0432\u043e \u0432\u0441\u0435\u0445 \u043a\u0443\u0440\u043e\u0440\u0442\u043d\u044b\u0445 \u0437\u043e\u043d\u0430\u0445 \u043c\u0438\u0440\u0430 ."}
+1	Множество	множество	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	{"ud": "4"}	nsubj:pass	_	_
+2	дайв-центров	дайв-центр	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	{"ud": "1"}	nmod	_	_
+3	CMAS	CMAS	X	FW	Foreign=Yes	{"ud": "2"}	nmod	_	_
+4	расположено	расположить	VERB	VBNH	Animacy=Inan|Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	{"ud": "0"}	root	_	_
+5	во	во	ADP	IN	_	{"ud": "8"}	case	_	_
+6	всех	весь	DET	DT	Case=Loc|Number=Plur	{"ud": "8"}	det	_	_
+7	курортных	курортный	ADJ	JJL	Case=Loc|Degree=Pos|Number=Plur	{"ud": "8"}	amod	_	_
+8	зонах	зона	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	{"ud": "4"}	obl	_	_
+9	мира	мир	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "8"}	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	{"ud": "4"}	punct	_	_
+
+!# {"sid": 427, "sid_uuid": "afdc1013a4c325f36bd5227ccb2118870f19fe5894d27c25f9c66072a13299c2", "raw_text": "\u0421\u043a\u043e\u043d\u0447\u0430\u043b\u0441\u044f 12 \u043d\u043e\u044f\u0431\u0440\u044f 1972 \u0433\u043e\u0434\u0430 , \u043f\u043e\u0445\u043e\u0440\u043e\u043d\u0435\u043d \u0432 \u041a\u0438\u044f\u0441\u043e\u0432\u043e ."}
+1	Скончался	скончаться	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	{"ud": "0"}	root	_	_
+2	12	12	ADJ	ORD	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	{"ud": "1"}	obl	_	_
+3	ноября	ноябрь	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "2"}	flat	_	_
+4	1972	1972	ADJ	ORD	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "5"}	amod	_	_
+5	года	год	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "3"}	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	,	_	{"ud": "7"}	punct	_	_
+7	похоронен	похоронить	VERB	VBNH	Animacy=Anim|Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	{"ud": "1"}	conj	_	_
+8	в	в	ADP	IN	_	{"ud": "9"}	case	_	_
+9	Киясово	Киясово	PROPN	NNP	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	{"ud": "7"}	obl	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	{"ud": "1"}	punct	_	_
+
+!# {"sid": 429, "sid_uuid": "b56584f30d40adb2331d738beefecd57490ba8bf015345ebb9261f78e9a8a332", "raw_text": "\u0421 1974 \u0433\u043e\u0434\u0443 \u0437\u0430\u043d\u0438\u043c\u0430\u043b\u0430\u0441\u044c \u0432 \u041b\u0418\u0422\u041e \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0430 \u041a\u0443\u0448\u043d\u0435\u0440\u0430 ."}
+1	С	с	ADP	IN	_	{"ud": "3"}	case	_	_
+2	1974	1974	ADJ	ORD	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "3"}	amod	_	_
+3	году	год	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	{"ud": "4"}	obl	_	_
+4	занималась	заниматься	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	{"ud": "0"}	root	_	_
+5	в	в	ADP	IN	_	{"ud": "6"}	case	_	_
+6	ЛИТО	ЛИТО	PROPN	NNP	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	{"ud": "4"}	obl	_	_
+7	Александра	Александр	PROPN	NNP	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	{"ud": "6"}	nmod	_	_
+8	Кушнера	Кушнер	PROPN	NNP	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	{"ud": "7"}	flat:name	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	{"ud": "4"}	punct	_	_
+
+!# {"sid": 431, "sid_uuid": "5e880df8e70218bde7ab952fd35a2106f348185b1e438f1dea2c4b829a773b9e", "raw_text": "\u0421\u0444\u0435\u0440\u0430 \u0433\u043e\u0441\u0442\u0438\u043d\u0438\u0447\u043d\u044b\u0445 \u0443\u0441\u043b\u0443\u0433 \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0430 \u0434\u043e\u0441\u0442\u0430\u0442\u043e\u0447\u043d\u043e \u0448\u0438\u0440\u043e\u043a\u043e ."}
+1	Сфера	сфера	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	{"ud": "6"}	nsubj:pass	_	_
+2	гостиничных	гостиничный	ADJ	JJL	Case=Gen|Degree=Pos|Number=Plur	{"ud": "3"}	amod	_	_
+3	услуг	услуга	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	{"ud": "1"}	nmod	_	_
+4	в	в	ADP	IN	_	{"ud": "5"}	case	_	_
+5	городе	город	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	{"ud": "6"}	obl	_	_
+6	представлена	представить	VERB	VBNH	Animacy=Inan|Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	{"ud": "0"}	root	_	_
+7	достаточно	достаточно	ADV	RB	Degree=Pos	{"ud": "8"}	advmod	_	_
+8	широко	широко	ADV	RB	Degree=Pos	{"ud": "6"}	advmod	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	{"ud": "6"}	punct	_	_
+
+!# {"sid": 432, "sid_uuid": "4cb37c067f45ddb968d4ff0b084a77994938e43749a362b90f920c649ff6d81d", "raw_text": "\u0412 \u0433\u043e\u0440\u043e\u0434\u0435 \u0438\u043c\u0435\u0435\u0442\u0441\u044f \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u043e\u0432 , \u043c\u0443\u0437\u0435\u0435\u0432 , \u043a\u0430\u0440\u0442\u0438\u043d\u043d\u044b\u0445 \u0433\u0430\u043b\u0435\u0440\u0435\u0439 ."}
+1	В	в	ADP	IN	_	{"ud": "2"}	case	_	_
+2	городе	город	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	{"ud": "3"}	obl	_	_
+3	имеется	иметься	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	{"ud": "0"}	root	_	_
+4	несколько	несколько	NUM	RB	Animacy=Inan|Case=Nom|NumType=Card	{"ud": "5"}	nummod:gov	_	_
+5	университетов	университет	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	{"ud": "3"}	obl	_	SpaceAfter=No
+6	,	,	PUNCT	,	_	{"ud": "7"}	punct	_	_
+7	музеев	музей	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	{"ud": "5"}	conj	_	SpaceAfter=No
+8	,	,	PUNCT	,	_	{"ud": "10"}	punct	_	_
+9	картинных	картинный	ADJ	JJL	Case=Gen|Degree=Pos|Number=Plur	{"ud": "10"}	amod	_	_
+10	галерей	галерея	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	{"ud": "5"}	conj	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	{"ud": "3"}	punct	_	_
+
+!# {"sid": 433, "sid_uuid": "c2ca83cea042bfe3cca89648e2614de241e55c444665deaa22d8d70a704f9e38", "raw_text": "\u0411\u043e\u043b\u044c\u0448\u0430\u044f \u0447\u0430\u0441\u0442\u044c \u0432\u0438\u0434\u043e\u0432 \u0440\u043e\u0434\u0430 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0430 \u0432 \u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0439 \u0438 \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0439 \u0410\u043c\u0435\u0440\u0438\u043a\u0435 ."}
+1	Большая	больший	ADJ	JJRL	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	{"ud": "2"}	amod	_	_
+2	часть	часть	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	{"ud": "5"}	nsubj:pass	_	_
+3	видов	вид	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	{"ud": "2"}	nmod	_	_
+4	рода	род	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "3"}	nmod	_	_
+5	распространена	распространенный	ADJ	JJH	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	{"ud": "0"}	root	_	_
+6	в	в	ADP	IN	_	{"ud": "10"}	case	_	_
+7	Северной	северный	ADJ	JJL	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	{"ud": "10"}	amod	_	_
+8	и	и	CCONJ	CC	_	{"ud": "9"}	cc	_	_
+9	Центральной	центральный	ADJ	JJL	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	{"ud": "7"}	conj	_	_
+10	Америке	Америка	PROPN	NNP	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	{"ud": "5"}	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	{"ud": "5"}	punct	_	_
+
+!# {"sid": 437, "sid_uuid": "0bf6e39c97b7e3784fc98f1c65fe927b15969f74e72211772c6e088d2f2b4f00", "raw_text": "\u0412 \u0410\u043d\u0433\u043b\u0438\u0438 \u0434\u043e\u043b\u0436\u043d\u043e\u0441\u0442\u044c \u043b\u043e\u0440\u0434-\u0430\u0434\u043c\u0438\u0440\u0430\u043b\u0430 \u0432\u043e\u0437\u043d\u0438\u043a\u043b\u0430 \u043e\u043a\u043e\u043b\u043e 1400 \u0433\u043e\u0434\u0430 ."}
+1	В	в	ADP	IN	_	{"ud": "2"}	case	_	_
+2	Англии	Англия	PROPN	NNP	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	{"ud": "5"}	obl	_	_
+3	должность	должность	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	{"ud": "5"}	nsubj	_	_
+4	лорд-адмирала	лорд-адмирал	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	{"ud": "3"}	nmod	_	_
+5	возникла	возникнуть	VERB	VBC	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+6	около	около	ADP	IN	_	{"ud": "8"}	case	_	_
+7	1400	1400	ADJ	ORD	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "8"}	amod	_	_
+8	года	год	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "5"}	obl	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	{"ud": "5"}	punct	_	_
+
+!# {"sid": 438, "sid_uuid": "a2bd58879d911bb9af127f8b617edd0ae1badc604ff2f2eec50ea7b8eac3df49", "raw_text": "\u041e\u043a\u0440\u0443\u0433 \u043a\u043e\u043c\u043c\u0443\u043d\u044b -- \u0422\u044e\u043b\u044c ."}
+1	Округ	округ	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "4"}	nsubj	_	_
+2	коммуны	коммуна	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	{"ud": "1"}	nmod	_	_
+3	--	--	PUNCT	--	_	{"ud": "4"}	punct	_	_
+4	Тюль	Тюль	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "0"}	root	_	SpaceAfter=No
+5	.	.	PUNCT	.	_	{"ud": "4"}	punct	_	_
+
+!# {"sid": 443, "sid_uuid": "fb0592b9c0901d9d0aec23b3e8cbde36abfc125538419c069b9ea029111585c2", "raw_text": "\u041c\u0435\u043b\u044c\u0445\u043e\u0432 ( ) -- \u043a\u043e\u043c\u043c\u0443\u043d\u0430 \u0432 \u0413\u0435\u0440\u043c\u0430\u043d\u0438\u0438 , \u0440\u0430\u0439\u043e\u043d\u043d\u044b\u0439 \u0446\u0435\u043d\u0442\u0440 , \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u0437\u0435\u043c\u043b\u0435 \u0411\u0440\u0430\u043d\u0434\u0435\u043d\u0431\u0443\u0440\u0433 ."}
+1	Мельхов	Мельхов	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "5"}	nsubj	_	_
+2	(	(	PUNCT	(	_	{"ud": "1"}	punct	_	SpaceAfter=No
+3	)	)	PUNCT	)	_	{"ud": "1"}	punct	_	_
+4	--	--	PUNCT	--	_	{"ud": "5"}	punct	_	_
+5	коммуна	коммуна	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	{"ud": "0"}	root	_	_
+6	в	в	ADP	IN	_	{"ud": "7"}	case	_	_
+7	Германии	Германия	PROPN	NNP	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	{"ud": "5"}	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	,	_	{"ud": "10"}	punct	_	_
+9	районный	районный	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "10"}	amod	_	_
+10	центр	центр	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "5"}	conj	_	SpaceAfter=No
+11	,	,	PUNCT	,	_	{"ud": "12"}	punct	_	_
+12	расположен	расположить	VERB	VBNH	Animacy=Inan|Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	{"ud": "5"}	parataxis	_	_
+13	в	в	ADP	IN	_	{"ud": "14"}	case	_	_
+14	земле	земля	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	{"ud": "12"}	obl	_	_
+15	Бранденбург	Бранденбург	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "14"}	appos	_	SpaceAfter=No
+16	.	.	PUNCT	.	_	{"ud": "5"}	punct	_	_
+
+!# {"sid": 446, "sid_uuid": "829f0d1feaeb0a61714522af4b1e530d71b5b7ed116d2825feaabefc0b24d741", "raw_text": "\u0414\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u0435\u043d \u043d\u0430 \u0432\u0441\u0435\u0445 \u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0445 \u0440\u0435\u0439\u0441\u0430\u0445 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 ( \u043a\u0440\u043e\u043c\u0435 \u0413\u0423\u041f \u041c\u043e\u0441\u0433\u043e\u0440\u0442\u0440\u0430\u043d\u0441 ) ."}
+1	Действителен	действительный	ADJ	JJH	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	{"ud": "0"}	root	_	_
+2	на	на	ADP	IN	_	{"ud": "5"}	case	_	_
+3	всех	весь	DET	DT	Case=Loc|Number=Plur	{"ud": "5"}	det	_	_
+4	социальных	социальный	ADJ	JJL	Case=Loc|Degree=Pos|Number=Plur	{"ud": "5"}	amod	_	_
+5	рейсах	рейс	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	{"ud": "1"}	nmod	_	_
+6	области	область	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	{"ud": "5"}	nmod	_	_
+7	(	(	PUNCT	(	_	{"ud": "10"}	punct	_	SpaceAfter=No
+8	кроме	кроме	ADP	IN	_	{"ud": "10"}	case	_	_
+9	ГУП	ГУП	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	{"ud": "10"}	nmod	_	_
+10	Мосгортранс	Мосгортранс	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "5"}	nmod	_	SpaceAfter=No
+11	)	)	PUNCT	)	_	{"ud": "10"}	punct	_	SpaceAfter=No
+12	.	.	PUNCT	.	_	{"ud": "1"}	punct	_	_
+
+!# {"sid": 448, "sid_uuid": "75e4bf800373547655076568372d814af4f7cce55461320a96b663844f602423", "raw_text": "\u0422\u0435\u043c \u043d\u0435 \u043c\u0435\u043d\u0435\u0435 \u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043e\u0432\u0430\u043b\u043e \u0434\u043e \u043a\u043e\u043d\u0446\u0430 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043e\u0432\u0430\u043d\u0438\u044f \u0422\u0440\u0435\u0442\u044c\u0435\u0433\u043e \u0440\u0435\u0439\u0445\u0430 ."}
+1	Тем	то	PRON	DT	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	{"ud": "4"}	det	_	_
+2	не	не	PART	NEG	_	{"ud": "1"}	fixed	_	_
+3	менее	менее	ADV	RBR	Degree=Cmp	{"ud": "1"}	fixed	_	_
+4	движение	движение	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	{"ud": "5"}	nsubj	_	_
+5	существовало	существовать	VERB	VBC	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+6	до	до	ADP	IN	_	{"ud": "7"}	case	_	_
+7	конца	конец	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "5"}	obl	_	_
+8	существования	существование	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	{"ud": "7"}	nmod	_	_
+9	Третьего	третий	ADJ	ORD	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "10"}	amod	_	_
+10	рейха	рейх	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "8"}	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	{"ud": "5"}	punct	_	_
+
+!# {"sid": 451, "sid_uuid": "f0edd0f4702a2e979d7653d4ef39afc78bd139480337694a045c3c2bd9a3991b", "raw_text": "\u041d\u0430\u0441\u044b\u043f\u0430\u043b\u0430 \u0441\u0430\u0436\u0438 !"}
+1	Насыпала	насыпать	VERB	VBC	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+2	сажи	сажа	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	{"ud": "1"}	obj	_	SpaceAfter=No
+3	!	!	PUNCT	.	_	{"ud": "1"}	punct	_	_
+
+!# {"sid": 452, "sid_uuid": "6bff2b06f2e849e6f0dd7fbacde427f463abd92f107d73f9e1899666b338cdc3", "raw_text": "\u042f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0441\u043e\u0441\u0442\u0430\u0432\u043d\u043e\u0439 \u0447\u0430\u0441\u0442\u044c\u044e \u043c\u0443\u043d\u0438\u0446\u0438\u043f\u0430\u043b\u0438\u0442\u0435\u0442\u0430 \u041b\u0430\u0433\u0443\u0448 ."}
+1	Является	являться	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	{"ud": "0"}	root	_	_
+2	составной	составной	ADJ	JJL	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	{"ud": "3"}	amod	_	_
+3	частью	часть	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	{"ud": "1"}	xcomp	_	_
+4	муниципалитета	муниципалитет	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "3"}	nmod	_	_
+5	Лагуш	Лагуш	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "4"}	appos	_	SpaceAfter=No
+6	.	.	PUNCT	.	_	{"ud": "1"}	punct	_	_
+
+!# {"sid": 453, "sid_uuid": "140eb42587a8efaf85e2371776634b3c4107b666505c583cf1b8aa8f2807038a", "raw_text": "\u041e\u0431\u0438\u0442\u0430\u044e\u0442 \u0445\u0438\u0449\u043d\u0438\u043a\u0438 -- \u043f\u043e\u043b\u043e\u0441\u0430\u0442\u0430\u044f \u0433\u0438\u0435\u043d\u0430 , \u0448\u0430\u043a\u0430\u043b , \u043b\u0438\u0441\u0438\u0446\u0430 ."}
+1	Обитают	обитать	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+2	хищники	хищник	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	{"ud": "1"}	nsubj	_	_
+3	--	--	PUNCT	--	_	{"ud": "2"}	punct	_	_
+4	полосатая	полосатый	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	{"ud": "5"}	amod	_	_
+5	гиена	гиена	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	{"ud": "2"}	appos	_	SpaceAfter=No
+6	,	,	PUNCT	,	_	{"ud": "7"}	punct	_	_
+7	шакал	шакал	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	{"ud": "5"}	conj	_	SpaceAfter=No
+8	,	,	PUNCT	,	_	{"ud": "9"}	punct	_	_
+9	лисица	лисица	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	{"ud": "5"}	conj	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	{"ud": "1"}	punct	_	_
+
+!# {"sid": 455, "sid_uuid": "ae6b9f8ab1b7aca7cd8c179af7e49fb28bdd8288504ad80b2fb7c9cd1d674234", "raw_text": "\u0412 1240 -- 1250 \u0433\u043e\u0434\u0430\u0445 \u043e\u043d \u043f\u043e\u0441\u0442\u043e\u0438\u043b \u0437\u0434\u0435\u0441\u044c \u0437\u0430\u043c\u043e\u043a \u0420\u0438\u0437\u0435\u043d\u0431\u0443\u0440\u0433 ."}
+1	В	в	ADP	IN	_	{"ud": "5"}	case	_	_
+2	1240	1240	ADJ	ORD	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "5"}	amod	_	_
+3	--	--	PUNCT	--	_	{"ud": "4"}	punct	_	_
+4	1250	1250	ADJ	ORD	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "2"}	nmod	_	_
+5	годах	год	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	{"ud": "7"}	obl	_	_
+6	он	он	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	{"ud": "7"}	nsubj	_	_
+7	постоил	постоить	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+8	здесь	здесь	ADV	RB	Degree=Pos	{"ud": "7"}	advmod	_	_
+9	замок	замок	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	{"ud": "7"}	obj	_	_
+10	Ризенбург	Ризенбург	PROPN	NNP	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	{"ud": "9"}	appos	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	{"ud": "7"}	punct	_	_
+
+!# {"sid": 456, "sid_uuid": "552110d49f99b7b702788eda8f190574b66f5a753d2de7760d4c4639094cec13", "raw_text": "\u0412 1954 -- 1960 \u0433\u043e\u0434\u0430\u0445 -- \u043a\u043e\u043b\u0445\u043e\u0437\u043d\u0438\u043a , \u0440\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u043e\u0432\u0445\u043e\u0437\u0430 ."}
+1	В	в	ADP	IN	_	{"ud": "5"}	case	_	_
+2	1954	1954	ADJ	ORD	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "5"}	amod	_	_
+3	--	--	PUNCT	--	_	{"ud": "4"}	punct	_	_
+4	1960	1960	ADJ	ORD	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "2"}	nmod	_	_
+5	годах	год	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	{"ud": "7"}	nmod	_	_
+6	--	--	PUNCT	--	_	{"ud": "7"}	punct	_	_
+7	колхозник	колхозник	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	{"ud": "0"}	root	_	SpaceAfter=No
+8	,	,	PUNCT	,	_	{"ud": "9"}	punct	_	_
+9	рабочий	рабочий	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	{"ud": "7"}	conj	_	_
+10	совхоза	совхоз	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "9"}	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	{"ud": "7"}	punct	_	_
+
+!# {"sid": 461, "sid_uuid": "01c6c6c605d7be19bb56a16fd5e29d694df866b8b0a011a046527bb7385ddb4c", "raw_text": "\u041f\u0438\u0441\u0430\u0440\u0435\u0432\u043a\u0430 \u043e\u0441\u043d\u043e\u0432\u0430\u043d\u0430 \u043f\u0438\u0441\u0430\u0440\u0435\u043c \u041e\u0441\u0442\u0440\u043e\u0433\u043e\u0436\u0441\u043a\u043e\u0433\u043e \u043f\u043e\u043b\u043a\u0430 \u0422\u0430\u0442\u0430\u0440\u0447\u0443\u043a\u043e\u0432\u044b\u043c \u0432 1749 \u0433\u043e\u0434\u0443 ."}
+1	Писаревка	Писаревка	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	{"ud": "2"}	nsubj:pass	_	_
+2	основана	основать	VERB	VBNH	Animacy=Inan|Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	{"ud": "0"}	root	_	_
+3	писарем	писарь	NOUN	NN	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	{"ud": "2"}	obl:agent	_	_
+4	Острогожского	острогожский	ADJ	JJL	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "5"}	amod	_	_
+5	полка	полк	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "3"}	nmod	_	_
+6	Татарчуковым	Татарчуков	PROPN	NNP	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	{"ud": "3"}	appos	_	_
+7	в	в	ADP	IN	_	{"ud": "9"}	case	_	_
+8	1749	1749	ADJ	ORD	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "9"}	amod	_	_
+9	году	год	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	{"ud": "2"}	obl	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	{"ud": "2"}	punct	_	_
+
+!# {"sid": 468, "sid_uuid": "c1d6a2548d4220e583049ebb68a09c261c8cdf4804c5bc0eaa2483e5923f8bf7", "raw_text": "\u0420\u043e\u0434\u043e\u043f\u044b ( ) -- \u043f\u043e\u0437\u0434\u043d\u0435\u0440\u0438\u043c\u0441\u043a\u0430\u044f \u0438 \u0432\u0438\u0437\u0430\u043d\u0442\u0438\u0439\u0441\u043a\u0430\u044f \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f ."}
+1	Родопы	Родопы	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	{"ud": "8"}	nsubj	_	_
+2	(	(	PUNCT	(	_	{"ud": "1"}	punct	_	SpaceAfter=No
+3	)	)	PUNCT	)	_	{"ud": "1"}	punct	_	_
+4	--	--	PUNCT	--	_	{"ud": "8"}	punct	_	_
+5	позднеримская	позднеримский	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	{"ud": "8"}	amod	_	_
+6	и	и	CCONJ	CC	_	{"ud": "7"}	cc	_	_
+7	византийская	византийский	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	{"ud": "5"}	conj	_	_
+8	провинция	провинция	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	{"ud": "0"}	root	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	{"ud": "8"}	punct	_	_
+
+!# {"sid": 472, "sid_uuid": "cffe0a070ea612715b4b23d0de4aa8a03d35aa65f9244883d7fea1ea13e64088", "raw_text": "\u0412 2009 \u0433\u043e\u0434\u0443 \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u043f\u0440\u043e\u0436\u0438\u0432\u0430\u043b\u043e 92050 \u0436\u0438\u0442\u0435\u043b\u0435\u0439 ."}
+1	В	в	ADP	IN	_	{"ud": "3"}	case	_	_
+2	2009	2009	ADJ	ORD	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "3"}	amod	_	_
+3	году	год	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	{"ud": "6"}	obl	_	_
+4	в	в	ADP	IN	_	{"ud": "5"}	case	_	_
+5	городе	город	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	{"ud": "6"}	obl	_	_
+6	проживало	проживать	VERB	VBC	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+7	92050	92050	NUM	CD	Case=Nom|NumType=Card	{"ud": "8"}	nummod:gov	_	_
+8	жителей	житель	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	{"ud": "6"}	obl	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	{"ud": "6"}	punct	_	_
+
+!# {"sid": 475, "sid_uuid": "dc56dd3437d4bd872b361452894d15a6c04f9da2681a1c45f9d9ccd86ee0519b", "raw_text": "\u0421\u043e\u0433\u043b\u0430\u0448\u0435\u043d\u0438\u0435 \u043d\u0435 \u0432\u0441\u0442\u0443\u043f\u0438\u043b\u043e \u0432 \u0441\u0438\u043b\u0443 ."}
+1	Соглашение	соглашение	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	{"ud": "3"}	nsubj	_	_
+2	не	не	PART	NEG	Polarity=Neg	{"ud": "3"}	advmod	_	_
+3	вступило	вступить	VERB	VBC	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+4	в	в	ADP	IN	_	{"ud": "5"}	case	_	_
+5	силу	сила	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	{"ud": "3"}	obl	_	SpaceAfter=No
+6	.	.	PUNCT	.	_	{"ud": "3"}	punct	_	_
+
+!# {"sid": 477, "sid_uuid": "71a2a94d49af4e934d456390e1671ff4fae08172d1b6e9a92809cf106cbbdaf9", "raw_text": "\u041f\u0440\u0430\u0432\u044b\u0439 \u0444\u043b\u0430\u043d\u0433 \u0431\u044b\u043b \u0442\u0430\u043a\u0436\u0435 \u0443\u044f\u0437\u0432\u0438\u043c ."}
+1	Правый	правый	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "2"}	amod	_	_
+2	фланг	фланг	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "5"}	nsubj	_	_
+3	был	быть	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	{"ud": "5"}	cop	_	_
+4	также	также	PART	IN	_	{"ud": "5"}	advmod	_	_
+5	уязвим	уязвимый	ADJ	JJH	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	{"ud": "0"}	root	_	SpaceAfter=No
+6	.	.	PUNCT	.	_	{"ud": "5"}	punct	_	_
+
+!# {"sid": 479, "sid_uuid": "7e8ef5a6b341d6b6bc4ea80ab8a1e4fc6c12318beea33b83d113fb37a6cac490", "raw_text": "\u0412\u0445\u043e\u0434\u0438\u0442 \u0432 \u0441\u043e\u0441\u0442\u0430\u0432 \u043e\u043a\u0440\u0443\u0433\u0430 \u0410\u043b\u044c\u0431\u0443\u043b\u0430 ."}
+1	Входит	входить	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+2	в	в	ADP	IN	_	{"ud": "3"}	case	_	_
+3	состав	состав	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	{"ud": "1"}	obl	_	_
+4	округа	округ	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "3"}	nmod	_	_
+5	Альбула	Альбула	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "4"}	appos	_	SpaceAfter=No
+6	.	.	PUNCT	.	_	{"ud": "1"}	punct	_	_
+
+!# {"sid": 481, "sid_uuid": "75ed6d3fbd3cb7b0366ab3669a3a0a4342d52ad626a906637e0446cd5dc1b00e", "raw_text": "\u0424\u0438\u043b\u044c\u043c\u044b \u043d\u0430 \u043a\u0430\u043d\u0430\u043b\u0435 KkcTebou TV Channel \u0432\u044b\u0434\u0435\u043b\u044f\u044e\u0442 5 \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0439 :"}
+1	Фильмы	фильм	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	{"ud": "7"}	nsubj	_	_
+2	на	на	ADP	IN	_	{"ud": "3"}	case	_	_
+3	канале	канал	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	{"ud": "1"}	nmod	_	_
+4	KkcTebou	Kkctebou	X	FW	Foreign=Yes	{"ud": "3"}	appos	_	_
+5	TV	tv	X	FW	Foreign=Yes	{"ud": "4"}	flat:foreign	_	_
+6	Channel	channel	X	FW	Foreign=Yes	{"ud": "4"}	flat:foreign	_	_
+7	выделяют	выделять	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+8	5	5	NUM	CD	Case=Acc|NumType=Card	{"ud": "9"}	nummod:gov	_	_
+9	направлений	направление	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	{"ud": "7"}	obj	_	SpaceAfter=No
+10	:	:	PUNCT	:	_	{"ud": "7"}	punct	_	_
+
+!# {"sid": 485, "sid_uuid": "ee7893da24becb65d2e7bf0a9cbc4e865c020ae91bf05e6fc63d1eb39d2f0461", "raw_text": "HE0450 - 2958 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043d\u0435\u043e\u0431\u044b\u0447\u043d\u044b\u043c \u043a\u0432\u0430\u0437\u0430\u0440\u043e\u043c , \u0432\u043e\u043a\u0440\u0443\u0433 \u043a\u043e\u0442\u043e\u0440\u043e\u0433\u043e \u043d\u0435 \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0435\u043d\u0430 \u0433\u0430\u043b\u0430\u043a\u0442\u0438\u043a\u0430 ."}
+1	HE0450	HE0450	X	FW	Foreign=Yes	{"ud": "4"}	nsubj	_	SpaceAfter=No
+2	-	-	PUNCT	-	_	{"ud": "3"}	punct	_	SpaceAfter=No
+3	2958	2958	NUM	CD	_	{"ud": "1"}	nummod:entity	_	_
+4	является	являться	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	{"ud": "0"}	root	_	_
+5	необычным	необычный	ADJ	JJL	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "6"}	amod	_	_
+6	квазаром	квазар	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	{"ud": "4"}	xcomp	_	SpaceAfter=No
+7	,	,	PUNCT	,	_	{"ud": "11"}	punct	_	_
+8	вокруг	вокруг	ADP	IN	_	{"ud": "9"}	case	_	_
+9	которого	который	PRON	AWP	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "11"}	obl	_	_
+10	не	не	PART	NEG	Polarity=Neg	{"ud": "11"}	advmod	_	_
+11	обнаружена	обнаружить	VERB	VBNH	Animacy=Inan|Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	{"ud": "6"}	acl:relcl	_	_
+12	галактика	галактика	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	{"ud": "11"}	nsubj:pass	_	SpaceAfter=No
+13	.	.	PUNCT	.	_	{"ud": "4"}	punct	_	_
+
+!# {"sid": 489, "sid_uuid": "bc3c7249e0c5c95476bc836c548b4674ebe35aadb044cd824872e040a19586f1", "raw_text": "\u0447\u0442\u043e \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0443\u0435\u0442 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u043c\u0443 \u0440\u0430\u0437\u043d\u043e\u0441\u0442\u043d\u043e\u043c\u0443 \u0443\u0440\u0430\u0432\u043d\u0435\u043d\u0438\u044e"}
+1	что	что	PRON	WP	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	{"ud": "2"}	nsubj	_	_
+2	соответствует	соответствовать	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+3	следующему	следующий	ADJ	JJL	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	{"ud": "5"}	amod	_	_
+4	разностному	разностный	ADJ	JJL	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	{"ud": "5"}	amod	_	_
+5	уравнению	уравнение	NOUN	NN	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	{"ud": "2"}	iobj	_	_
+
+!# {"sid": 494, "sid_uuid": "826b151c056e8fad57aacd2512e26c2778310368eea591e172774d219d08e764", "raw_text": "\u0412 1994 \u0433\u043e\u0434\u0443 \u0431\u044b\u043b\u0438 \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d\u044b \u0440\u0430\u0441\u043a\u043e\u043f\u043a\u0438 \u0438 \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0435\u043d \u0444\u0443\u043d\u0434\u0430\u043c\u0435\u043d\u0442 \u0445\u0440\u0430\u043c\u0430 ."}
+1	В	в	ADP	IN	_	{"ud": "3"}	case	_	_
+2	1994	1994	ADJ	ORD	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "3"}	amod	_	_
+3	году	год	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	{"ud": "5"}	obl	_	_
+4	были	быть	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	{"ud": "5"}	aux:pass	_	_
+5	проведены	провести	VERB	VBNH	Animacy=Inan|Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	{"ud": "0"}	root	_	_
+6	раскопки	раскопка	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	{"ud": "5"}	nsubj:pass	_	_
+7	и	и	CCONJ	CC	_	{"ud": "8"}	cc	_	_
+8	обнаружен	обнаружить	VERB	VBNH	Animacy=Inan|Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	{"ud": "5"}	conj	_	_
+9	фундамент	фундамент	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "8"}	nsubj:pass	_	_
+10	храма	храм	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "9"}	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	{"ud": "5"}	punct	_	_
+
+!# {"sid": 495, "sid_uuid": "f53d2a92b87e0308e50d7655d6c0c53726099f27a614b411abb4e216e891ed51", "raw_text": "\u0410\u043b\u044c\u0444\u0440\u0435\u0434 \u0425\u0451\u0440\u0442\u043d\u0430\u0433\u043b\u044c ( ; \u0440\u043e\u0434\u0438\u043b\u0441\u044f ) -- \u0430\u0432\u0441\u0442\u0440\u0438\u0439\u0441\u043a\u0438\u0439 \u0444\u0443\u0442\u0431\u043e\u043b\u0438\u0441\u0442 , \u043f\u043e\u043b\u0443\u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a ."}
+1	Альфред	Альфред	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	{"ud": "9"}	nsubj	_	_
+2	Хёртнагль	Хертнагль	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	{"ud": "1"}	flat:name	_	_
+3	(	(	PUNCT	(	_	{"ud": "5"}	punct	_	SpaceAfter=No
+4	;	;	PUNCT	:	_	{"ud": "5"}	punct	_	_
+5	родился	родиться	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	{"ud": "1"}	parataxis	_	SpaceAfter=No
+6	)	)	PUNCT	)	_	{"ud": "5"}	punct	_	_
+7	--	--	PUNCT	--	_	{"ud": "9"}	punct	_	_
+8	австрийский	австрийский	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "9"}	amod	_	_
+9	футболист	футболист	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	{"ud": "0"}	root	_	SpaceAfter=No
+10	,	,	PUNCT	,	_	{"ud": "11"}	punct	_	_
+11	полузащитник	полузащитник	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	{"ud": "9"}	conj	_	SpaceAfter=No
+12	.	.	PUNCT	.	_	{"ud": "9"}	punct	_	_
+
+!# {"sid": 497, "sid_uuid": "2408256748395d4b906ca02991ba4be915cb368f3710226fa6bf4de0859e8557", "raw_text": "\u041d\u043e \u0437\u0430 \u0434\u043e\u0441\u0442\u043e\u0439\u043d\u044b\u0439 \u043f\u043e\u0435\u0434\u0438\u043d\u043e\u043a \u0437\u0430\u0441\u043b\u0443\u0436\u0438\u043b \u0441\u0438\u043c\u043f\u0430\u0442\u0438\u0438 \u0437\u0440\u0438\u0442\u0435\u043b\u0435\u0439 ."}
+1	Но	но	CCONJ	CC	_	{"ud": "5"}	cc	_	_
+2	за	за	ADP	IN	_	{"ud": "4"}	case	_	_
+3	достойный	достойный	ADJ	JJL	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "4"}	amod	_	_
+4	поединок	поединок	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	{"ud": "5"}	obl	_	_
+5	заслужил	заслужить	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+6	симпатии	симпатия	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	{"ud": "5"}	obj	_	_
+7	зрителей	зритель	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	{"ud": "6"}	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	{"ud": "5"}	punct	_	_
+
+!# {"sid": 499, "sid_uuid": "bd9b5fcc8ef50762057020c4b51c5a32a4260c1dc256874d411f9ad7d059f640", "raw_text": "\u0412 XI -- XII \u0432\u0435\u043a\u0430\u0445 \u044f\u0432\u043b\u044f\u043b\u0430\u0441\u044c \u043d\u0430\u0438\u0431\u043e\u043b\u0435\u0435 \u0441\u0438\u043b\u044c\u043d\u043e\u0439 \u043a\u0443\u0440\u0434\u0441\u043a\u043e\u0439 \u0434\u0438\u043d\u0430\u0441\u0442\u0438\u0435\u0439 \u0417\u0430\u043a\u0430\u0432\u043a\u0430\u0437\u044c\u044f ."}
+1	В	в	ADP	IN	_	{"ud": "5"}	case	_	_
+2	XI	XI	ADJ	ORD	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "5"}	amod	_	_
+3	--	--	PUNCT	--	_	{"ud": "4"}	punct	_	_
+4	XII	XII	ADJ	ORD	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "2"}	nmod	_	_
+5	веках	век	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	{"ud": "6"}	obl	_	_
+6	являлась	являться	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	{"ud": "0"}	root	_	_
+7	наиболее	наиболее	ADV	RBS	Degree=Sup	{"ud": "8"}	advmod	_	_
+8	сильной	сильный	ADJ	JJL	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	{"ud": "10"}	amod	_	_
+9	курдской	курдский	ADJ	JJL	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	{"ud": "10"}	amod	_	_
+10	династией	династия	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	{"ud": "6"}	xcomp	_	_
+11	Закавказья	Закавказье	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	{"ud": "10"}	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	.	_	{"ud": "6"}	punct	_	_
+
+!# {"sid": 506, "sid_uuid": "44ce69c1f3ed298bb754a00b09b2389809de791c8c0d405b48d7c0ac72b6cd97", "raw_text": "\u0415\u0441\u0442\u044c \u0434\u0432\u0430 \u0434\u0440\u0443\u0433\u0438\u0445 \u0436\u0435\u0441\u0442\u043e\u0432\u044b\u0445 \u044f\u0437\u044b\u043a\u0430 \u0432 \u041c\u0430\u043b\u0438 ."}
+1	Есть	быть	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+2	два	два	NUM	CD	Animacy=Inan|Case=Nom|Gender=Masc|NumType=Card	{"ud": "5"}	nummod:gov	_	_
+3	других	другой	ADJ	JJL	Case=Gen|Degree=Pos|Number=Plur	{"ud": "5"}	amod	_	_
+4	жестовых	жестовый	ADJ	JJL	Case=Gen|Degree=Pos|Number=Plur	{"ud": "5"}	amod	_	_
+5	языка	язык	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "1"}	nsubj	_	_
+6	в	в	ADP	IN	_	{"ud": "7"}	case	_	_
+7	Мали	Мали	PROPN	NNP	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	{"ud": "1"}	obl	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	{"ud": "1"}	punct	_	_
+
+!# {"sid": 507, "sid_uuid": "8208029fd9a0597ca65d8b49edde19e45491523cfd573c2f39eea316d1cb6543", "raw_text": "\u0412\u0438\u043a\u0442\u043e\u0440 \u0428\u043e\u0443\u043f \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u0441\u043a\u043e\u0439 \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 IBM \u0432 \u0426\u044e\u0440\u0438\u0445\u0435 , \u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u044f ."}
+1	Виктор	Виктор	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	{"ud": "3"}	nsubj	_	_
+2	Шоуп	Шоуп	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	{"ud": "1"}	flat:name	_	_
+3	работает	работать	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+4	в	в	ADP	IN	_	{"ud": "6"}	case	_	_
+5	исследовательской	исследовательский	ADJ	JJL	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	{"ud": "6"}	amod	_	_
+6	лаборатории	лаборатория	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	{"ud": "3"}	obl	_	_
+7	IBM	IBM	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	{"ud": "6"}	nmod	_	_
+8	в	в	ADP	IN	_	{"ud": "9"}	case	_	_
+9	Цюрихе	Цюрих	PROPN	NNP	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	{"ud": "6"}	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	,	_	{"ud": "9"}	punct	_	_
+11	Швейцария	Швейцария	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	{"ud": "9"}	appos	_	SpaceAfter=No
+12	.	.	PUNCT	.	_	{"ud": "3"}	punct	_	_
+
+!# {"sid": 510, "sid_uuid": "35b055974bc063ff707c86ba875b6ebee864c9f21a6f1e146ca1e883ec00c307", "raw_text": "\u0424\u0438\u043d\u0430\u043d\u0441\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0447\u0430\u0441\u0442\u0438\u0447\u043d\u043e \u043f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u043c\u0438 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u044f\u043c\u0438 \u0413\u0435\u0440\u043c\u0430\u043d\u0438\u0438 , \u0447\u0430\u0441\u0442\u0438\u0447\u043d\u043e \u043a\u0440\u0443\u043f\u043d\u044b\u043c\u0438 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f\u043c\u0438 ."}
+1	Финансируется	финансироваться	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	{"ud": "0"}	root	_	_
+2	частично	частично	ADV	RB	Degree=Pos	{"ud": "4"}	advmod	_	_
+3	правительственными	правительственный	ADJ	JJL	Case=Ins|Degree=Pos|Number=Plur	{"ud": "4"}	amod	_	_
+4	организациями	организация	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	{"ud": "1"}	obl:agent	_	_
+5	Германии	Германия	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	{"ud": "4"}	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	,	_	{"ud": "9"}	punct	_	_
+7	частично	частично	ADV	RB	Degree=Pos	{"ud": "9"}	advmod	_	_
+8	крупными	крупный	ADJ	JJL	Case=Ins|Degree=Pos|Number=Plur	{"ud": "9"}	amod	_	_
+9	компаниями	компания	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	{"ud": "4"}	conj	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	{"ud": "1"}	punct	_	_
+
+!# {"sid": 512, "sid_uuid": "07d4ffe9fd3861968183fa52bd40d285bceb79bbd124f6be2d8f685da2205ee0", "raw_text": "\u0412 \u043f\u043e\u0441\u0442\u043e\u044f\u043d\u043d\u043e\u0439 \u043f\u0430\u043c\u044f\u0442\u0438 \u0438\u0433\u0440\u0435 \u0442\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044f \u0432\u0441\u0435\u0433\u043e 80 \u041a\u0411 \u0441\u0432\u043e\u0431\u043e\u0434\u043d\u043e\u0433\u043e \u043c\u0435\u0441\u0442\u0430 ."}
+1	В	в	ADP	IN	_	{"ud": "3"}	case	_	_
+2	постоянной	постоянный	ADJ	JJL	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	{"ud": "3"}	amod	_	_
+3	памяти	память	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	{"ud": "5"}	obl	_	_
+4	игре	игра	NOUN	NN	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	{"ud": "5"}	iobj	_	_
+5	требуется	требоваться	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	{"ud": "0"}	root	_	_
+6	всего	всего	ADV	RB	Degree=Pos	{"ud": "7"}	advmod	_	_
+7	80	80	NUM	CD	Case=Nom|NumType=Card	{"ud": "8"}	nummod:gov	_	_
+8	КБ	кб	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	{"ud": "5"}	obl	_	_
+9	свободного	свободный	ADJ	JJL	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	{"ud": "10"}	amod	_	_
+10	места	место	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	{"ud": "8"}	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	{"ud": "5"}	punct	_	_
+
+!# {"sid": 514, "sid_uuid": "0fb56be03f3d87ca6dc105830252e6b287732a7d0e80d43161a72ec402035e76", "raw_text": "\u041d\u0430\u0432\u043e\u0437 \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0442\u044c \u043d\u0435 \u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0443\u0435\u0442\u0441\u044f ."}
+1	Навоз	навоз	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	{"ud": "2"}	obj	_	_
+2	применять	применять	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	{"ud": "4"}	xcomp	_	_
+3	не	не	PART	NEG	Polarity=Neg	{"ud": "4"}	advmod	_	_
+4	рекомендуется	рекомендоваться	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	{"ud": "0"}	root	_	SpaceAfter=No
+5	.	.	PUNCT	.	_	{"ud": "4"}	punct	_	_
+
+!# {"sid": 517, "sid_uuid": "bb69a31913957940f90275ec76fa9da30af62e5422b73e511830e75ce153cdb9", "raw_text": "\u041a\u043e\u043c\u043f\u043e\u0437\u0438\u0446\u0438\u044f \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u0442 \u043e \u0441\u0435\u0440\u0438\u0439\u043d\u043e\u043c \u0443\u0431\u0438\u0439\u0446\u0435 \u0410\u043d\u0434\u0440\u0435\u0435 \u0427\u0438\u043a\u0430\u0442\u0438\u043b\u043e ."}
+1	Композиция	композиция	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	{"ud": "2"}	nsubj	_	_
+2	рассказывает	рассказывать	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+3	о	о	ADP	IN	_	{"ud": "5"}	case	_	_
+4	серийном	серийный	ADJ	JJL	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "5"}	amod	_	_
+5	убийце	убийца	NOUN	NN	Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing	{"ud": "2"}	obl	_	_
+6	Андрее	Андрей	PROPN	NNP	Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing	{"ud": "5"}	appos	_	_
+7	Чикатило	Чикатило	PROPN	NNP	Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing	{"ud": "6"}	flat:name	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	{"ud": "2"}	punct	_	_
+
+!# {"sid": 523, "sid_uuid": "aeae16ea1502833af65afc3e3cb60d3bc1b381e77808f984ec0c5be7ecee32ba", "raw_text": "\u041f\u043e \u043e\u043a\u043e\u043d\u0447\u0430\u043d\u0438\u0438 \u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u043e\u0439 \u0432\u043e\u0439\u043d\u044b \u0432\u043e\u0437\u0432\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u0432 \u0421\u0438\u043c\u0444\u0435\u0440\u043e\u043f\u043e\u043b\u044c ."}
+1	По	по	ADP	IN	_	{"ud": "2"}	case	_	_
+2	окончании	окончание	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	{"ud": "5"}	obl	_	_
+3	Гражданской	гражданский	ADJ	JJL	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	{"ud": "4"}	amod	_	_
+4	войны	война	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	{"ud": "2"}	nmod	_	_
+5	возвращается	возвращаться	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	{"ud": "0"}	root	_	_
+6	в	в	ADP	IN	_	{"ud": "7"}	case	_	_
+7	Симферополь	Симферополь	PROPN	NNP	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	{"ud": "5"}	obl	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	{"ud": "5"}	punct	_	_
+
+!# {"sid": 527, "sid_uuid": "4dd19bf019719cff10226d96695789092dc14fb645d013e5818056266786700e", "raw_text": "\u0414\u043e\u0433\u043e\u0432\u043e\u0440\u043e\u043c \u043c\u0435\u043d\u044b ( \u043e\u0431\u043c\u0435\u043d\u0430 ) \u0447\u0430\u0449\u0435 \u043d\u0430\u0437\u044b\u0432\u0430\u044e\u0442 \u0434\u043e\u0433\u043e\u0432\u043e\u0440 \u043c\u0435\u0436\u0434\u0443 \u0447\u0430\u0441\u0442\u043d\u044b\u043c\u0438 \u043b\u0438\u0446\u0430\u043c\u0438 ."}
+1	Договором	договор	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	{"ud": "7"}	xcomp	_	_
+2	мены	мена	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	{"ud": "1"}	nmod	_	_
+3	(	(	PUNCT	(	_	{"ud": "4"}	punct	_	SpaceAfter=No
+4	обмена	обмен	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "2"}	appos	_	SpaceAfter=No
+5	)	)	PUNCT	)	_	{"ud": "4"}	punct	_	_
+6	чаще	часто	ADV	RBR	Degree=Cmp	{"ud": "7"}	advmod	_	_
+7	называют	называть	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+8	договор	договор	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	{"ud": "7"}	obj	_	_
+9	между	между	ADP	IN	_	{"ud": "11"}	case	_	_
+10	частными	частный	ADJ	JJL	Case=Ins|Degree=Pos|Number=Plur	{"ud": "11"}	amod	_	_
+11	лицами	лицо	NOUN	NN	Animacy=Anim|Case=Ins|Gender=Neut|Number=Plur	{"ud": "8"}	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	.	_	{"ud": "7"}	punct	_	_
+
+!# {"sid": 529, "sid_uuid": "7aaddc6fe32b5f213ff9429b07799355745c38cb3244e8424638660ebd711a76", "raw_text": "\u041f\u043b\u043e\u0434 -- \u0442\u0440\u0435\u0445\u0441\u0442\u0432\u043e\u0440\u0447\u0430\u0442\u0430\u044f \u043a\u043e\u0440\u043e\u0431\u043e\u0447\u043a\u0430 ."}
+1	Плод	плод	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "4"}	nsubj	_	_
+2	--	--	PUNCT	--	_	{"ud": "4"}	punct	_	_
+3	трехстворчатая	трехстворчатый	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	{"ud": "4"}	amod	_	_
+4	коробочка	коробочка	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	{"ud": "0"}	root	_	SpaceAfter=No
+5	.	.	PUNCT	.	_	{"ud": "4"}	punct	_	_
+
+!# {"sid": 539, "sid_uuid": "9b58788845801efffc021c2ec1568281a0e4fec0cfc3dc8bbdba46b8e92a4873", "raw_text": "\u0421\u0440\u0435\u0434\u0438 \u044d\u0442\u0438\u0445 \u0443\u0437\u043d\u0438\u043a\u043e\u0432 \u043d\u0430\u0445\u043e\u0434\u0438\u043b\u0441\u044f \u0438 \u043a\u0430\u0442\u043e\u043b\u0438\u043a\u043e\u0441 \u0410\u043b\u0431\u0430\u043d\u0438\u0438 \u0412\u0438\u0440\u043e ."}
+1	Среди	среди	ADP	IN	_	{"ud": "3"}	case	_	_
+2	этих	этот	DET	DT	Case=Gen|Number=Plur	{"ud": "3"}	det	_	_
+3	узников	узник	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	{"ud": "4"}	obl	_	_
+4	находился	находиться	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	{"ud": "0"}	root	_	_
+5	и	и	PART	UH	_	{"ud": "6"}	advmod	_	_
+6	католикос	католикос	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	{"ud": "4"}	nsubj	_	_
+7	Албании	Албания	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	{"ud": "6"}	nmod	_	_
+8	Виро	Виро	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	{"ud": "6"}	appos	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	{"ud": "4"}	punct	_	_
+
+!# {"sid": 542, "sid_uuid": "87e6c15c3cf8a0f3b116fe9b428dabb4020f5ed141d5ef68ecf4c5382222a8b1", "raw_text": "\u041f\u043e\u0434\u0447\u0438\u043d\u044f\u0435\u0442\u0441\u044f \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u043e\u043c\u0443 \u043e\u043a\u0440\u0443\u0433\u0443 \u041d\u0438\u0436\u043d\u044f\u044f \u0411\u0430\u0432\u0430\u0440\u0438\u044f ."}
+1	Подчиняется	подчиняться	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	{"ud": "0"}	root	_	_
+2	административному	административный	ADJ	JJL	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "3"}	amod	_	_
+3	округу	округ	NOUN	NN	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	{"ud": "1"}	iobj	_	_
+4	Нижняя	нижний	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	{"ud": "5"}	amod	_	_
+5	Бавария	Бавария	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	{"ud": "3"}	appos	_	SpaceAfter=No
+6	.	.	PUNCT	.	_	{"ud": "1"}	punct	_	_
+
+!# {"sid": 543, "sid_uuid": "6206b1e9d54c2ad995b6924782aa9106a5e0c0c95f58f2c18649de2024aea3e0", "raw_text": "\u0412 \u0447\u0430\u0441\u0442\u043d\u043e\u0441\u0442\u0438 , \u0441\u043f\u0430\u0440\u0442\u0430\u043d\u0435\u0446 \u0421\u043e\u0441\u0438\u043b \u043e\u0431\u0443\u0447\u0430\u043b \u0435\u0433\u043e \u0433\u0440\u0435\u0447\u0435\u0441\u043a\u043e\u043c\u0443 \u044f\u0437\u044b\u043a\u0443 ."}
+1	В	в	ADP	IN	_	{"ud": "2"}	case	_	_
+2	частности	частность	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	{"ud": "6"}	obl	_	SpaceAfter=No
+3	,	,	PUNCT	,	_	{"ud": "2"}	punct	_	_
+4	спартанец	спартанец	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	{"ud": "6"}	nsubj	_	_
+5	Сосил	Сосил	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	{"ud": "4"}	appos	_	_
+6	обучал	обучать	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+7	его	он	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3	{"ud": "6"}	obj	_	_
+8	греческому	греческий	ADJ	JJL	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "9"}	amod	_	_
+9	языку	язык	NOUN	NN	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	{"ud": "6"}	iobj	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	{"ud": "6"}	punct	_	_
+
+!# {"sid": 549, "sid_uuid": "ffc4abe1308519c7c0f4e0da7fa9df4d0fcb05b49c9efe5279c1f6f5cbc3e458", "raw_text": "\u0421\u0443\u0432\u043e\u0440\u0438\u043d\u044b\u043c , \u0433\u0430\u0437\u0435\u0442\u0430 \u043a\u043e\u0442\u043e\u0440\u043e\u0433\u043e `` \u041d\u043e\u0432\u043e\u0435 \u0432\u0440\u0435\u043c\u044f &#39;&#39; , \u0437\u0430\u043d\u044f\u043b\u0430 \u044f\u0432\u043d\u043e \u0430\u043d\u0442\u0438\u0434\u0440\u0435\u0439\u0444\u0443\u0441\u0430\u0440\u0441\u043a\u0443\u044e \u043f\u043e\u0437\u0438\u0446\u0438\u044e ."}
+1	Сувориным	Суворин	PROPN	NNP	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	{"ud": "0"}	root	_	SpaceAfter=No
+2	,	,	PUNCT	,	_	{"ud": "1"}	punct	_	_
+3	газета	газета	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	{"ud": "10"}	nsubj	_	_
+4	которого	который	PRON	AWP	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	{"ud": "3"}	nmod	_	_
+5	``	``	PUNCT	``	_	{"ud": "7"}	punct	_	SpaceAfter=No
+6	Новое	новый	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	{"ud": "7"}	amod	_	_
+7	время	время	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	{"ud": "3"}	appos	_	SpaceAfter=No
+8	&#39;&#39;	&#39;&#39;	PUNCT	&#39;&#39;	_	{"ud": "7"}	punct	_	SpaceAfter=No
+9	,	,	PUNCT	,	_	{"ud": "7"}	punct	_	_
+10	заняла	занять	VERB	VBC	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	{"ud": "1"}	acl:relcl	_	_
+11	явно	явно	ADV	RB	Degree=Pos	{"ud": "12"}	advmod	_	_
+12	антидрейфусарскую	антидрейфусарский	ADJ	JJL	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	{"ud": "13"}	amod	_	_
+13	позицию	позиция	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	{"ud": "10"}	obj	_	SpaceAfter=No
+14	.	.	PUNCT	.	_	{"ud": "10"}	punct	_	_
+
+!# {"sid": 553, "sid_uuid": "d9c6962f2629858b4b794250951e371f0718cc435098d100828b9b48ef1e52aa", "raw_text": "\u0412 \u0433\u043e\u0440\u043e\u0434\u0435 \u0431\u044b\u043b \u042e\u0440\u0438\u0439 \u0413\u0430\u0433\u0430\u0440\u0438\u043d ."}
+1	В	в	ADP	IN	_	{"ud": "2"}	case	_	_
+2	городе	город	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	{"ud": "3"}	obl	_	_
+3	был	быть	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+4	Юрий	Юрий	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	{"ud": "3"}	nsubj	_	_
+5	Гагарин	Гагарин	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	{"ud": "4"}	flat:name	_	SpaceAfter=No
+6	.	.	PUNCT	.	_	{"ud": "3"}	punct	_	_
+
+!# {"sid": 558, "sid_uuid": "50443b9deeb1189a544419bcd2241e024ae38adcc3a7cdbd35ae598ee4464e9c", "raw_text": "\u0417\u0434\u0430\u043d\u0438\u0435 \u0440\u0430\u0441\u043f\u0438\u0441\u0430\u043d\u043e \u0441\u0446\u0435\u043d\u0430\u043c\u0438 \u0438\u0441\u0442\u043e\u0440\u0438\u0438 \u043f\u0430\u0434\u0435\u043d\u0438\u044f \u0430\u043d\u0433\u0435\u043b\u043e\u0432 \u0438 \u0432\u043e\u0439\u043d\u044b \u0432 \u043d\u0435\u0431\u0435\u0441\u0430\u0445 ."}
+1	Здание	здание	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	{"ud": "2"}	nsubj:pass	_	_
+2	расписано	расписать	VERB	VBNH	Animacy=Inan|Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	{"ud": "0"}	root	_	_
+3	сценами	сцена	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	{"ud": "2"}	iobj	_	_
+4	истории	история	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	{"ud": "3"}	nmod	_	_
+5	падения	падение	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	{"ud": "4"}	nmod	_	_
+6	ангелов	ангел	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	{"ud": "5"}	nmod	_	_
+7	и	и	CCONJ	CC	_	{"ud": "8"}	cc	_	_
+8	войны	война	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	{"ud": "5"}	conj	_	_
+9	в	в	ADP	IN	_	{"ud": "10"}	case	_	_
+10	небесах	небо	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	{"ud": "8"}	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	{"ud": "2"}	punct	_	_
+
+!# {"sid": 562, "sid_uuid": "709613466b7e6ab35a3a2d6db184b450d651e6ff57138afe5240d6a2bd204cab", "raw_text": "\u041a\u043e\u0441\u0442\u043e\u043c\u0430\u0440\u043e\u0432\u0435 \u043f\u043e\u044f\u0432\u0438\u043b\u0430\u0441\u044c 16 \u043c\u0430\u044f \u0442\u043e\u0433\u043e \u0436\u0435 \u0433\u043e\u0434\u0430 ."}
+1	Костомарове	Костомаров	PROPN	NNP	Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing	{"ud": "2"}	obl	_	_
+2	появилась	появиться	VERB	VBC	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	{"ud": "0"}	root	_	_
+3	16	16	ADJ	ORD	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	{"ud": "2"}	obl	_	_
+4	мая	май	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "3"}	flat	_	_
+5	того	тот	DET	DT	Case=Gen|Gender=Masc|Number=Sing	{"ud": "7"}	det	_	_
+6	же	же	PART	UH	_	{"ud": "5"}	advmod	_	_
+7	года	год	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "4"}	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	{"ud": "2"}	punct	_	_
+
+!# {"sid": 563, "sid_uuid": "2bd3e0a6f70fead33d7dfd547936d0a4b6cdc2e499074f3b8da8061bc4fc3911", "raw_text": "\u0420\u0430\u0431\u043e\u0442\u0430\u043b \u043d\u0430\u0434 \u0432\u043e\u043f\u0440\u043e\u0441\u0430\u043c\u0438 \u0433\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u0438\u0445 \u043f\u0440\u0430\u0432 \u043f\u0440\u0438 \u043f\u0440\u0435\u0437\u0438\u0434\u0435\u043d\u0442\u0430\u0445 \u041a\u0435\u043d\u043d\u0435\u0434\u0438 \u0438 \u0414\u0436\u043e\u043d\u0441\u043e\u043d\u0435 ."}
+1	Работал	работать	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+2	над	над	ADP	IN	_	{"ud": "3"}	case	_	_
+3	вопросами	вопрос	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	{"ud": "1"}	obl	_	_
+4	гражданских	гражданский	ADJ	JJL	Case=Gen|Degree=Pos|Number=Plur	{"ud": "5"}	amod	_	_
+5	прав	право	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	{"ud": "3"}	nmod	_	_
+6	при	при	ADP	IN	_	{"ud": "7"}	case	_	_
+7	президентах	президент	NOUN	NN	Animacy=Anim|Case=Loc|Gender=Masc|Number=Plur	{"ud": "1"}	obl	_	_
+8	Кеннеди	Кеннеди	PROPN	NNP	Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing	{"ud": "7"}	appos	_	_
+9	и	и	CCONJ	CC	_	{"ud": "10"}	cc	_	_
+10	Джонсоне	Джонсон	PROPN	NNP	Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing	{"ud": "8"}	conj	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	{"ud": "1"}	punct	_	_
+
+!# {"sid": 564, "sid_uuid": "f35f542be1f32d105d4fae7d93422eb3a597e906ddf845ff91293b46d595d91a", "raw_text": "\u0421 1990 \u0433\u043e\u0434\u0430 -- \u043d\u0430 \u043f\u0435\u043d\u0441\u0438\u0438 ."}
+1	С	с	ADP	IN	_	{"ud": "3"}	case	_	_
+2	1990	1990	ADJ	ORD	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "3"}	amod	_	_
+3	года	год	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "6"}	nmod	_	_
+4	--	--	PUNCT	--	_	{"ud": "6"}	punct	_	_
+5	на	на	ADP	IN	_	{"ud": "6"}	case	_	_
+6	пенсии	пенсия	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	{"ud": "0"}	root	_	SpaceAfter=No
+7	.	.	PUNCT	.	_	{"ud": "6"}	punct	_	_
+
+!# {"sid": 565, "sid_uuid": "7bb95ebd391750ed4c2d168f2a54b0c0e3ae7c5cc79d296efdd0da70e0e2f286", "raw_text": "\u0416\u0438\u0432\u0451\u0442 \u0438 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0422\u0430\u0433\u0430\u043d\u0440\u043e\u0433\u0435 ."}
+1	Живёт	жить	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+2	и	и	CCONJ	CC	_	{"ud": "3"}	cc	_	_
+3	работает	работать	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	{"ud": "1"}	conj	_	_
+4	в	в	ADP	IN	_	{"ud": "5"}	case	_	_
+5	Таганроге	Таганрог	PROPN	NNP	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	{"ud": "1"}	obl	_	SpaceAfter=No
+6	.	.	PUNCT	.	_	{"ud": "1"}	punct	_	_
+
+!# {"sid": 567, "sid_uuid": "b4324cf746c7540900840c53d86089d90f9ddf8a49b020d9cdfde1163154fa81", "raw_text": "\u0414\u043e\u043c\u0430\u0448\u043d\u0438\u0439 \u0441\u0442\u0430\u0434\u0438\u043e\u043d \u043a\u043e\u043c\u0430\u043d\u0434\u044b -- `` \u0411\u043e\u043d\u0438\u0444\u0438\u043a\u0430 &#39;&#39; ."}
+1	Домашний	домашний	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	{"ud": "2"}	amod	_	_
+2	стадион	стадион	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	{"ud": "6"}	nsubj	_	_
+3	команды	команда	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	{"ud": "2"}	nmod	_	_
+4	--	--	PUNCT	--	_	{"ud": "6"}	punct	_	_
+5	``	``	PUNCT	``	_	{"ud": "6"}	punct	_	SpaceAfter=No
+6	Бонифика	Бонифика	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	{"ud": "0"}	root	_	SpaceAfter=No
+7	&#39;&#39;	&#39;&#39;	PUNCT	&#39;&#39;	_	{"ud": "6"}	punct	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	{"ud": "6"}	punct	_	_
+
+!# {"sid": 568, "sid_uuid": "b46fc4d9c43314c485a18463b081bdc6f6781f5f9016fc0e41ea697ee1bd95fe", "raw_text": "\u041f\u043e\u0434\u0430\u0435\u0442\u0441\u044f \u0432 \u0441\u0442\u0435\u043a\u043b\u044f\u043d\u043d\u043e\u0439 \u043f\u043e\u0441\u0443\u0434\u0435 \u043e\u0431\u044a\u0435\u043c\u043e\u043c 150 -- 200 \u043c\u043b ."}
+1	Подается	подаваться	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	{"ud": "0"}	root	_	_
+2	в	в	ADP	IN	_	{"ud": "4"}	case	_	_
+3	стеклянной	стеклянный	ADJ	JJL	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	{"ud": "4"}	amod	_	_
+4	посуде	посуда	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	{"ud": "1"}	obl	_	_
+5	объемом	объем	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	{"ud": "4"}	nmod	_	_
+6	150	150	NUM	CD	Case=Nom|NumType=Card	{"ud": "9"}	nummod:gov	_	_
+7	--	--	PUNCT	--	_	{"ud": "8"}	punct	_	_
+8	200	200	NUM	CD	Case=Nom|NumType=Card	{"ud": "6"}	nmod	_	_
+9	мл	миллилитр	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	{"ud": "5"}	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	{"ud": "1"}	punct	_	_
+
+!# {"sid": 574, "sid_uuid": "266523c9474e574bb358e138f0695e908ada84a7b0b916bc5d4a30f5c660e184", "raw_text": "\u041d\u0430\u0447\u0438\u043d\u0430\u044f \u0441 \u043c\u043e\u043c\u0435\u043d\u0442\u0430 \u043e\u0442\u043a\u0440\u044b\u0442\u0438\u044f \u044d\u0442\u0438\u0445 \u043f\u0435\u0449\u0435\u0440 , \u0438\u0445 \u043f\u043e\u0441\u0442\u043e\u044f\u043d\u043d\u043e \u043f\u043e\u0441\u0435\u0449\u0430\u044e\u0442 \u0442\u0443\u0440\u0438\u0441\u0442\u044b ."}
+1	Начиная	начинать	VERB	VBG	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	{"ud": "10"}	advcl	_	_
+2	с	с	ADP	IN	_	{"ud": "3"}	case	_	_
+3	момента	момент	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	{"ud": "1"}	obl	_	_
+4	открытия	открытие	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	{"ud": "3"}	nmod	_	_
+5	этих	этот	DET	DT	Case=Gen|Number=Plur	{"ud": "6"}	det	_	_
+6	пещер	пещера	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	{"ud": "4"}	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	,	_	{"ud": "1"}	punct	_	_
+8	их	они	PRON	PRP	Case=Acc|Number=Plur|Person=3	{"ud": "10"}	obj	_	_
+9	постоянно	постоянно	ADV	RB	Degree=Pos	{"ud": "10"}	advmod	_	_
+10	посещают	посещать	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	{"ud": "0"}	root	_	_
+11	туристы	турист	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	{"ud": "10"}	nsubj	_	SpaceAfter=No
+12	.	.	PUNCT	.	_	{"ud": "10"}	punct	_	_
+
+!# {"sid": 576, "sid_uuid": "9d17622f2b67b65f10a587bc8d0f18b60cccaf414c6a54382bebb27658176b66", "raw_text": "\u041d\u0430 \u0440\u0430\u0441\u0441\u0442\u043e\u044f\u043d\u0438\u0438 \u0432 1 \u043a\u043c \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043e \u0441\u0435\u043b\u043e \u041f\u043e\u043f\u043e\u0432\u043a\u0430 ."}
+1	На	на	ADP	IN	_	{"ud": "2"}	case	_	_
+2	расстоянии	расстояние	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	{"ud": "6"}	obl	_	_
+3	в	в	ADP	IN	_	{"ud": "5"}	case	_	_
+4	1	1	NUM	CD	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|NumType=Card	{"ud": "5"}	nummod	_	_
+5	км	км	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	{"ud": "2"}	nmod	_	_
+6	расположено	расположить	VERB	VBNH	Animacy=Inan|Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	{"ud": "0"}	root	_	_
+7	село	село	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	{"ud": "6"}	nsubj:pass	_	_
+8	Поповка	Поповка	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	{"ud": "7"}	appos	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	{"ud": "6"}	punct	_	_
+
