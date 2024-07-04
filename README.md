@@ -9,11 +9,11 @@ The experiment pipeline consists of three stages
 ### Collecting condtional samples
 The below command is what we used to collect conditional samples for our multilingual experiment.
 ```
-python  src/full_mi/vinfo_CMI_MHsampling.v2.py  --model_str  bert-base-multilingual-cased  --clm_model_str  ./models/mGPT  --dev_data_file  ./vinfo_data/en_pud/en_pud_extv2-ud-test \
- --num_samples  64  --num_tries  16  --num_steps_between_samples  12  --num_burn_in_steps  384  --batch_size_tokens  256  --dir_hdf5  ./cache/opt-samples/bert-base-multilingual-cased.ai-forever_mGPT \
+python  src/full_mi/vinfo_CMI_MHsampling.v2.py  --model_str  bert-base-multilingual-cased  --clm_model_str  ./models/mGPT  --dev_data_file  data/en_pud/en_pud_extv2-ud-test.conllu \
+ --num_samples  64  --num_tries  2  --num_steps_between_samples  4  --num_burn_in_steps  12  --batch_size_tokens  256  --dir_hdf5  cache/opt-samples/bert-base-multilingual-cased.ai-forever_mGPT \
  --fn_hdf5  en_pud/en_pud_extv2-ud-test.conllu.tar.qt1.5_upos_fast.sample_64 --gpu_id  0  --flag_use_upos_mask  true  --target_toks  32784 \
- --q_temperature  1.5  --flag_allow_x_postag  true  --sample_max_seqlen  42  --use_fast_sampler  True  --flag_strip_accent  False  --fn_upos2word  corpus/ud_en_upos2word.json \
- --flag_use_bf16  False  --left_context_size  15  --right_context_size  15
+ --q_temperature  1.5  --flag_allow_x_postag  true  --sample_max_seqlen  42  --flag_strip_accent  False  --fn_upos2word  corpus/ud_en_upos2word.json \
+ --left_context_size  15  --right_context_size  15
 ```
 
 In this command, we run the MTMH sampler using
