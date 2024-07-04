@@ -18,22 +18,24 @@ python  src/full_mi/vinfo_CMI_MHsampling.v2.py  --model_str  bert-base-multiling
 
 In this command, we run the MTMH sampler using
 - `bert-base-multilingual-cased` model as proposal model. This model will be automatically downloaded from huggingface.
-- `mGPT` model as target model. This model is provided in [Google Drive](https://drive.google.com/file/d/1QfanZEWGCl1iLrva7Lk84DhgGVVEJElw/view?usp=sharing) due to an arbitrary change in mGPT's tokenizer setting.
+- `mGPT` model as target model. This model is provided in [Google Drive](https://drive.google.com/file/d/1QfanZEWGCl1iLrva7Lk84DhgGVVEJElw/view?usp=sharing) because changes in mGPT's tokenizer setting breaks the existing code that sets the pad token as `\<eos\>`.
 - `corpus/ud_en_upos2word.json` provides the Part-Of-Speech mask for modifying the model distribution.
 
 
-The output file will be stored in `./cache/opt-samples/bert-base-multilingual-cased.ai-forever_mGPT/en_pud/en_pud_extv2-ud-test.conllu.tar.qt1.5_upos_fast_long_context`
+The output file will be stored in `./cache/opt-samples/bert-base-multilingual-cased.ai-forever_mGPT/en_pud/en_pud_extv2-ud-test.conllu.qt1.5_upos_fast.sample_64`
 
 ### Estimating the CMI score 
 ```
 python src/full_mi/score_precompute.py \
---dev_sample_fn en_pud_extv2-ud-test.conllu.tar.qt1.5_upos_fast.samples_64  \
+--dev_sample_fn en_pud_extv2-ud-test.conllu.qt1.5_upos_fast.samples_64  \
 --dev_data_file ./vinfo_data/en_pud/en_pud_extv2-ud-test.conllu\
 --dev_sample_dir ./cache/opt-samples/bert-base-multilingual-cased.ai-forever_mGPT/en_pud \
 --energy_model clm --clm_model_str ./models/mGPT --batch_size 512 --flag_use_fast_sampler True
 ```
 
+The estimated score file will be stored in `./cache/opt-samples/bert-base-multilingual-cased.ai-forever_mGPT/en_pud/scores.en_pud_extv2-ud-test.conllu.qt1.5_upos_fast.sample_64`
 ### Decoding a dependency and compute parsing accuracy  
 ```
 python src/visualization/eval.py --dataset en_pud --section test-w10 --num_samples 128 --mode full; \
 ```
+This should give the unlabelled F1 score for `en_pud-test-w10` file.
