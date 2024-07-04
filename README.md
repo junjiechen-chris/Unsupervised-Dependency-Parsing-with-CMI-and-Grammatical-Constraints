@@ -24,6 +24,24 @@ In this command, we run the MTMH sampler using
 
 The output file will be stored in `./cache/opt-samples/bert-base-multilingual-cased.ai-forever_mGPT/en_pud/en_pud_extv2-ud-test.conllu.qt1.5_upos_fast.sample_64`
 
+#### Using multiple GPUs
+As stated in the limitation section, sampling is time consuming. Our code has a working mode that: 1. split the dataset into several subsections, 2. run the sampling process on each subsection, and 3. merge the samples.
+To use tis mode, the input should be packed in a tar file.
+```
+python  src/full_mi/vinfo_CMI_MHsampling.v2.py  --model_str  bert-base-multilingual-cased  --clm_model_str  ./models/mGPT  **--dev_data_file  data/en_pud/en_pud_extv2-ud-test.conllu.tar** \
+ --num_samples  64  --num_tries  2  --num_steps_between_samples  4  --num_burn_in_steps  12  --batch_size_tokens  256  --dir_hdf5  cache/opt-samples/bert-base-multilingual-cased.ai-forever_mGPT \
+ --fn_hdf5  en_pud/en_pud_extv2-ud-test.conllu.tar.qt1.5_upos_fast.sample_64 --gpu_id  0  --flag_use_upos_mask  true  --target_toks  32784 \
+ --q_temperature  1.5  --flag_allow_x_postag  true  --sample_max_seqlen  42  --flag_strip_accent  False  --fn_upos2word  corpus/ud_en_upos2word.json \
+ --left_context_size  15  --right_context_size  15 **--tar_member en_pud_extv2-ud-test.conllu.worker<x>**
+```
+The samples for each subsection will be stored in `./cache/opt-samples/bert-base-multilingual-cased.ai-forever_mGPT/en_pud/en_pud_extv2-ud-test.conllu.qt1.5_upos_fast.sample_64/en_pud_extv2-ud-test.conllu.worker<x>`.
+<x> is an arbitrary number.
+Then, we run the hdf merger to produce a single sample file
+```
+python hdf_merger.py ./cache/opt-samples/bert-base-multilingual-cased.ai-forever_mGPT/en_pud/en_pud_extv2-ud-test.conllu.qt1.5_upos_fast.sample_64
+```
+
+
 ### Estimating the CMI score 
 ```
 python src/full_mi/score_precompute.py \
