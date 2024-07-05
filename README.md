@@ -5,6 +5,24 @@ The experiment pipeline consists of three stages
 3. Decoding a dependency with maximum CMI scores and compute parsing accuracy
 
 ### Preparing the data
+1. Convert the conllu dependency data to our customized format
+```
+python convert-conllu-to-ext.py en_ewt/en_ewt-ud-dev.conllu en_ewt/en_ewt_extv2-ud-test.conllu
+python truncate_n.py en_ewt/en_ewt-ud-dev.conllu en_ewt/en_ewt-ud-dev-w10.conllu 10 word
+```
+Optionally, we can split the data into independent worker file to facilitate multi-gpu sampling
+```
+python pack_corpus_as_tar.py en_ewt/en_ewt_extv2-ud-dev-w10.conllu 8
+```
+
+2. Prepare the POS-word mapping using all data available in the UD v2.11 treebank
+```
+find ud-treebanks-v2.11/UD_English* -name '*.conllu' -exec cat {} \; > en_ewt-full.conllu
+python plain_text-extraction.py en_ewt/en_ewt-ud-full.conllu
+python gather_upos.py en
+```
+
+
 
 ### Collecting condtional samples
 The below command is what we used to collect conditional samples for our multilingual experiment.
