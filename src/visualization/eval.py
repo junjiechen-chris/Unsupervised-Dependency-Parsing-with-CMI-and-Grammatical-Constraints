@@ -4,7 +4,7 @@ from json import load
 import torch
 from torch import nn
 import sys
-sys.path.append('/home/chris/projects/dep_syntax-MI-wisteria')
+sys.path.append('/data/chris/projects/dep_syntax-MI-wisteria')
 from dataclasses import dataclass, field
 from typing import Optional, List, Dict, Union, Type, Set
 import h5py
@@ -50,7 +50,7 @@ class DataArgumentsForVisualization(DataArguments):
     
     mode: str = field(default = "full")
     
-working_dir = '/home/chris/projects/dep_syntax-MI-wisteria'
+working_dir = '/data/chris/projects/dep_syntax-MI-wisteria'
 argparse_args = [
     "--dataset", "en_ewt",
     "--section", "test-w10",
@@ -349,7 +349,7 @@ def parsing_accuracy(h5, measurement, h5_retrival_fn, flag_relax_assert = False,
 
 # %%
 if data_args.mode == "full":
-    parsing_accuracy( h5, 'energy-delta', partial(fmi_bost_0_rows_fn, heuristic_value=0.5, flag_bias_mode = False), flag_relax_assert=False, flag_esiner=False, flag_printRB=data_args.printRB, flag_apply_fn_unheading=True, flag_softmax = False)
+    parsing_accuracy( h5, 'energy-delta', partial(fmi_bost_0_rows_fn, heuristic_value=0.5, flag_bias_mode = False), flag_relax_assert=True, flag_esiner=False, flag_printRB=data_args.printRB, flag_apply_fn_unheading=True, flag_softmax = False)
 elif data_args.mode == "norb":
     parsing_accuracy( h5, 'energy-delta', partial(fmi_bost_0_rows_fn, heuristic_value=1e-7, flag_bias_mode = False), flag_relax_assert=False, flag_esiner=False, flag_printRB=data_args.printRB, flag_apply_fn_unheading=True, flag_softmax = False)
 elif data_args.mode == 'nofnuh':

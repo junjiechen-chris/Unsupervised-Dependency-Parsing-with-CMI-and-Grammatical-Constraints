@@ -4,7 +4,7 @@ import torch
 from torch.nn.utils.rnn import pad_sequence
 from geomloss import SamplesLoss 
 from transformers import BertModel, BertTokenizer, AutoModelForSequenceClassification, AutoModelForCausalLM, AutoTokenizer, AutoModel
-from clm_sampler import VinfoModel, VinfoModelFast
+from clm_sampler import  VinfoModelFast
 import scipy
 from collections import Counter
 import h5py

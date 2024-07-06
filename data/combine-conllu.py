@@ -49,6 +49,7 @@ for group_id in range(len(f_partitions['ud'])):
             # print(aux_groups[pname][line_id][1], gold_group[line_id][1], pname)
             print(aux_groups, gold_group)
             assert aux_groups[pname][line_id][1] == gold_group[line_id][1]
+        print(line_id, HEAD_IDX, gold_group[line_id])
         line_head_idx_set = json.dumps({'ud': gold_group[line_id][HEAD_IDX], **{pname: aux_groups[pname][line_id][HEAD_IDX] for pname in partition_names}})
         gold_group[line_id][HEAD_IDX] = line_head_idx_set
         # for pname in partition_names:

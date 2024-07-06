@@ -311,12 +311,12 @@ def collate_fn_for_nemi_fixz(batch, tokenizer, device):
     
     flag_is_dependency = [d.flag_is_dependency for d in batch][0]    
 
-    if flag_is_dependency:
-        print(samples[:4], shuffled_samples[:4])
-        print(raws_p[0][::4])
-        print(raws_n[0][::4])
-        print(raw_tokens)
-        print('#######', flush=True)
+    # if flag_is_dependency:
+    #     print(samples[:4], shuffled_samples[:4])
+    #     print(raws_p[0][::4])
+    #     print(raws_n[0][::4])
+    #     print(raw_tokens)
+    #     print('#######', flush=True)
     
     
     sid = [d.sid for d in batch][0]
