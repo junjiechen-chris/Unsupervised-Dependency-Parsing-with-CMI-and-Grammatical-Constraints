@@ -45,7 +45,7 @@ python  src/full_mi/vinfo_CMI_MHsampling.v2.py  --model_str  bert-base-multiling
 
 In this command, we run the MTMH sampler using
 - `bert-base-multilingual-cased` model as proposal model. This model will be automatically downloaded from huggingface.
-- `mGPT` model as target model. This model is provided in [Google Drive](https://drive.google.com/file/d/1QfanZEWGCl1iLrva7Lk84DhgGVVEJElw/view?usp=sharing) because changes in mGPT's tokenizer setting breaks the existing code that sets the pad token as `\<eos\>`.
+- `mGPT` model as target model. This model is provided in [Huggingface Repo](https://huggingface.co/datasets/HarpySeal/Language-Model-Based-Unsupervised-Dependency-Parsing-with-CMI-and-GC/tree/main) because changes in mGPT's tokenizer setting breaks the existing code that sets the pad token as `\<eos\>`.
 - `corpus/ud_en_upos2word.json` provides the Part-Of-Speech mask for modifying the model distribution.
 
 We use the word-POS mapping file `data/test/ud_en_ewt_upos2word.json` and the development file `data/test/en_ewt_extv2-ud-dev-w10.conllu`.
